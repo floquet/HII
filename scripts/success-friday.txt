@@ -1,0 +1,837 @@
+Last login: Fri Apr 11 19:29:59 on ttys014
+dantopa@Xiuhcoatl ~ % bash
+Fri Apr 11 21:07:54 MDT 2025, /Users/dantopa/.xiuhcoatl.sh
+Warning: .extras.sh script not found.
+Fri Apr 11 21:07:56 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/master.sh
+
+2025-04-11 21:07:56 - Step 1: shopt -s expand_aliases
+
+2025-04-11 21:07:56 - Step 2: source "${core}/paths.sh"
+Fri Apr 11 21:07:56 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/paths.sh
+$locker = /Users/dantopa//.info/xiuhcoatl ***************************************
+Starting parallel execution of scripts at Fri Apr 11 21:07:56 MDT 2025
+Collector directory: /var/folders/z2/dyld4b113d72phgychy5cs2h0000gn/T/tmp.QDApa4Dl8O
+  Substep 2.1: source "$script"
+  Substep 2.1: source "$script"
+  Substep 2.1: source "$script"
+  Substep 2.1: source "$script"
+  Substep 2.1: source "$script"
+  Substep 2.1: source "$script"
+  Substep 2.1: source "$script"
+  Substep 2.1: source "$script"
+  Substep 2.1: source "$script"
+  Substep 2.1: source "$script"
+  Substep 2.1: source "$script"
+  Substep 2.1: source "$script"
+  Substep 2.1: source "$script"
+  Substep 2.1: source "$script"
+  Substep 2.1: source "$script"
+  Substep 2.1: source "$script"
+  Substep 2.1: source "$script"
+  Substep 2.1: source "$script"
+  Substep 2.1: source "$script"
+  Substep 2.1: source "$script"
+  Substep 2.1: source "$script"
+  Substep 2.1: source "$script"
+Waiting for all background processes to complete...
+  Substep 2.1: source "$script"
+Fri Apr 11 21:07:56 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/gcc.sh
+Fri Apr 11 21:07:56 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/vim.sh
+Fri Apr 11 21:07:56 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/ssh.sh
+Fri Apr 11 21:07:56 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/git.sh
+Fri Apr 11 21:07:56 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/alias.sh
+Fri Apr 11 21:07:56 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/bash.sh
+Fri Apr 11 21:07:56 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/make.sh
+Fri Apr 11 21:07:56 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/grep.sh
+Fri Apr 11 21:07:56 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/finds.sh
+Fri Apr 11 21:07:56 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/cmake.sh
+Fri Apr 11 21:07:56 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/alias.sh
+Fri Apr 11 21:07:56 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/python.sh
+Fri Apr 11 21:07:56 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/docker.sh
+Fri Apr 11 21:07:56 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/alias-navigation.sh
+Fri Apr 11 21:07:56 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/disk.sh
+Fri Apr 11 21:07:56 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/uname.sh
+/Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/uname.sh: line 5: write_standard_header: command not found
+Fri Apr 11 21:07:56 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/spack.sh
+Fri Apr 11 21:07:56 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/lstopo.sh
+Skipping generation: /Users/dantopa//.info/xiuhcoatl/lstopo.ascii already exists. Use --force to overwrite.
+Skipping additional output: /Users/dantopa//.info/xiuhcoatl/lstopo-v.txt already exists.
+Generating additional output: /Users/dantopa//.info/xiuhcoatl/lstopo.pdf
+Fri Apr 11 21:07:56 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/c.sh
+Fri Apr 11 21:07:56 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/fortran.sh
+Fri Apr 11 21:07:56 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/bookmarks.sh
+Fri Apr 11 21:07:56 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/modules.sh
+/Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/modules.sh: line 12: write_standard_header: command not found
+/Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/modules.sh: line 17: write_standard_header: command not found
+Fri Apr 11 21:07:56 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/macports.sh
+Skipping additional output: /Users/dantopa//.info/xiuhcoatl/lstopo-p.txt already exists.
+Generating additional output: /Users/dantopa//.info/xiuhcoatl/lstopo.png
+Fri Apr 11 21:07:57 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/bookmarks-bitbucket.sh
+lstopo script completed.
+Fri Apr 11 21:07:57 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/bookmarks-github.sh
+All background processes have completed at Fri Apr 11 21:07:57 MDT 2025.
+bash: /var/folders/z2/dyld4b113d72phgychy5cs2h0000gn/T/tmp.QDApa4Dl8O/spack.sh.collector: line 31: syntax error near unexpected token `('
+bash: /var/folders/z2/dyld4b113d72phgychy5cs2h0000gn/T/tmp.QDApa4Dl8O/spack.sh.collector: line 31: `gospack () '
+Fri Apr 11 21:07:57 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/projects-fortran.sh
+Fri Apr 11 21:07:57 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/logs.sh
+Logs directory created at /Users/dantopa//logs
+Fri Apr 11 21:07:57 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/copy-configuration.sh
+threads completed for copy-configuration.sh write to /Users/dantopa//repos-xiuhcoatl/bitbucket/mac-configurations/Macmini8,1-(xiuhcoatl)/darwin-24.4.0/Sequoia-15.4/Xiuhcoatl ...
+${PWD} = /Users/dantopa/repos-xiuhcoatl/bitbucket/mac-configurations
+git add -A . 
+fatal: not a git repository (or any of the parent directories): .git
+git commit -m 'xiuhcoatl native Sequoia-15.4 2025-04-11 21:07'
+fatal: not a git repository (or any of the parent directories): .git
+/Users/dantopa/repos-xiuhcoatl/bitbucket/mac-configurations
+to push configuration to repo, use alias gomac
+Fri Apr 11 21:07:57 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/prompt.sh
+Fri Apr 11 21:07:57 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/environment.sh
+bash: /Users/dantopa//.info/xiuhcoatl: Is a directory
+bash: /Users/dantopa//.info/xiuhcoatl: Is a directory
+bash: /Users/dantopa//.info/xiuhcoatl: Is a directory
+bash: /Users/dantopa//.info/xiuhcoatl: Is a directory
+bash: /Users/dantopa//.info/xiuhcoatl: Is a directory
+bash: /Users/dantopa//.info/xiuhcoatl: Is a directory
+bash: /Users/dantopa//.info/xiuhcoatl: Is a directory
+Fri Apr 11 21:07:57 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/snapshot.sh
+Environment variables saved to /Users/dantopa//.info/xiuhcoatl/environment-variables.txt
+Alias settings saved to /Users/dantopa//.info/xiuhcoatl/alias-settings.txt
+Shell functions saved to /Users/dantopa//.info/xiuhcoatl/shell-functions.txt
+Snapshot completed. Files saved in /Users/dantopa//.info/xiuhcoatl.
+No duplicate entries in PATH.
+Unique PATH entries (in order):
+/opt/local/bin:/opt/local/sbin:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin:/Library/TeX/texbin:/opt/podman/bin:
+===>  user account = dantopa
+===>  ${SHELL} = /bin/zsh
+===>  GNU bash, version 5.2.37(1)-release (x86_64-apple-darwin24.2.0)
+Copyright (C) 2022 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>
+
+This is free software; you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.
+===>  gcc --version: gcc (MacPorts gcc14 14.2.0_3+stdlib_flag) 14.2.0
+Copyright (C) 2024 Free Software Foundation, Inc.
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+
+Total elapsed time: 00:01 (MM:SS)
+Warning: /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/xiuhcoatl}.sh not found.
+Fri Apr 11 21:07:57 MDT 2025, /Users/dantopa//.platform-specific.sh
+Fri Apr 11 21:07:57 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/apple.sh
+macOS Sequoia 15.4, Darwin 24.4.0
+platform-specific.sh loaded successfully.
+Copied /Users/dantopa/.xiuhcoatl.sh to /Users/dantopa//.info/xiuhcoatl
+dantopa@Xiuhcoatl:dantopa $ docker run -it  -v /Users/dantopa:/dantopa ubuntu:25.04
+root@a6c97691f34c:/# mkdir -p apt-get/log; cd apt-get/ ; apt-get update ; apt-get install -y vim
+Get:1 http://archive.ubuntu.com/ubuntu plucky InRelease [265 kB]
+Get:2 http://security.ubuntu.com/ubuntu plucky-security InRelease [126 kB]
+Get:3 http://archive.ubuntu.com/ubuntu plucky-updates InRelease [126 kB]
+Get:4 http://archive.ubuntu.com/ubuntu plucky-backports InRelease [126 kB]
+Get:5 http://archive.ubuntu.com/ubuntu plucky/restricted amd64 Packages [69.8 kB]
+Get:6 http://archive.ubuntu.com/ubuntu plucky/universe amd64 Packages [20.3 MB]
+Get:7 http://archive.ubuntu.com/ubuntu plucky/multiverse amd64 Packages [322 kB]
+Get:8 http://archive.ubuntu.com/ubuntu plucky/main amd64 Packages [1864 kB]
+Fetched 23.2 MB in 5s (4843 kB/s)                         
+Reading package lists... Done
+Reading package lists... Done
+Building dependency tree... Done
+Reading state information... Done
+The following additional packages will be installed:
+  libexpat1 libffi8 libgpm2 libpython3.13 libpython3.13-minimal libpython3.13-stdlib libreadline8t64 libsodium23 libsqlite3-0
+  media-types netbase readline-common tzdata vim-common vim-runtime xxd
+Suggested packages:
+  gpm readline-doc ctags vim-doc vim-scripts
+The following NEW packages will be installed:
+  libexpat1 libffi8 libgpm2 libpython3.13 libpython3.13-minimal libpython3.13-stdlib libreadline8t64 libsodium23 libsqlite3-0
+  media-types netbase readline-common tzdata vim vim-common vim-runtime xxd
+0 upgraded, 17 newly installed, 0 to remove and 9 not upgraded.
+Need to get 17.1 MB of archives.
+After this operation, 73.5 MB of additional disk space will be used.
+Get:1 http://archive.ubuntu.com/ubuntu plucky/main amd64 libexpat1 amd64 2.7.1-1 [96.7 kB]
+Get:2 http://archive.ubuntu.com/ubuntu plucky/main amd64 libffi8 amd64 3.4.7-1 [26.2 kB]
+Get:3 http://archive.ubuntu.com/ubuntu plucky/main amd64 readline-common all 8.2-6 [56.5 kB]
+Get:4 http://archive.ubuntu.com/ubuntu plucky/main amd64 libreadline8t64 amd64 8.2-6 [162 kB]
+Get:5 http://archive.ubuntu.com/ubuntu plucky/main amd64 libsqlite3-0 amd64 3.46.1-2 [715 kB]
+Get:6 http://archive.ubuntu.com/ubuntu plucky/main amd64 media-types all 13.0.0 [29.9 kB]
+Get:7 http://archive.ubuntu.com/ubuntu plucky/main amd64 netbase all 6.4 [13.1 kB]
+Get:8 http://archive.ubuntu.com/ubuntu plucky/main amd64 tzdata all 2025b-1ubuntu1 [198 kB]
+Get:9 http://archive.ubuntu.com/ubuntu plucky/main amd64 vim-common all 2:9.1.0967-1ubuntu4 [397 kB]
+Get:10 http://archive.ubuntu.com/ubuntu plucky/main amd64 xxd amd64 2:9.1.0967-1ubuntu4 [68.5 kB]
+Get:11 http://archive.ubuntu.com/ubuntu plucky/main amd64 libgpm2 amd64 1.20.7-11 [14.1 kB]
+Get:12 http://archive.ubuntu.com/ubuntu plucky/main amd64 libpython3.13-minimal amd64 3.13.3-1 [884 kB]
+Get:13 http://archive.ubuntu.com/ubuntu plucky/main amd64 libpython3.13-stdlib amd64 3.13.3-1 [2071 kB]
+Get:14 http://archive.ubuntu.com/ubuntu plucky/main amd64 libpython3.13 amd64 3.13.3-1 [2342 kB]
+Get:15 http://archive.ubuntu.com/ubuntu plucky/main amd64 libsodium23 amd64 1.0.18-1build3 [161 kB]
+Get:16 http://archive.ubuntu.com/ubuntu plucky/main amd64 vim-runtime all 2:9.1.0967-1ubuntu4 [7513 kB]
+Get:17 http://archive.ubuntu.com/ubuntu plucky/main amd64 vim amd64 2:9.1.0967-1ubuntu4 [2374 kB]
+Fetched 17.1 MB in 3s (6035 kB/s)
+debconf: unable to initialize frontend: Dialog
+debconf: (No usable dialog-like program is installed, so the dialog based frontend cannot be used. at /usr/share/perl5/Debconf/FrontEnd/Dialog.pm line 79, <STDIN> line 17.)
+debconf: falling back to frontend: Readline
+debconf: unable to initialize frontend: Readline
+debconf: (Can't locate Term/ReadLine.pm in @INC (you may need to install the Term::ReadLine module) (@INC entries checked: /etc/perl /usr/local/lib/x86_64-linux-gnu/perl/5.40.1 /usr/local/share/perl/5.40.1 /usr/lib/x86_64-linux-gnu/perl5/5.40 /usr/share/perl5 /usr/lib/x86_64-linux-gnu/perl-base /usr/lib/x86_64-linux-gnu/perl/5.40 /usr/share/perl/5.40 /usr/local/lib/site_perl) at /usr/share/perl5/Debconf/FrontEnd/Readline.pm line 8, <STDIN> line 17.)
+debconf: falling back to frontend: Teletype
+Preconfiguring packages ...
+Configuring tzdata
+------------------
+
+Please select the geographic area in which you live. Subsequent configuration questions will narrow this down by presenting a list of
+cities, representing the time zones in which they are located.
+
+  1. Africa   3. Antarctica  5. Asia      7. Australia  9. Indian    11. Etc
+  2. America  4. Arctic      6. Atlantic  8. Europe     10. Pacific
+Geographic area: 2
+
+Please select the city or region corresponding to your time zone.
+
+  1. Adak                     33. Cancun         65. Guyana                97. Metlakatla               129. Resolute
+  2. Anchorage                34. Caracas        66. Halifax               98. Mexico_City              130. Rio_Branco
+  3. Anguilla                 35. Cayenne        67. Havana                99. Miquelon                 131. Santa_Isabel
+  4. Antigua                  36. Cayman         68. Hermosillo            100. Moncton                 132. Santarem
+  5. Araguaina                37. Chicago        69. Indiana/Indianapolis  101. Monterrey               133. Santiago
+  6. Argentina/Buenos_Aires   38. Chihuahua      70. Indiana/Knox          102. Montevideo              134. Santo_Domingo
+  7. Argentina/Catamarca      39. Ciudad_Juarez  71. Indiana/Marengo       103. Montreal                135. Sao_Paulo
+  8. Argentina/Cordoba        40. Coral_Harbour  72. Indiana/Petersburg    104. Montserrat              136. Scoresbysund
+  9. Argentina/Jujuy          41. Costa_Rica     73. Indiana/Tell_City     105. Nassau                  137. Shiprock
+  10. Argentina/La_Rioja      42. Coyhaique      74. Indiana/Vevay         106. New_York                138. Sitka
+  11. Argentina/Mendoza       43. Creston        75. Indiana/Vincennes     107. Nipigon                 139. St_Barthelemy
+  12. Argentina/Rio_Gallegos  44. Cuiaba         76. Indiana/Winamac       108. Nome                    140. St_Johns
+  13. Argentina/Salta         45. Curacao        77. Inuvik                109. Noronha                 141. St_Kitts
+  14. Argentina/San_Juan      46. Danmarkshavn   78. Iqaluit               110. North_Dakota/Beulah     142. St_Lucia
+  15. Argentina/San_Luis      47. Dawson         79. Jamaica               111. North_Dakota/Center     143. St_Thomas
+  16. Argentina/Tucuman       48. Dawson_Creek   80. Juneau                112. North_Dakota/New_Salem  144. St_Vincent
+  17. Argentina/Ushuaia       49. Denver         81. Kentucky/Louisville   113. Nuuk                    145. Swift_Current
+  18. Aruba                   50. Detroit        82. Kentucky/Monticello   114. Ojinaga                 146. Tegucigalpa
+  19. Asuncion                51. Dominica       83. Kralendijk            115. Panama                  147. Thule
+  20. Atikokan                52. Edmonton       84. La_Paz                116. Pangnirtung             148. Thunder_Bay
+  21. Atka                    53. Eirunepe       85. Lima                  117. Paramaribo              149. Tijuana
+  22. Bahia                   54. El_Salvador    86. Los_Angeles           118. Phoenix                 150. Toronto
+  23. Bahia_Banderas          55. Ensenada       87. Lower_Princes         119. Port-au-Prince          151. Tortola
+  24. Barbados                56. Fort_Nelson    88. Maceio                120. Port_of_Spain           152. Vancouver
+  25. Belem                   57. Fortaleza      89. Managua               121. Porto_Acre              153. Virgin
+  26. Belize                  58. Glace_Bay      90. Manaus                122. Porto_Velho             154. Whitehorse
+  27. Blanc-Sablon            59. Goose_Bay      91. Marigot               123. Puerto_Rico             155. Winnipeg
+  28. Boa_Vista               60. Grand_Turk     92. Martinique            124. Punta_Arenas            156. Yakutat
+  29. Bogota                  61. Grenada        93. Matamoros             125. Rainy_River             157. Yellowknife
+  30. Boise                   62. Guadeloupe     94. Mazatlan              126. Rankin_Inlet
+  31. Cambridge_Bay           63. Guatemala      95. Menominee             127. Recife
+  32. Campo_Grande            64. Guayaquil      96. Merida                128. Regina
+Time zone: 39
+
+Selecting previously unselected package libexpat1:amd64.
+(Reading database ... 4258 files and directories currently installed.)
+Preparing to unpack .../00-libexpat1_2.7.1-1_amd64.deb ...
+Unpacking libexpat1:amd64 (2.7.1-1) ...
+Selecting previously unselected package libffi8:amd64.
+Preparing to unpack .../01-libffi8_3.4.7-1_amd64.deb ...
+Unpacking libffi8:amd64 (3.4.7-1) ...
+Selecting previously unselected package readline-common.
+Preparing to unpack .../02-readline-common_8.2-6_all.deb ...
+Unpacking readline-common (8.2-6) ...
+Selecting previously unselected package libreadline8t64:amd64.
+Preparing to unpack .../03-libreadline8t64_8.2-6_amd64.deb ...
+Adding 'diversion of /lib/x86_64-linux-gnu/libhistory.so.8 to /lib/x86_64-linux-gnu/libhistory.so.8.usr-is-merged by libreadline8t64'
+Adding 'diversion of /lib/x86_64-linux-gnu/libhistory.so.8.2 to /lib/x86_64-linux-gnu/libhistory.so.8.2.usr-is-merged by libreadline8t64'
+Adding 'diversion of /lib/x86_64-linux-gnu/libreadline.so.8 to /lib/x86_64-linux-gnu/libreadline.so.8.usr-is-merged by libreadline8t64'
+Adding 'diversion of /lib/x86_64-linux-gnu/libreadline.so.8.2 to /lib/x86_64-linux-gnu/libreadline.so.8.2.usr-is-merged by libreadline8t64'
+Unpacking libreadline8t64:amd64 (8.2-6) ...
+Selecting previously unselected package libsqlite3-0:amd64.
+Preparing to unpack .../04-libsqlite3-0_3.46.1-2_amd64.deb ...
+Unpacking libsqlite3-0:amd64 (3.46.1-2) ...
+Selecting previously unselected package media-types.
+Preparing to unpack .../05-media-types_13.0.0_all.deb ...
+Unpacking media-types (13.0.0) ...
+Selecting previously unselected package netbase.
+Preparing to unpack .../06-netbase_6.4_all.deb ...
+Unpacking netbase (6.4) ...
+Selecting previously unselected package tzdata.
+Preparing to unpack .../07-tzdata_2025b-1ubuntu1_all.deb ...
+Unpacking tzdata (2025b-1ubuntu1) ...
+Selecting previously unselected package vim-common.
+Preparing to unpack .../08-vim-common_2%3a9.1.0967-1ubuntu4_all.deb ...
+Unpacking vim-common (2:9.1.0967-1ubuntu4) ...
+Selecting previously unselected package xxd.
+Preparing to unpack .../09-xxd_2%3a9.1.0967-1ubuntu4_amd64.deb ...
+Unpacking xxd (2:9.1.0967-1ubuntu4) ...
+Selecting previously unselected package libgpm2:amd64.
+Preparing to unpack .../10-libgpm2_1.20.7-11_amd64.deb ...
+Unpacking libgpm2:amd64 (1.20.7-11) ...
+Selecting previously unselected package libpython3.13-minimal:amd64.
+Preparing to unpack .../11-libpython3.13-minimal_3.13.3-1_amd64.deb ...
+Unpacking libpython3.13-minimal:amd64 (3.13.3-1) ...
+Selecting previously unselected package libpython3.13-stdlib:amd64.
+Preparing to unpack .../12-libpython3.13-stdlib_3.13.3-1_amd64.deb ...
+Unpacking libpython3.13-stdlib:amd64 (3.13.3-1) ...
+Selecting previously unselected package libpython3.13:amd64.
+Preparing to unpack .../13-libpython3.13_3.13.3-1_amd64.deb ...
+Unpacking libpython3.13:amd64 (3.13.3-1) ...
+Selecting previously unselected package libsodium23:amd64.
+Preparing to unpack .../14-libsodium23_1.0.18-1build3_amd64.deb ...
+Unpacking libsodium23:amd64 (1.0.18-1build3) ...
+Selecting previously unselected package vim-runtime.
+Preparing to unpack .../15-vim-runtime_2%3a9.1.0967-1ubuntu4_all.deb ...
+Adding 'diversion of /usr/share/vim/vim91/doc/help.txt to /usr/share/vim/vim91/doc/help.txt.vim-tiny by vim-runtime'
+Adding 'diversion of /usr/share/vim/vim91/doc/tags to /usr/share/vim/vim91/doc/tags.vim-tiny by vim-runtime'
+Unpacking vim-runtime (2:9.1.0967-1ubuntu4) ...
+Selecting previously unselected package vim.
+Preparing to unpack .../16-vim_2%3a9.1.0967-1ubuntu4_amd64.deb ...
+Unpacking vim (2:9.1.0967-1ubuntu4) ...
+Setting up libexpat1:amd64 (2.7.1-1) ...
+Setting up media-types (13.0.0) ...
+Setting up libsodium23:amd64 (1.0.18-1build3) ...
+Setting up libgpm2:amd64 (1.20.7-11) ...
+Setting up libsqlite3-0:amd64 (3.46.1-2) ...
+Setting up xxd (2:9.1.0967-1ubuntu4) ...
+Setting up tzdata (2025b-1ubuntu1) ...
+debconf: unable to initialize frontend: Dialog
+debconf: (No usable dialog-like program is installed, so the dialog based frontend cannot be used. at /usr/share/perl5/Debconf/FrontEnd/Dialog.pm line 79.)
+debconf: falling back to frontend: Readline
+debconf: unable to initialize frontend: Readline
+debconf: (Can't locate Term/ReadLine.pm in @INC (you may need to install the Term::ReadLine module) (@INC entries checked: /etc/perl /usr/local/lib/x86_64-linux-gnu/perl/5.40.1 /usr/local/share/perl/5.40.1 /usr/lib/x86_64-linux-gnu/perl5/5.40 /usr/share/perl5 /usr/lib/x86_64-linux-gnu/perl-base /usr/lib/x86_64-linux-gnu/perl/5.40 /usr/share/perl/5.40 /usr/local/lib/site_perl) at /usr/share/perl5/Debconf/FrontEnd/Readline.pm line 8.)
+debconf: falling back to frontend: Teletype
+
+Current default time zone: 'America/Ciudad_Juarez'
+Local time is now:      Fri Apr 11 21:10:18 MDT 2025.
+Universal Time is now:  Sat Apr 12 03:10:18 UTC 2025.
+Run 'dpkg-reconfigure tzdata' if you wish to change it.
+
+Setting up libpython3.13-minimal:amd64 (3.13.3-1) ...
+Setting up vim-common (2:9.1.0967-1ubuntu4) ...
+Setting up libffi8:amd64 (3.4.7-1) ...
+Setting up netbase (6.4) ...
+Setting up vim-runtime (2:9.1.0967-1ubuntu4) ...
+Setting up readline-common (8.2-6) ...
+Setting up libreadline8t64:amd64 (8.2-6) ...
+Setting up libpython3.13-stdlib:amd64 (3.13.3-1) ...
+Setting up libpython3.13:amd64 (3.13.3-1) ...
+Setting up vim (2:9.1.0967-1ubuntu4) ...
+update-alternatives: using /usr/bin/vim.basic to provide /usr/bin/editor (editor) in auto mode
+update-alternatives: warning: skip creation of /usr/share/man/man1/editor.1.gz because associated file /usr/share/man/man1/vim.1.gz (of link group editor) doesn't exist
+update-alternatives: warning: skip creation of /usr/share/man/da/man1/editor.1.gz because associated file /usr/share/man/da/man1/vim.1.gz (of link group editor) doesn't exist
+update-alternatives: warning: skip creation of /usr/share/man/de/man1/editor.1.gz because associated file /usr/share/man/de/man1/vim.1.gz (of link group editor) doesn't exist
+update-alternatives: warning: skip creation of /usr/share/man/fr/man1/editor.1.gz because associated file /usr/share/man/fr/man1/vim.1.gz (of link group editor) doesn't exist
+update-alternatives: warning: skip creation of /usr/share/man/it/man1/editor.1.gz because associated file /usr/share/man/it/man1/vim.1.gz (of link group editor) doesn't exist
+update-alternatives: warning: skip creation of /usr/share/man/ja/man1/editor.1.gz because associated file /usr/share/man/ja/man1/vim.1.gz (of link group editor) doesn't exist
+update-alternatives: warning: skip creation of /usr/share/man/pl/man1/editor.1.gz because associated file /usr/share/man/pl/man1/vim.1.gz (of link group editor) doesn't exist
+update-alternatives: warning: skip creation of /usr/share/man/ru/man1/editor.1.gz because associated file /usr/share/man/ru/man1/vim.1.gz (of link group editor) doesn't exist
+update-alternatives: warning: skip creation of /usr/share/man/tr/man1/editor.1.gz because associated file /usr/share/man/tr/man1/vim.1.gz (of link group editor) doesn't exist
+update-alternatives: using /usr/bin/vim.basic to provide /usr/bin/ex (ex) in auto mode
+update-alternatives: warning: skip creation of /usr/share/man/man1/ex.1.gz because associated file /usr/share/man/man1/vim.1.gz (of link group ex) doesn't exist
+update-alternatives: warning: skip creation of /usr/share/man/da/man1/ex.1.gz because associated file /usr/share/man/da/man1/vim.1.gz (of link group ex) doesn't exist
+update-alternatives: warning: skip creation of /usr/share/man/de/man1/ex.1.gz because associated file /usr/share/man/de/man1/vim.1.gz (of link group ex) doesn't exist
+update-alternatives: warning: skip creation of /usr/share/man/fr/man1/ex.1.gz because associated file /usr/share/man/fr/man1/vim.1.gz (of link group ex) doesn't exist
+update-alternatives: warning: skip creation of /usr/share/man/it/man1/ex.1.gz because associated file /usr/share/man/it/man1/vim.1.gz (of link group ex) doesn't exist
+update-alternatives: warning: skip creation of /usr/share/man/ja/man1/ex.1.gz because associated file /usr/share/man/ja/man1/vim.1.gz (of link group ex) doesn't exist
+update-alternatives: warning: skip creation of /usr/share/man/pl/man1/ex.1.gz because associated file /usr/share/man/pl/man1/vim.1.gz (of link group ex) doesn't exist
+update-alternatives: warning: skip creation of /usr/share/man/ru/man1/ex.1.gz because associated file /usr/share/man/ru/man1/vim.1.gz (of link group ex) doesn't exist
+update-alternatives: warning: skip creation of /usr/share/man/tr/man1/ex.1.gz because associated file /usr/share/man/tr/man1/vim.1.gz (of link group ex) doesn't exist
+update-alternatives: using /usr/bin/vim.basic to provide /usr/bin/rview (rview) in auto mode
+update-alternatives: using /usr/bin/vim.basic to provide /usr/bin/rvim (rvim) in auto mode
+update-alternatives: using /usr/bin/vim.basic to provide /usr/bin/vi (vi) in auto mode
+update-alternatives: warning: skip creation of /usr/share/man/man1/vi.1.gz because associated file /usr/share/man/man1/vim.1.gz (of link group vi) doesn't exist
+update-alternatives: warning: skip creation of /usr/share/man/da/man1/vi.1.gz because associated file /usr/share/man/da/man1/vim.1.gz (of link group vi) doesn't exist
+update-alternatives: warning: skip creation of /usr/share/man/de/man1/vi.1.gz because associated file /usr/share/man/de/man1/vim.1.gz (of link group vi) doesn't exist
+update-alternatives: warning: skip creation of /usr/share/man/fr/man1/vi.1.gz because associated file /usr/share/man/fr/man1/vim.1.gz (of link group vi) doesn't exist
+update-alternatives: warning: skip creation of /usr/share/man/it/man1/vi.1.gz because associated file /usr/share/man/it/man1/vim.1.gz (of link group vi) doesn't exist
+update-alternatives: warning: skip creation of /usr/share/man/ja/man1/vi.1.gz because associated file /usr/share/man/ja/man1/vim.1.gz (of link group vi) doesn't exist
+update-alternatives: warning: skip creation of /usr/share/man/pl/man1/vi.1.gz because associated file /usr/share/man/pl/man1/vim.1.gz (of link group vi) doesn't exist
+update-alternatives: warning: skip creation of /usr/share/man/ru/man1/vi.1.gz because associated file /usr/share/man/ru/man1/vim.1.gz (of link group vi) doesn't exist
+update-alternatives: warning: skip creation of /usr/share/man/tr/man1/vi.1.gz because associated file /usr/share/man/tr/man1/vim.1.gz (of link group vi) doesn't exist
+update-alternatives: using /usr/bin/vim.basic to provide /usr/bin/view (view) in auto mode
+update-alternatives: warning: skip creation of /usr/share/man/man1/view.1.gz because associated file /usr/share/man/man1/vim.1.gz (of link group view) doesn't exist
+update-alternatives: warning: skip creation of /usr/share/man/da/man1/view.1.gz because associated file /usr/share/man/da/man1/vim.1.gz (of link group view) doesn't exist
+update-alternatives: warning: skip creation of /usr/share/man/de/man1/view.1.gz because associated file /usr/share/man/de/man1/vim.1.gz (of link group view) doesn't exist
+update-alternatives: warning: skip creation of /usr/share/man/fr/man1/view.1.gz because associated file /usr/share/man/fr/man1/vim.1.gz (of link group view) doesn't exist
+update-alternatives: warning: skip creation of /usr/share/man/it/man1/view.1.gz because associated file /usr/share/man/it/man1/vim.1.gz (of link group view) doesn't exist
+update-alternatives: warning: skip creation of /usr/share/man/ja/man1/view.1.gz because associated file /usr/share/man/ja/man1/vim.1.gz (of link group view) doesn't exist
+update-alternatives: warning: skip creation of /usr/share/man/pl/man1/view.1.gz because associated file /usr/share/man/pl/man1/vim.1.gz (of link group view) doesn't exist
+update-alternatives: warning: skip creation of /usr/share/man/ru/man1/view.1.gz because associated file /usr/share/man/ru/man1/vim.1.gz (of link group view) doesn't exist
+update-alternatives: warning: skip creation of /usr/share/man/tr/man1/view.1.gz because associated file /usr/share/man/tr/man1/vim.1.gz (of link group view) doesn't exist
+update-alternatives: using /usr/bin/vim.basic to provide /usr/bin/vim (vim) in auto mode
+update-alternatives: using /usr/bin/vim.basic to provide /usr/bin/vimdiff (vimdiff) in auto mode
+Processing triggers for libc-bin (2.41-6ubuntu1) ...
+root@a6c97691f34c:/apt-get# cp /dantopa/repos-xiuhcoatl/github/hii/scripts/ubuntu-build-03.sh .
+root@a6c97691f34c:/apt-get# chmod +x ubuntu-build-03.sh
+root@a6c97691f34c:/apt-get# ls
+log  ubuntu-build-03.sh
+root@a6c97691f34c:/apt-get# ls -alh
+total 24K
+drwxr-xr-x 3 root root 4.0K Apr 11 21:10 .
+drwxr-xr-x 1 root root 4.0K Apr 11 21:09 ..
+drwxr-xr-x 2 root root 4.0K Apr 11 21:09 log
+-rwxr-xr-x 1 root root  11K Apr 11 21:10 ubuntu-build-03.sh
+root@a6c97691f34c:/apt-get# ./ubuntu-build-03.sh 
+Fri Apr 11 21:12:59 MDT 2025 ./ubuntu-build-03.sh
+
+Step 1: Creating pass/fail logging
+
+  Substep 1.1: Creating log files
+
+  Substep 1.2: Setting up logging variables
+
+Step 2: System Update and Upgrade
+
+  Substep 2.1: Running apt-get update
+
+  Substep 2.2: Running apt-get upgrade
+
+Step 3: Setting Timezone to Albuquerque
+./ubuntu-build-03.sh: line 226: timedatectl: command not found
+
+Step 4: Creating user john.beighle
+
+  Substep 4.1: Adding user with sudo privileges
+
+Step 5: Installing via apt-get
+
+  Substep 5.1: Installing build-essential
+
+  Substep 5.2: Installing gcc
+
+  Substep 5.3: Installing g++
+
+  Substep 5.4: Installing gfortran
+
+  Substep 5.5: Installing clang
+
+  Substep 5.6: Installing flang
+
+  Substep 5.7: Installing pkg-config
+
+  Substep 5.8: Installing pkgconf
+
+  Substep 5.9: Installing binutils
+
+  Substep 5.10: Installing cmake
+
+  Substep 5.11: Installing cmake-curses-gui
+
+  Substep 5.12: Installing cmake-qt-gui
+
+  Substep 5.13: Installing cmake-doc
+
+  Substep 5.14: Installing cmake-data
+
+  Substep 5.15: Installing ninja-build
+
+  Substep 5.16: Installing open-coarrays-bin
+Failed to install open-coarrays-bin - check ./log/open-coarrays-bin.log for details
+
+  Substep 5.17: Installing libcoarrays-dev
+
+  Substep 5.18: Installing gfortran
+
+  Substep 5.19: Installing chapel
+Failed to install chapel - check ./log/chapel.log for details
+
+  Substep 5.20: Installing chapel-doc
+Failed to install chapel-doc - check ./log/chapel-doc.log for details
+
+  Substep 5.21: Installing libupcxx-dev
+Failed to install libupcxx-dev - check ./log/libupcxx-dev.log for details
+
+  Substep 5.22: Installing libhpx-dev
+Failed to install libhpx-dev - check ./log/libhpx-dev.log for details
+
+  Substep 5.23: Installing libhpx-plugins-dev
+Failed to install libhpx-plugins-dev - check ./log/libhpx-plugins-dev.log for details
+
+  Substep 5.24: Installing charm++
+
+  Substep 5.25: Installing libopenmpi-dev
+
+  Substep 5.26: Installing libmpich-dev
+
+  Substep 5.27: Installing libomp-dev
+
+  Substep 5.28: Installing libopenacc-dev
+Failed to install libopenacc-dev - check ./log/libopenacc-dev.log for details
+
+  Substep 5.29: Installing libkokkos-dev
+
+  Substep 5.30: Installing libthrust-dev
+
+  Substep 5.31: Installing libtbb-dev
+
+  Substep 5.32: Installing julia
+Failed to install julia - check ./log/julia.log for details
+
+  Substep 5.33: Installing julia-doc
+Failed to install julia-doc - check ./log/julia-doc.log for details
+
+  Substep 5.34: Installing julia-common
+Failed to install julia-common - check ./log/julia-common.log for details
+
+  Substep 5.35: Installing libjulia-dev
+Failed to install libjulia-dev - check ./log/libjulia-dev.log for details
+
+  Substep 5.36: Installing octave
+
+  Substep 5.37: Installing octave-control
+
+  Substep 5.38: Installing octave-signal
+
+  Substep 5.39: Installing octave-statistics
+
+  Substep 5.40: Installing octave-image
+
+  Substep 5.41: Installing octave-io
+
+  Substep 5.42: Installing octave-optim
+
+  Substep 5.43: Installing octave-symbolic
+
+  Substep 5.44: Installing octave-linear-algebra
+
+  Substep 5.45: Installing octave-parallel
+
+  Substep 5.46: Installing octave-communications
+
+  Substep 5.47: Installing octave-financial
+
+  Substep 5.48: Installing octave-data-smoothing
+
+  Substep 5.49: Installing octave-database
+Failed to install octave-database - check ./log/octave-database.log for details
+
+  Substep 5.50: Installing octave-doc
+
+  Substep 5.51: Installing octave-general
+
+  Substep 5.52: Installing octave-geometry
+
+  Substep 5.53: Installing octave-miscellaneous
+
+  Substep 5.54: Installing octave-nan
+
+  Substep 5.55: Installing octave-nurbs
+
+  Substep 5.56: Installing octave-ocs
+Failed to install octave-ocs - check ./log/octave-ocs.log for details
+
+  Substep 5.57: Installing octave-odepkg
+Failed to install octave-odepkg - check ./log/octave-odepkg.log for details
+
+  Substep 5.58: Installing octave-optiminterp
+
+  Substep 5.59: Installing octave-specfun
+Failed to install octave-specfun - check ./log/octave-specfun.log for details
+
+  Substep 5.60: Installing octave-strings
+
+  Substep 5.61: Installing octave-struct
+
+  Substep 5.62: Installing golang-go
+
+  Substep 5.63: Installing cargo
+
+  Substep 5.64: Installing rustc
+
+  Substep 5.65: Installing rust-src
+
+  Substep 5.66: Installing rust-doc
+
+  Substep 5.67: Installing rust-gdb
+
+  Substep 5.68: Installing rust-lldb
+
+  Substep 5.69: Installing zig
+Failed to install zig - check ./log/zig.log for details
+
+  Substep 5.70: Installing paraview
+
+  Substep 5.71: Installing paraview-dev
+
+  Substep 5.72: Installing paraview-python
+Failed to install paraview-python - check ./log/paraview-python.log for details
+
+  Substep 5.73: Installing gdb
+
+  Substep 5.74: Installing lldb
+
+  Substep 5.75: Installing valgrind
+
+  Substep 5.76: Installing strace
+
+  Substep 5.77: Installing ltrace
+
+  Substep 5.78: Installing perf
+Failed to install perf - check ./log/perf.log for details
+
+  Substep 5.79: Installing systemtap
+
+  Substep 5.80: Installing oprofile
+
+  Substep 5.81: Installing htop
+
+  Substep 5.82: Installing iotop
+
+  Substep 5.83: Installing iftop
+
+  Substep 5.84: Installing dstat
+
+  Substep 5.85: Installing bpfcc-tools
+
+  Substep 5.86: Installing iperf3
+Start Iperf3 as a daemon automatically? [yes/no] yes
+
+  Substep 5.87: Installing libpapi-dev
+
+  Substep 5.88: Installing papi-tools
+
+  Substep 5.89: Installing pdtoolkit
+Failed to install pdtoolkit - check ./log/pdtoolkit.log for details
+
+  Substep 5.90: Installing likwid
+
+  Substep 5.91: Installing scorep
+Failed to install scorep - check ./log/scorep.log for details
+
+  Substep 5.92: Installing otf2-tools
+
+  Substep 5.93: Installing extrae
+Failed to install extrae - check ./log/extrae.log for details
+
+  Substep 5.94: Installing paraver
+Failed to install paraver - check ./log/paraver.log for details
+
+  Substep 5.95: Installing nmap
+
+  Substep 5.96: Installing net-tools
+
+  Substep 5.97: Installing tcpdump
+
+  Substep 5.98: Installing wireshark
+Should non-superusers be able to capture packets? [yes/no] yes
+
+  Substep 5.99: Installing curl
+
+  Substep 5.100: Installing wget
+
+  Substep 5.101: Installing traceroute
+
+  Substep 5.102: Installing git
+
+  Substep 5.103: Installing python3
+
+  Substep 5.104: Installing python3-pip
+
+  Substep 5.105: Installing cdf
+Failed to install cdf - check ./log/cdf.log for details
+
+  Substep 5.106: Installing dialog
+
+  Substep 5.107: Installing dos2unix
+
+  Substep 5.108: Installing fio
+
+  Substep 5.109: Installing gedit
+
+  Substep 5.110: Installing intltool
+
+  Substep 5.111: Installing lshw
+
+  Substep 5.112: Installing lsof
+
+  Substep 5.113: Installing ncurses
+Failed to install ncurses - check ./log/ncurses.log for details
+
+  Substep 5.114: Installing pbcopy
+Failed to install pbcopy - check ./log/pbcopy.log for details
+
+  Substep 5.115: Installing lsb-core
+Failed to install lsb-core - check ./log/lsb-core.log for details
+
+  Substep 5.116: Installing rsync
+
+  Substep 5.117: Installing ssh
+
+  Substep 5.118: Installing time
+
+  Substep 5.119: Installing tree
+
+  Substep 5.120: Installing nvim
+Failed to install nvim - check ./log/nvim.log for details
+
+  Substep 5.121: Installing vim
+
+  Substep 5.122: Installing vtop
+Failed to install vtop - check ./log/vtop.log for details
+
+  Substep 5.123: Installing xclip
+
+  Substep 5.124: Installing xsel
+
+  Substep 5.125: Installing zip
+
+  Substep 5.126: Installing llvm
+
+  Substep 5.127: Installing llvm-dev
+
+  Substep 5.128: Installing clang
+
+  Substep 5.129: Installing clang-tools
+
+  Substep 5.130: Installing clang-format
+
+  Substep 5.131: Installing flang
+
+  Substep 5.132: Installing mlir
+Failed to install mlir - check ./log/mlir.log for details
+
+  Substep 5.133: Installing lld
+
+  Substep 5.134: Installing libomp-dev
+
+  Substep 5.135: Installing libclang-dev
+
+  Substep 5.136: Installing libmlir-dev
+Failed to install libmlir-dev - check ./log/libmlir-dev.log for details
+
+  Substep 5.137: Installing libllvm-dev
+Failed to install libllvm-dev - check ./log/libllvm-dev.log for details
+
+Step 6: Adding latest LLVM repository
+
+  Substep 6.1: wget https://apt.llvm.org/llvm-snapshot.gpg.key
+--2025-04-11 21:48:17--  https://apt.llvm.org/llvm-snapshot.gpg.key
+Resolving apt.llvm.org (apt.llvm.org)... 199.232.66.49, 2a04:4e42:50::561
+Connecting to apt.llvm.org (apt.llvm.org)|199.232.66.49|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 3145 (3.1K) [application/octet-stream]
+Saving to: 'llvm-snapshot.gpg.key'
+
+llvm-snapshot.gpg.key             100%[============================================================>]   3.07K  --.-KB/s    in 0.003s  
+
+2025-04-11 21:48:17 (1.02 MB/s) - 'llvm-snapshot.gpg.key' saved [3145/3145]
+
+
+  Substep 6.2: gpg --dearmor llvm-snapshot.gpg.key
+
+  Substep 6.3: mv llvm-snapshot.gpg.key.gpg /etc/apt/trusted.gpg.d/llvm-snapshot.gpg
+
+  Substep 6.4: echo ... >> /etc/apt/sources.list.d/llvm.list
+
+  Substep 6.5: apt-get update (again)
+./ubuntu-build-03.sh: line 255: ./apt-get/update.log: No such file or directory
+
+Step 7: Switching to spack
+
+  Substep 7.1: Cloning Spack as user john.beighle
+Cloning into '/home/john.beighle/spack'...
+remote: Enumerating objects: 638644, done.
+remote: Counting objects: 100% (1406/1406), done.
+remote: Compressing objects: 100% (675/675), done.
+remote: Total 638644 (delta 1054), reused 765 (delta 704), pack-reused 637238 (from 3)
+Receiving objects: 100% (638644/638644), 214.54 MiB | 10.70 MiB/s, done.
+Resolving deltas: 100% (304063/304063), done.
+Updating files: 100% (12256/12256), done.
+
+  Substep 7.2: Creating spack log directory
+
+  Substep 7.3: cd /home/john.beighle
+
+  Substep 7.4: initialize spack
+
+  Substep 7.5: spack compiler find
+tee: /root/spack/log/compiler_find.log: No such file or directory
+==> Added 2 new compilers to /root/.spack/packages.yaml
+    llvm@20.1.2
+    gcc@14.2.0
+==> Compilers are defined in the following files:
+    /root/.spack/packages.yaml
+
+  Substep 7.6: Installing base Python tools
+tee: /root/spack/log/py-astropy.log: No such file or directory
+==> Fetching https://ghcr.io/v2/spack/bootstrap-buildcache-v1/blobs/sha256:9ac106d746fc9830acbb2e6b135a5c1748482df8fe115bee2deb1ed02e5189c4
+==> Fetching https://ghcr.io/v2/spack/bootstrap-buildcache-v1/blobs/sha256:6599ac06ade0cb3e80695f36492ea94a306f8bde0537482521510076c5981aa0
+==> Installing "clingo-bootstrap@=spack~docs+ipo+optimized+python+static_libstdcpp build_system=cmake build_type=Release generator=make patches:=bebb819,ec99431 arch=linux-centos7-x86_64" from a buildcache
+[+] /usr (external gcc-14.2.0-sstuqbrffdehqgejjxjodrmpuqeb66oa)
+[+] /usr (external glibc-2.41-kp67ltbjermatvsf2tcx52smwoo6hnl2)
+==> Installing compiler-wrapper-1.0-mxysqaqyks2dkya6kugkvf7yhsnmxgco [3/76]
+==> No binary for compiler-wrapper-1.0-mxysqaqyks2dkya6kugkvf7yhsnmxgco found: installing from source
+==> Fetching file:////home/john.beighle/spack/var/spack/repos/builtin/packages/compiler-wrapper/cc.sh
+==> No patches needed for compiler-wrapper
+==> compiler-wrapper: Executing phase: 'install'
+==> compiler-wrapper: Successfully installed compiler-wrapper-1.0-mxysqaqyks2dkya6kugkvf7yhsnmxgco
+  Stage: 0.34s.  Install: 0.01s.  Post-install: 0.02s.  Total: 0.41s
+[+] /home/john.beighle/spack/opt/spack/linux-skylake/compiler-wrapper-1.0-mxysqaqyks2dkya6kugkvf7yhsnmxgco
+==> Installing ca-certificates-mozilla-2025-02-25-2xtqcruiphrj53sdu4qxzeqjaqaum3qn [4/76]
+==> No binary for ca-certificates-mozilla-2025-02-25-2xtqcruiphrj53sdu4qxzeqjaqaum3qn found: installing from source
+==> Fetching https://mirror.spack.io/_source-cache/archive/50/50a6277ec69113f00c5fd45f09e8b97a4b3e32daa35d3a95ab30137a55386cef
+==> No patches needed for ca-certificates-mozilla
+==> ca-certificates-mozilla: Executing phase: 'install'
+==> ca-certificates-mozilla: Successfully installed ca-certificates-mozilla-2025-02-25-2xtqcruiphrj53sdu4qxzeqjaqaum3qn
+  Stage: 0.33s.  Install: 0.00s.  Post-install: 0.01s.  Total: 0.39s
+[+] /home/john.beighle/spack/opt/spack/linux-skylake/ca-certificates-mozilla-2025-02-25-2xtqcruiphrj53sdu4qxzeqjaqaum3qn
+==> Installing gcc-runtime-14.2.0-qrarc2jgy2nqp2znzx57cxkjh5yc3fol [5/76]
+==> No binary for gcc-runtime-14.2.0-qrarc2jgy2nqp2znzx57cxkjh5yc3fol found: installing from source
+==> No patches needed for gcc-runtime
+==> gcc-runtime: Executing phase: 'install'
+==> gcc-runtime: Successfully installed gcc-runtime-14.2.0-qrarc2jgy2nqp2znzx57cxkjh5yc3fol
+  Stage: 0.00s.  Install: 0.21s.  Post-install: 0.08s.  Total: 0.34s
+[+] /home/john.beighle/spack/opt/spack/linux-skylake/gcc-runtime-14.2.0-qrarc2jgy2nqp2znzx57cxkjh5yc3fol
+==> Installing gmake-4.4.1-et762f4bnkwwjsab2vzcfq2htnj456n6 [6/76]
+==> No binary for gmake-4.4.1-et762f4bnkwwjsab2vzcfq2htnj456n6 found: installing from source
+==> Warning: /home/john.beighle/spack/lib/spack/spack/builder.py:192: PrependPath SPACK_COMPILER_WRAPPER_PATH=/home/john.beighle/spack/opt/spack/linux-skylake/compiler-wrapper-1.0-mxysqaqyks2dkya6kugkvf7yhsnmxgco/libexec/spack: using a non-string value PosixPath is deprecated and will be an error in Spack v1.0
+==> Warning: /home/john.beighle/spack/lib/spack/spack/builder.py:192: PrependPath SPACK_COMPILER_WRAPPER_PATH=/home/john.beighle/spack/opt/spack/linux-skylake/compiler-wrapper-1.0-mxysqaqyks2dkya6kugkvf7yhsnmxgco/libexec/spack/case-insensitive: using a non-string value PosixPath is deprecated and will be an error in Spack v1.0
+==> Warning: /home/john.beighle/spack/lib/spack/spack/builder.py:192: PrependPath SPACK_COMPILER_WRAPPER_PATH=/home/john.beighle/spack/opt/spack/linux-skylake/compiler-wrapper-1.0-mxysqaqyks2dkya6kugkvf7yhsnmxgco/libexec/spack/gcc: using a non-string value PosixPath is deprecated and will be an error in Spack v1.0
+==> Fetching https://mirror.spack.io/_source-cache/archive/dd/dd16fb1d67bfab79a72f5e8390735c49e3e8e70b4945a15ab1f81ddb78658fb3.tar.gz
+==> No patches needed for gmake
+==> gmake: Executing phase: 'install'
+==> gmake: Successfully installed gmake-4.4.1-et762f4bnkwwjsab2vzcfq2htnj456n6
+  Stage: 0.56s.  Install: 23.23s.  Post-install: 0.02s.  Total: 23.87s
+[+] /home/john.beighle/spack/opt/spack/linux-skylake/gmake-4.4.1-et762f4bnkwwjsab2vzcfq2htnj456n6
+==> Installing libiconv-1.17-uee64e6hackylhpw27ap74vk6zhrwumc [7/76]
+==> No binary for libiconv-1.17-uee64e6hackylhpw27ap74vk6zhrwumc found: installing from source
+==> Warning: /home/john.beighle/spack/lib/spack/spack/builder.py:192: PrependPath SPACK_COMPILER_WRAPPER_PATH=/home/john.beighle/spack/opt/spack/linux-skylake/compiler-wrapper-1.0-mxysqaqyks2dkya6kugkvf7yhsnmxgco/libexec/spack: using a non-string value PosixPath is deprecated and will be an error in Spack v1.0
+==> Warning: /home/john.beighle/spack/lib/spack/spack/builder.py:192: PrependPath SPACK_COMPILER_WRAPPER_PATH=/home/john.beighle/spack/opt/spack/linux-skylake/compiler-wrapper-1.0-mxysqaqyks2dkya6kugkvf7yhsnmxgco/libexec/spack/case-insensitive: using a non-string value PosixPath is deprecated and will be an error in Spack v1.0
+==> Warning: /home/john.beighle/spack/lib/spack/spack/builder.py:192: PrependPath SPACK_COMPILER_WRAPPER_PATH=/home/john.beighle/spack/opt/spack/linux-skylake/compiler-wrapper-1.0-mxysqaqyks2dkya6kugkvf7yhsnmxgco/libexec/spack/gcc: using a non-string value PosixPath is deprecated and will be an error in Spack v1.0
+==> Fetching https://mirror.spack.io/_source-cache/archive/8f/8f74213b56238c85a50a5329f77e06198771e70dd9a739779f4c02f65d971313.tar.gz
+==> No patches needed for libiconv
+==> libiconv: Executing phase: 'autoreconf'
+==> libiconv: Executing phase: 'configure'
+==> libiconv: Executing phase: 'build'
+==> libiconv: Executing phase: 'install'
+==> libiconv: Successfully installed libiconv-1.17-uee64e6hackylhpw27ap74vk6zhrwumc
+  Stage: 1.03s.  Autoreconf: 0.00s.  Configure: 22.85s.  Build: 19.77s.  Install: 1.32s.  Post-install: 0.10s.  Total: 45.26s
+[+] /home/john.beighle/spack/opt/spack/linux-skylake/libiconv-1.17-uee64e6hackylhpw27ap74vk6zhrwumc
+==> Installing libffi-3.4.7-5jvmn7qyxns5kwt3lrzpgf66q6ibsqom [8/76]
+==> No binary for libffi-3.4.7-5jvmn7qyxns5kwt3lrzpgf66q6ibsqom found: installing from source
+==> Warning: /home/john.beighle/spack/lib/spack/spack/builder.py:192: PrependPath SPACK_COMPILER_WRAPPER_PATH=/home/john.beighle/spack/opt/spack/linux-skylake/compiler-wrapper-1.0-mxysqaqyks2dkya6kugkvf7yhsnmxgco/libexec/spack: using a non-string value PosixPath is deprecated and will be an error in Spack v1.0
+==> Warning: /home/john.beighle/spack/lib/spack/spack/builder.py:192: PrependPath SPACK_COMPILER_WRAPPER_PATH=/home/john.beighle/spack/opt/spack/linux-skylake/compiler-wrapper-1.0-mxysqaqyks2dkya6kugkvf7yhsnmxgco/libexec/spack/case-insensitive: using a non-string value PosixPath is deprecated and will be an error in Spack v1.0
+==> Warning: /home/john.beighle/spack/lib/spack/spack/builder.py:192: PrependPath SPACK_COMPILER_WRAPPER_PATH=/home/john.beighle/spack/opt/spack/linux-skylake/compiler-wrapper-1.0-mxysqaqyks2dkya6kugkvf7yhsnmxgco/libexec/spack/gcc: using a non-string value PosixPath is deprecated and will be an error in Spack v1.0
+==> Fetching https://github.com/libffi/libffi/releases/download/v3.4.7/libffi-3.4.7.tar.gz
+==> No patches needed for libffi
+==> libffi: Executing phase: 'autoreconf'
+==> libffi: Executing phase: 'configure'
+==> libffi: Executing phase: 'build'
+==> libffi: Executing phase: 'install'
+==> libffi: Successfully installed libffi-3.4.7-5jvmn7qyxns5kwt3lrzpgf66q6ibsqom
+  Stage: 1.68s.  Autoreconf: 0.00s.  Configure: 9.06s.  Build: 2.98s.  Install: 0.55s.  Post-install: 0.04s.  Total: 14.50s
+[+] /home/john.beighle/spack/opt/spack/linux-skylake/libffi-3.4.7-5jvmn7qyxns5kwt3lrzpgf66q6ibsqom
+==> Installing openblas-0.3.29-inlurza6n7qfpplcaz6fgyalcsipjjvk [9/76]
+==> No binary for openblas-0.3.29-inlurza6n7qfpplcaz6fgyalcsipjjvk found: installing from source
+==> Warning: /home/john.beighle/spack/lib/spack/spack/builder.py:192: PrependPath SPACK_COMPILER_WRAPPER_PATH=/home/john.beighle/spack/opt/spack/linux-skylake/compiler-wrapper-1.0-mxysqaqyks2dkya6kugkvf7yhsnmxgco/libexec/spack: using a non-string value PosixPath is deprecated and will be an error in Spack v1.0
+==> Warning: /home/john.beighle/spack/lib/spack/spack/builder.py:192: PrependPath SPACK_COMPILER_WRAPPER_PATH=/home/john.beighle/spack/opt/spack/linux-skylake/compiler-wrapper-1.0-mxysqaqyks2dkya6kugkvf7yhsnmxgco/libexec/spack/case-insensitive: using a non-string value PosixPath is deprecated and will be an error in Spack v1.0
+==> Warning: /home/john.beighle/spack/lib/spack/spack/builder.py:192: PrependPath SPACK_COMPILER_WRAPPER_PATH=/home/john.beighle/spack/opt/spack/linux-skylake/compiler-wrapper-1.0-mxysqaqyks2dkya6kugkvf7yhsnmxgco/libexec/spack/gcc: using a non-string value PosixPath is deprecated and will be an error in Spack v1.0
+==> Fetching https://mirror.spack.io/_source-cache/archive/38/38240eee1b29e2bde47ebb5d61160207dc68668a54cac62c076bb5032013b1eb.tar.gz
+==> No patches needed for openblas
+==> openblas: Executing phase: 'edit'
+==> openblas: Executing phase: 'build'
+==> openblas: Executing phase: 'install'
+==> openblas: Successfully installed openblas-0.3.29-inlurza6n7qfpplcaz6fgyalcsipjjvk
+  Stage: 4.22s.  Edit: 0.00s.  Build: 15m 42.05s.  Install: 6.59s.  Post-install: 0.20s.  Total: 15m 53.21s
+[+] /home/john.beighle/spack/opt/spack/linux-skylake/openblas-0.3.29-inlurza6n7qfpplcaz6fgyalcsipjjvk
+==> Installing berkeley-db-18.1.40-7ecc54j4dav5tx4pr4klg4hiq5lkn2xf [10/76]
+==> No binary for berkeley-db-18.1.40-7ecc54j4dav5tx4pr4klg4hiq5lkn2xf found: installing from source
+==> Warning: /home/john.beighle/spack/lib/spack/spack/builder.py:192: PrependPath SPACK_COMPILER_WRAPPER_PATH=/home/john.beighle/spack/opt/spack/linux-skylake/compiler-wrapper-1.0-mxysqaqyks2dkya6kugkvf7yhsnmxgco/libexec/spack: using a non-string value PosixPath is deprecated and will be an error in Spack v1.0
+==> Warning: /home/john.beighle/spack/lib/spack/spack/builder.py:192: PrependPath SPACK_COMPILER_WRAPPER_PATH=/home/john.beighle/spack/opt/spack/linux-skylake/compiler-wrapper-1.0-mxysqaqyks2dkya6kugkvf7yhsnmxgco/libexec/spack/case-insensitive: using a non-string value PosixPath is deprecated and will be an error in Spack v1.0
+==> Warning: /home/john.beighle/spack/lib/spack/spack/builder.py:192: PrependPath SPACK_COMPILER_WRAPPER_PATH=/home/john.beighle/spack/opt/spack/linux-skylake/compiler-wrapper-1.0-mxysqaqyks2dkya6kugkvf7yhsnmxgco/libexec/spack/gcc: using a non-string value PosixPath is deprecated and will be an error in Spack v1.0
+==> Fetching https://mirror.spack.io/_source-cache/archive/0c/0cecb2ef0c67b166de93732769abdeba0555086d51de1090df325e18ee8da9c8.tar.gz
+==> Applied patch /home/john.beighle/spack/var/spack/repos/builtin/packages/berkeley-db/drop-docs.patch
+==> Applied patch /home/john.beighle/spack/var/spack/repos/builtin/packages/berkeley-db/tls.patch
+==> Ran patch() for berkeley-db
+==> berkeley-db: Executing phase: 'autoreconf'
+==> berkeley-db: Executing phase: 'configure'
+

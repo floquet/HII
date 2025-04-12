@@ -1,0 +1,542 @@
+Last login: Wed Apr  9 16:21:10 on ttys006
+bash
+dantopa@Xiuhcoatl ~ % bash
+Wed Apr  9 16:49:21 MDT 2025, /Users/dantopa/.xiuhcoatl.sh
+Warning: .extras.sh script not found.
+Wed Apr  9 16:49:22 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/master.sh
+
+2025-04-09 16:49:22 - Step 1: shopt -s expand_aliases
+
+2025-04-09 16:49:22 - Step 2: source "${core}/paths.sh"
+Wed Apr  9 16:49:22 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/paths.sh
+$locker = /Users/dantopa//.info/xiuhcoatl ***************************************
+Starting parallel execution of scripts at Wed Apr  9 16:49:22 MDT 2025
+Collector directory: /var/folders/z2/dyld4b113d72phgychy5cs2h0000gn/T/tmp.w1U2zuZz4P
+  Substep 2.1: source "$script"
+  Substep 2.1: source "$script"
+  Substep 2.1: source "$script"
+  Substep 2.1: source "$script"
+  Substep 2.1: source "$script"
+  Substep 2.1: source "$script"
+  Substep 2.1: source "$script"
+  Substep 2.1: source "$script"
+  Substep 2.1: source "$script"
+  Substep 2.1: source "$script"
+  Substep 2.1: source "$script"
+  Substep 2.1: source "$script"
+  Substep 2.1: source "$script"
+  Substep 2.1: source "$script"
+  Substep 2.1: source "$script"
+  Substep 2.1: source "$script"
+  Substep 2.1: source "$script"
+  Substep 2.1: source "$script"
+  Substep 2.1: source "$script"
+  Substep 2.1: source "$script"
+  Substep 2.1: source "$script"
+  Substep 2.1: source "$script"
+Waiting for all background processes to complete...
+  Substep 2.1: source "$script"
+Wed Apr  9 16:49:22 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/alias.sh
+Wed Apr  9 16:49:22 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/ssh.sh
+Wed Apr  9 16:49:22 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/bash.sh
+Wed Apr  9 16:49:22 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/gcc.sh
+Wed Apr  9 16:49:22 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/vim.sh
+Wed Apr  9 16:49:22 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/git.sh
+Wed Apr  9 16:49:22 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/grep.sh
+Wed Apr  9 16:49:22 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/make.sh
+Wed Apr  9 16:49:22 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/finds.sh
+Wed Apr  9 16:49:22 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/alias.sh
+Wed Apr  9 16:49:22 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/cmake.sh
+Wed Apr  9 16:49:22 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/python.sh
+Wed Apr  9 16:49:22 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/docker.sh
+Wed Apr  9 16:49:22 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/alias-navigation.sh
+Wed Apr  9 16:49:22 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/uname.sh
+/Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/uname.sh: line 5: write_standard_header: command not found
+Wed Apr  9 16:49:22 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/disk.sh
+Wed Apr  9 16:49:22 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/spack.sh
+Wed Apr  9 16:49:22 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/lstopo.sh
+Wed Apr  9 16:49:22 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/c.sh
+Skipping generation: /Users/dantopa//.info/xiuhcoatl/lstopo.ascii already exists. Use --force to overwrite.
+Skipping additional output: /Users/dantopa//.info/xiuhcoatl/lstopo-v.txt already exists.
+Generating additional output: /Users/dantopa//.info/xiuhcoatl/lstopo.pdf
+Wed Apr  9 16:49:22 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/fortran.sh
+Wed Apr  9 16:49:22 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/modules.sh
+/Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/modules.sh: line 12: write_standard_header: command not found
+/Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/modules.sh: line 17: write_standard_header: command not found
+Wed Apr  9 16:49:22 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/bookmarks.sh
+Wed Apr  9 16:49:22 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/macports.sh
+Wed Apr  9 16:49:22 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/bookmarks-bitbucket.sh
+Skipping additional output: /Users/dantopa//.info/xiuhcoatl/lstopo-p.txt already exists.
+Generating additional output: /Users/dantopa//.info/xiuhcoatl/lstopo.png
+lstopo script completed.
+Wed Apr  9 16:49:22 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/bookmarks-github.sh
+All background processes have completed at Wed Apr  9 16:49:22 MDT 2025.
+bash: /var/folders/z2/dyld4b113d72phgychy5cs2h0000gn/T/tmp.w1U2zuZz4P/spack.sh.collector: line 31: syntax error near unexpected token `('
+bash: /var/folders/z2/dyld4b113d72phgychy5cs2h0000gn/T/tmp.w1U2zuZz4P/spack.sh.collector: line 31: `gospack () '
+Wed Apr  9 16:49:22 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/projects-fortran.sh
+Wed Apr  9 16:49:22 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/logs.sh
+Logs directory created at /Users/dantopa//logs
+Wed Apr  9 16:49:22 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/copy-configuration.sh
+threads completed for copy-configuration.sh write to /Users/dantopa//repos-xiuhcoatl/bitbucket/mac-configurations/Macmini8,1-(xiuhcoatl)/darwin-24.4.0/Sequoia-15.4/Xiuhcoatl ...
+${PWD} = /Users/dantopa/repos-xiuhcoatl/bitbucket/mac-configurations
+git add -A . 
+fatal: not a git repository (or any of the parent directories): .git
+git commit -m 'xiuhcoatl native Sequoia-15.4 2025-04-09 16:49'
+fatal: not a git repository (or any of the parent directories): .git
+/Users/dantopa/repos-xiuhcoatl/bitbucket/mac-configurations
+to push configuration to repo, use alias gomac
+Wed Apr  9 16:49:22 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/prompt.sh
+Wed Apr  9 16:49:22 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/environment.sh
+bash: /Users/dantopa//.info/xiuhcoatl: Is a directory
+bash: /Users/dantopa//.info/xiuhcoatl: Is a directory
+bash: /Users/dantopa//.info/xiuhcoatl: Is a directory
+bash: /Users/dantopa//.info/xiuhcoatl: Is a directory
+bash: /Users/dantopa//.info/xiuhcoatl: Is a directory
+bash: /Users/dantopa//.info/xiuhcoatl: Is a directory
+bash: /Users/dantopa//.info/xiuhcoatl: Is a directory
+Wed Apr  9 16:49:22 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/snapshot.sh
+Environment variables saved to /Users/dantopa//.info/xiuhcoatl/environment-variables.txt
+Alias settings saved to /Users/dantopa//.info/xiuhcoatl/alias-settings.txt
+Shell functions saved to /Users/dantopa//.info/xiuhcoatl/shell-functions.txt
+Snapshot completed. Files saved in /Users/dantopa//.info/xiuhcoatl.
+No duplicate entries in PATH.
+Unique PATH entries (in order):
+/opt/local/bin:/opt/local/sbin:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin:/Library/TeX/texbin:/opt/podman/bin:
+===>  user account = dantopa
+===>  ${SHELL} = /bin/zsh
+===>  GNU bash, version 5.2.37(1)-release (x86_64-apple-darwin24.2.0)
+Copyright (C) 2022 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>
+
+This is free software; you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.
+===>  gcc --version: gcc (MacPorts gcc14 14.2.0_3+stdlib_flag) 14.2.0
+Copyright (C) 2024 Free Software Foundation, Inc.
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+
+Total elapsed time: 00:01 (MM:SS)
+Warning: /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/xiuhcoatl}.sh not found.
+Wed Apr  9 16:49:23 MDT 2025, /Users/dantopa//.platform-specific.sh
+Wed Apr  9 16:49:23 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/apple.sh
+macOS Sequoia 15.4, Darwin 24.4.0
+platform-specific.sh loaded successfully.
+Copied /Users/dantopa/.xiuhcoatl.sh to /Users/dantopa//.info/xiuhcoatl
+dantopa@Xiuhcoatl:dantopa $ docker info | grep "Docker Root Dir"
+WARNING: daemon is not using the default seccomp profile
+ Docker Root Dir: /var/lib/docker
+dantopa@Xiuhcoatl:dantopa $ docker system df
+TYPE            TOTAL     ACTIVE    SIZE      RECLAIMABLE
+Images          3         0         29.29GB   29.29GB (100%)
+Containers      0         0         0B        0B
+Local Volumes   0         0         0B        0B
+Build Cache     0         0         0B        0B
+dantopa@Xiuhcoatl:dantopa $ Ninja
+Ninja Agent
+/coder
+
+Based on your output, Docker is storing its data in /var/lib/docker on your Linux system. This is the default location.
+
+I also notice there's a warning about the daemon not using the default seccomp profile. This is a security-related warning - seccomp (secure computing mode) is a Linux kernel feature that restricts the system calls a container can make to the host system. If you're running in a development environment this might not be critical, but in a production environment you might want to investigate why it's not using the default profile.
+
+Inside /var/lib/docker, you'll find several subdirectories:
+
+    overlay2/ - where the actual image layers and containers are stored
+    containers/ - container configuration files
+    image/ - image metadata
+    volumes/ - named volumes data
+
+You can check the space usage in this directory with:
+
+bash
+
+sudo du -sh /var/lib/docker/*
+ninja: error: loading 'build.ninja': No such file or directory
+ninja: error: loading 'build.ninja': No such file or directory
+bash: /coder: No such file or directory
+bash: Based: command not found
+bash: I: command not found
+bash: overlay2/: No such file or directory
+bash: containers/: No such file or directory
+bash: image/: No such file or directory
+bash: volumes/: No such file or directory
+bash: You: command not found
+Wed Apr  9 16:59:08 MDT 2025, /Users/dantopa//.xiuhcoatl.sh
+Wed Apr  9 16:59:08 MDT 2025, /Users/dantopa//.platform-specific.sh
+Wed Apr  9 16:59:08 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/apple.sh
+bash: write_standard_header: command not found
+macOS Sequoia 15.4, Darwin 24.4.0
+platform-specific.sh loaded successfully.
+Wed Apr  9 16:59:09 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/master.sh
+
+2025-04-09 16:59:09 - Step 1: shopt -s expand_aliases
+
+2025-04-09 16:59:09 - Step 2: source "${core}/paths.sh"
+Wed Apr  9 16:59:09 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/paths.sh
+$locker = /Users/dantopa//.info/xiuhcoatl ***************************************
+Starting parallel execution of scripts at Wed Apr  9 16:59:09 MDT 2025
+Collector directory: /var/folders/z2/dyld4b113d72phgychy5cs2h0000gn/T/tmp.MqX1TUORKp
+  Substep 2.1: source "$script"
+  Substep 2.1: source "$script"
+  Substep 2.1: source "$script"
+  Substep 2.1: source "$script"
+  Substep 2.1: source "$script"
+  Substep 2.1: source "$script"
+  Substep 2.1: source "$script"
+  Substep 2.1: source "$script"
+  Substep 2.1: source "$script"
+  Substep 2.1: source "$script"
+  Substep 2.1: source "$script"
+  Substep 2.1: source "$script"
+  Substep 2.1: source "$script"
+  Substep 2.1: source "$script"
+  Substep 2.1: source "$script"
+  Substep 2.1: source "$script"
+  Substep 2.1: source "$script"
+  Substep 2.1: source "$script"
+  Substep 2.1: source "$script"
+  Substep 2.1: source "$script"
+  Substep 2.1: source "$script"
+  Substep 2.1: source "$script"
+Waiting for all background processes to complete...
+  Substep 2.1: source "$script"
+Wed Apr  9 16:59:09 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/gcc.sh
+Wed Apr  9 16:59:09 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/git.sh
+Wed Apr  9 16:59:09 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/vim.sh
+Wed Apr  9 16:59:09 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/ssh.sh
+Wed Apr  9 16:59:09 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/alias.sh
+Wed Apr  9 16:59:09 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/bash.sh
+Wed Apr  9 16:59:09 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/finds.sh
+Wed Apr  9 16:59:09 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/make.sh
+Wed Apr  9 16:59:09 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/grep.sh
+Wed Apr  9 16:59:09 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/cmake.sh
+Wed Apr  9 16:59:09 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/alias.sh
+Wed Apr  9 16:59:09 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/python.sh
+Wed Apr  9 16:59:09 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/alias-navigation.sh
+Wed Apr  9 16:59:09 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/docker.sh
+Wed Apr  9 16:59:09 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/disk.sh
+Wed Apr  9 16:59:09 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/uname.sh
+/Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/uname.sh: line 5: write_standard_header: command not found
+Wed Apr  9 16:59:09 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/spack.sh
+Wed Apr  9 16:59:09 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/lstopo.sh
+Skipping generation: /Users/dantopa//.info/xiuhcoatl/lstopo.ascii already exists. Use --force to overwrite.
+Skipping additional output: /Users/dantopa//.info/xiuhcoatl/lstopo-v.txt already exists.
+Generating additional output: /Users/dantopa//.info/xiuhcoatl/lstopo.pdf
+Wed Apr  9 16:59:09 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/c.sh
+Wed Apr  9 16:59:09 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/fortran.sh
+Wed Apr  9 16:59:09 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/modules.sh
+/Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/modules.sh: line 12: write_standard_header: command not found
+/Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/modules.sh: line 17: write_standard_header: command not found
+Wed Apr  9 16:59:09 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/bookmarks.sh
+Wed Apr  9 16:59:09 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/macports.sh
+Skipping additional output: /Users/dantopa//.info/xiuhcoatl/lstopo-p.txt already exists.
+Generating additional output: /Users/dantopa//.info/xiuhcoatl/lstopo.png
+Wed Apr  9 16:59:09 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/bookmarks-bitbucket.sh
+lstopo script completed.
+Wed Apr  9 16:59:09 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/bookmarks-github.sh
+All background processes have completed at Wed Apr  9 16:59:09 MDT 2025.
+bash: /var/folders/z2/dyld4b113d72phgychy5cs2h0000gn/T/tmp.MqX1TUORKp/spack.sh.collector: line 42: syntax error near unexpected token `('
+bash: /var/folders/z2/dyld4b113d72phgychy5cs2h0000gn/T/tmp.MqX1TUORKp/spack.sh.collector: line 42: `gospack () '
+Wed Apr  9 16:59:09 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/projects-fortran.sh
+Wed Apr  9 16:59:09 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/logs.sh
+Logs directory created at /Users/dantopa//logs
+Wed Apr  9 16:59:09 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/copy-configuration.sh
+threads completed for copy-configuration.sh write to /Users/dantopa//repos-xiuhcoatl/bitbucket/mac-configurations/Macmini8,1-(xiuhcoatl)/darwin-24.4.0/Sequoia-15.4/Xiuhcoatl ...
+${PWD} = /Users/dantopa/repos-xiuhcoatl/bitbucket/mac-configurations
+git add -A . 
+fatal: not a git repository (or any of the parent directories): .git
+git commit -m 'xiuhcoatl native Sequoia-15.4 2025-04-09 16:59'
+fatal: not a git repository (or any of the parent directories): .git
+/Users/dantopa/repos-xiuhcoatl/bitbucket/mac-configurations
+to push configuration to repo, use alias gomac
+Wed Apr  9 16:59:10 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/prompt.sh
+Wed Apr  9 16:59:10 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/environment.sh
+bash: /Users/dantopa//.info/xiuhcoatl: Is a directory
+bash: /Users/dantopa//.info/xiuhcoatl: Is a directory
+bash: /Users/dantopa//.info/xiuhcoatl: Is a directory
+bash: /Users/dantopa//.info/xiuhcoatl: Is a directory
+bash: /Users/dantopa//.info/xiuhcoatl: Is a directory
+bash: /Users/dantopa//.info/xiuhcoatl: Is a directory
+bash: /Users/dantopa//.info/xiuhcoatl: Is a directory
+Wed Apr  9 16:59:10 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/snapshot.sh
+Environment variables saved to /Users/dantopa//.info/xiuhcoatl/environment-variables.txt
+Alias settings saved to /Users/dantopa//.info/xiuhcoatl/alias-settings.txt
+Shell functions saved to /Users/dantopa//.info/xiuhcoatl/shell-functions.txt
+Snapshot completed. Files saved in /Users/dantopa//.info/xiuhcoatl.
+Duplicate entries in PATH:
+/opt/local/bin
+Unique PATH entries (in order):
+/usr/local/krb5/bin:/usr/local/ossh/bin:/opt/local/bin:/opt/local/sbin:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin:/Library/TeX/texbin:/opt/podman/bin:
+===>  user account = dantopa
+===>  ${SHELL} = /bin/zsh
+===>  GNU bash, version 5.2.37(1)-release (x86_64-apple-darwin24.2.0)
+Copyright (C) 2022 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>
+
+This is free software; you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.
+===>  gcc --version: gcc (MacPorts gcc14 14.2.0_3+stdlib_flag) 14.2.0
+Copyright (C) 2024 Free Software Foundation, Inc.
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+
+Total elapsed time: 00:01 (MM:SS)
+Warning: /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/xiuhcoatl}.sh not found.
+Wed Apr  9 16:59:10 MDT 2025, /Users/dantopa//.platform-specific.sh
+Wed Apr  9 16:59:10 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/apple.sh
+macOS Sequoia 15.4, Darwin 24.4.0
+platform-specific.sh loaded successfully.
+Copied /Users/dantopa//.xiuhcoatl.sh to /Users/dantopa//.info/xiuhcoatl
+dantopa@Xiuhcoatl:dantopa $ sudo du -sh /var/lib/docker/*
+Password:
+du: /var/lib/docker/*: No such file or directory
+dantopa@Xiuhcoatl:dantopa $ ls -la /var/lib/docker
+ls: /var/lib/docker: No such file or directory
+dantopa@Xiuhcoatl:dantopa $ docker pull ubuntu:25.04
+25.04: Pulling from library/ubuntu
+54cf94bf6a9e: Download complete 
+Digest: sha256:3fa335765c57a9ef67f62ef33b4411266c576f4dbdd9d5255f5da2ac306e021f
+Status: Downloaded newer image for ubuntu:25.04
+docker.io/library/ubuntu:25.04
+dantopa@Xiuhcoatl:dantopa $ docker run -it ubuntu:25.04 bash
+root@34798eae6e1c:/# ls
+bin  boot  dev  etc  home  lib  lib64  media  mnt  opt  proc  root  run  sbin  srv  sys  tmp  usr  var
+root@34798eae6e1c:/# mkdir topa
+root@34798eae6e1c:/# cd topa
+root@34798eae6e1c:/topa# vim
+bash: vim: command not found
+root@34798eae6e1c:/topa# nano
+bash: nano: command not found
+root@34798eae6e1c:/topa# apt-get update
+Get:1 http://security.ubuntu.com/ubuntu plucky-security InRelease [126 kB]
+Get:2 http://archive.ubuntu.com/ubuntu plucky InRelease [265 kB]
+Get:3 http://archive.ubuntu.com/ubuntu plucky-updates InRelease [126 kB]
+Get:4 http://archive.ubuntu.com/ubuntu plucky-backports InRelease [126 kB]
+Get:5 http://archive.ubuntu.com/ubuntu plucky/multiverse amd64 Packages [322 kB]
+Get:6 http://archive.ubuntu.com/ubuntu plucky/restricted amd64 Packages [69.8 kB]
+Get:7 http://archive.ubuntu.com/ubuntu plucky/universe amd64 Packages [20.3 MB]
+Get:8 http://archive.ubuntu.com/ubuntu plucky/main amd64 Packages [1867 kB]
+Fetched 23.2 MB in 6s (4157 kB/s)                         
+Reading package lists... Done
+root@34798eae6e1c:/topa# apt-get vim
+E: Invalid operation vim
+root@34798eae6e1c:/topa# apt-get install -y vim
+Reading package lists... Done
+Building dependency tree... Done
+Reading state information... Done
+The following additional packages will be installed:
+  libexpat1 libffi8 libgpm2 libpython3.13 libpython3.13-minimal libpython3.13-stdlib libreadline8t64 libsodium23 libsqlite3-0
+  media-types netbase readline-common tzdata vim-common vim-runtime xxd
+Suggested packages:
+  gpm readline-doc ctags vim-doc vim-scripts
+The following NEW packages will be installed:
+  libexpat1 libffi8 libgpm2 libpython3.13 libpython3.13-minimal libpython3.13-stdlib libreadline8t64 libsodium23 libsqlite3-0
+  media-types netbase readline-common tzdata vim vim-common vim-runtime xxd
+0 upgraded, 17 newly installed, 0 to remove and 9 not upgraded.
+Need to get 17.1 MB of archives.
+After this operation, 73.5 MB of additional disk space will be used.
+Get:1 http://archive.ubuntu.com/ubuntu plucky/main amd64 libexpat1 amd64 2.7.1-1 [96.7 kB]
+Get:2 http://archive.ubuntu.com/ubuntu plucky/main amd64 libffi8 amd64 3.4.7-1 [26.2 kB]
+Get:3 http://archive.ubuntu.com/ubuntu plucky/main amd64 readline-common all 8.2-6 [56.5 kB]
+Get:4 http://archive.ubuntu.com/ubuntu plucky/main amd64 libreadline8t64 amd64 8.2-6 [162 kB]
+Get:5 http://archive.ubuntu.com/ubuntu plucky/main amd64 libsqlite3-0 amd64 3.46.1-2 [715 kB]
+Get:6 http://archive.ubuntu.com/ubuntu plucky/main amd64 media-types all 13.0.0 [29.9 kB]
+Get:7 http://archive.ubuntu.com/ubuntu plucky/main amd64 netbase all 6.4 [13.1 kB]
+Get:8 http://archive.ubuntu.com/ubuntu plucky/main amd64 tzdata all 2025b-1ubuntu1 [198 kB]
+Get:9 http://archive.ubuntu.com/ubuntu plucky/main amd64 vim-common all 2:9.1.0967-1ubuntu4 [397 kB]
+Get:10 http://archive.ubuntu.com/ubuntu plucky/main amd64 xxd amd64 2:9.1.0967-1ubuntu4 [68.5 kB]
+Get:11 http://archive.ubuntu.com/ubuntu plucky/main amd64 libgpm2 amd64 1.20.7-11 [14.1 kB]
+Get:12 http://archive.ubuntu.com/ubuntu plucky/main amd64 libpython3.13-minimal amd64 3.13.2-3 [884 kB]
+Get:13 http://archive.ubuntu.com/ubuntu plucky/main amd64 libpython3.13-stdlib amd64 3.13.2-3 [2070 kB]
+Get:14 http://archive.ubuntu.com/ubuntu plucky/main amd64 libpython3.13 amd64 3.13.2-3 [2345 kB]
+Get:15 http://archive.ubuntu.com/ubuntu plucky/main amd64 libsodium23 amd64 1.0.18-1build3 [161 kB]
+Get:16 http://archive.ubuntu.com/ubuntu plucky/main amd64 vim-runtime all 2:9.1.0967-1ubuntu4 [7513 kB]
+Get:17 http://archive.ubuntu.com/ubuntu plucky/main amd64 vim amd64 2:9.1.0967-1ubuntu4 [2374 kB]
+Fetched 17.1 MB in 3s (6315 kB/s)
+debconf: unable to initialize frontend: Dialog
+debconf: (No usable dialog-like program is installed, so the dialog based frontend cannot be used. at /usr/share/perl5/Debconf/FrontEnd/Dialog.pm line 79, <STDIN> line 17.)
+debconf: falling back to frontend: Readline
+debconf: unable to initialize frontend: Readline
+debconf: (Can't locate Term/ReadLine.pm in @INC (you may need to install the Term::ReadLine module) (@INC entries checked: /etc/perl /usr/local/lib/x86_64-linux-gnu/perl/5.40.1 /usr/local/share/perl/5.40.1 /usr/lib/x86_64-linux-gnu/perl5/5.40 /usr/share/perl5 /usr/lib/x86_64-linux-gnu/perl-base /usr/lib/x86_64-linux-gnu/perl/5.40 /usr/share/perl/5.40 /usr/local/lib/site_perl) at /usr/share/perl5/Debconf/FrontEnd/Readline.pm line 8, <STDIN> line 17.)
+debconf: falling back to frontend: Teletype
+Preconfiguring packages ...
+Configuring tzdata
+------------------
+
+Please select the geographic area in which you live. Subsequent configuration questions will narrow this down by presenting a list
+of cities, representing the time zones in which they are located.
+
+  1. Africa   3. Antarctica  5. Asia      7. Australia  9. Indian    11. Etc
+  2. America  4. Arctic      6. Atlantic  8. Europe     10. Pacific
+Geographic area: 2
+
+Please select the city or region corresponding to your time zone.
+
+  1. Adak                     33. Cancun         65. Guyana                97. Metlakatla               129. Resolute
+  2. Anchorage                34. Caracas        66. Halifax               98. Mexico_City              130. Rio_Branco
+  3. Anguilla                 35. Cayenne        67. Havana                99. Miquelon                 131. Santa_Isabel
+  4. Antigua                  36. Cayman         68. Hermosillo            100. Moncton                 132. Santarem
+  5. Araguaina                37. Chicago        69. Indiana/Indianapolis  101. Monterrey               133. Santiago
+  6. Argentina/Buenos_Aires   38. Chihuahua      70. Indiana/Knox          102. Montevideo              134. Santo_Domingo
+  7. Argentina/Catamarca      39. Ciudad_Juarez  71. Indiana/Marengo       103. Montreal                135. Sao_Paulo
+  8. Argentina/Cordoba        40. Coral_Harbour  72. Indiana/Petersburg    104. Montserrat              136. Scoresbysund
+  9. Argentina/Jujuy          41. Costa_Rica     73. Indiana/Tell_City     105. Nassau                  137. Shiprock
+  10. Argentina/La_Rioja      42. Coyhaique      74. Indiana/Vevay         106. New_York                138. Sitka
+  11. Argentina/Mendoza       43. Creston        75. Indiana/Vincennes     107. Nipigon                 139. St_Barthelemy
+  12. Argentina/Rio_Gallegos  44. Cuiaba         76. Indiana/Winamac       108. Nome                    140. St_Johns
+  13. Argentina/Salta         45. Curacao        77. Inuvik                109. Noronha                 141. St_Kitts
+  14. Argentina/San_Juan      46. Danmarkshavn   78. Iqaluit               110. North_Dakota/Beulah     142. St_Lucia
+  15. Argentina/San_Luis      47. Dawson         79. Jamaica               111. North_Dakota/Center     143. St_Thomas
+  16. Argentina/Tucuman       48. Dawson_Creek   80. Juneau                112. North_Dakota/New_Salem  144. St_Vincent
+  17. Argentina/Ushuaia       49. Denver         81. Kentucky/Louisville   113. Nuuk                    145. Swift_Current
+  18. Aruba                   50. Detroit        82. Kentucky/Monticello   114. Ojinaga                 146. Tegucigalpa
+  19. Asuncion                51. Dominica       83. Kralendijk            115. Panama                  147. Thule
+  20. Atikokan                52. Edmonton       84. La_Paz                116. Pangnirtung             148. Thunder_Bay
+  21. Atka                    53. Eirunepe       85. Lima                  117. Paramaribo              149. Tijuana
+  22. Bahia                   54. El_Salvador    86. Los_Angeles           118. Phoenix                 150. Toronto
+  23. Bahia_Banderas          55. Ensenada       87. Lower_Princes         119. Port-au-Prince          151. Tortola
+  24. Barbados                56. Fort_Nelson    88. Maceio                120. Port_of_Spain           152. Vancouver
+  25. Belem                   57. Fortaleza      89. Managua               121. Porto_Acre              153. Virgin
+  26. Belize                  58. Glace_Bay      90. Manaus                122. Porto_Velho             154. Whitehorse
+  27. Blanc-Sablon            59. Goose_Bay      91. Marigot               123. Puerto_Rico             155. Winnipeg
+  28. Boa_Vista               60. Grand_Turk     92. Martinique            124. Punta_Arenas            156. Yakutat
+  29. Bogota                  61. Grenada        93. Matamoros             125. Rainy_River             157. Yellowknife
+  30. Boise                   62. Guadeloupe     94. Mazatlan              126. Rankin_Inlet
+  31. Cambridge_Bay           63. Guatemala      95. Menominee             127. Recife
+  32. Campo_Grande            64. Guayaquil      96. Merida                128. Regina
+Time zone: 49
+
+Selecting previously unselected package libexpat1:amd64.
+(Reading database ... 4258 files and directories currently installed.)
+Preparing to unpack .../00-libexpat1_2.7.1-1_amd64.deb ...
+Unpacking libexpat1:amd64 (2.7.1-1) ...
+Selecting previously unselected package libffi8:amd64.
+Preparing to unpack .../01-libffi8_3.4.7-1_amd64.deb ...
+Unpacking libffi8:amd64 (3.4.7-1) ...
+Selecting previously unselected package readline-common.
+Preparing to unpack .../02-readline-common_8.2-6_all.deb ...
+Unpacking readline-common (8.2-6) ...
+Selecting previously unselected package libreadline8t64:amd64.
+Preparing to unpack .../03-libreadline8t64_8.2-6_amd64.deb ...
+Adding 'diversion of /lib/x86_64-linux-gnu/libhistory.so.8 to /lib/x86_64-linux-gnu/libhistory.so.8.usr-is-merged by libreadline8t64'
+Adding 'diversion of /lib/x86_64-linux-gnu/libhistory.so.8.2 to /lib/x86_64-linux-gnu/libhistory.so.8.2.usr-is-merged by libreadline8t64'
+Adding 'diversion of /lib/x86_64-linux-gnu/libreadline.so.8 to /lib/x86_64-linux-gnu/libreadline.so.8.usr-is-merged by libreadline8t64'
+Adding 'diversion of /lib/x86_64-linux-gnu/libreadline.so.8.2 to /lib/x86_64-linux-gnu/libreadline.so.8.2.usr-is-merged by libreadline8t64'
+Unpacking libreadline8t64:amd64 (8.2-6) ...
+Selecting previously unselected package libsqlite3-0:amd64.
+Preparing to unpack .../04-libsqlite3-0_3.46.1-2_amd64.deb ...
+Unpacking libsqlite3-0:amd64 (3.46.1-2) ...
+Selecting previously unselected package media-types.
+Preparing to unpack .../05-media-types_13.0.0_all.deb ...
+Unpacking media-types (13.0.0) ...
+Selecting previously unselected package netbase.
+Preparing to unpack .../06-netbase_6.4_all.deb ...
+Unpacking netbase (6.4) ...
+Selecting previously unselected package tzdata.
+Preparing to unpack .../07-tzdata_2025b-1ubuntu1_all.deb ...
+Unpacking tzdata (2025b-1ubuntu1) ...
+Selecting previously unselected package vim-common.
+Preparing to unpack .../08-vim-common_2%3a9.1.0967-1ubuntu4_all.deb ...
+Unpacking vim-common (2:9.1.0967-1ubuntu4) ...
+Selecting previously unselected package xxd.
+Preparing to unpack .../09-xxd_2%3a9.1.0967-1ubuntu4_amd64.deb ...
+Unpacking xxd (2:9.1.0967-1ubuntu4) ...
+Selecting previously unselected package libgpm2:amd64.
+Preparing to unpack .../10-libgpm2_1.20.7-11_amd64.deb ...
+Unpacking libgpm2:amd64 (1.20.7-11) ...
+Selecting previously unselected package libpython3.13-minimal:amd64.
+Preparing to unpack .../11-libpython3.13-minimal_3.13.2-3_amd64.deb ...
+Unpacking libpython3.13-minimal:amd64 (3.13.2-3) ...
+Selecting previously unselected package libpython3.13-stdlib:amd64.
+Preparing to unpack .../12-libpython3.13-stdlib_3.13.2-3_amd64.deb ...
+Unpacking libpython3.13-stdlib:amd64 (3.13.2-3) ...
+Selecting previously unselected package libpython3.13:amd64.
+Preparing to unpack .../13-libpython3.13_3.13.2-3_amd64.deb ...
+Unpacking libpython3.13:amd64 (3.13.2-3) ...
+Selecting previously unselected package libsodium23:amd64.
+Preparing to unpack .../14-libsodium23_1.0.18-1build3_amd64.deb ...
+Unpacking libsodium23:amd64 (1.0.18-1build3) ...
+Selecting previously unselected package vim-runtime.
+Preparing to unpack .../15-vim-runtime_2%3a9.1.0967-1ubuntu4_all.deb ...
+Adding 'diversion of /usr/share/vim/vim91/doc/help.txt to /usr/share/vim/vim91/doc/help.txt.vim-tiny by vim-runtime'
+Adding 'diversion of /usr/share/vim/vim91/doc/tags to /usr/share/vim/vim91/doc/tags.vim-tiny by vim-runtime'
+Unpacking vim-runtime (2:9.1.0967-1ubuntu4) ...
+Selecting previously unselected package vim.
+Preparing to unpack .../16-vim_2%3a9.1.0967-1ubuntu4_amd64.deb ...
+Unpacking vim (2:9.1.0967-1ubuntu4) ...
+Setting up libexpat1:amd64 (2.7.1-1) ...
+Setting up media-types (13.0.0) ...
+Setting up libsodium23:amd64 (1.0.18-1build3) ...
+Setting up libgpm2:amd64 (1.20.7-11) ...
+Setting up libsqlite3-0:amd64 (3.46.1-2) ...
+Setting up xxd (2:9.1.0967-1ubuntu4) ...
+Setting up tzdata (2025b-1ubuntu1) ...
+debconf: unable to initialize frontend: Dialog
+debconf: (No usable dialog-like program is installed, so the dialog based frontend cannot be used. at /usr/share/perl5/Debconf/FrontEnd/Dialog.pm line 79.)
+debconf: falling back to frontend: Readline
+debconf: unable to initialize frontend: Readline
+debconf: (Can't locate Term/ReadLine.pm in @INC (you may need to install the Term::ReadLine module) (@INC entries checked: /etc/perl /usr/local/lib/x86_64-linux-gnu/perl/5.40.1 /usr/local/share/perl/5.40.1 /usr/lib/x86_64-linux-gnu/perl5/5.40 /usr/share/perl5 /usr/lib/x86_64-linux-gnu/perl-base /usr/lib/x86_64-linux-gnu/perl/5.40 /usr/share/perl/5.40 /usr/local/lib/site_perl) at /usr/share/perl5/Debconf/FrontEnd/Readline.pm line 8.)
+debconf: falling back to frontend: Teletype
+
+Current default time zone: 'America/Denver'
+Local time is now:      Wed Apr  9 18:02:27 MDT 2025.
+Universal Time is now:  Thu Apr 10 00:02:27 UTC 2025.
+Run 'dpkg-reconfigure tzdata' if you wish to change it.
+
+Setting up libpython3.13-minimal:amd64 (3.13.2-3) ...
+Setting up vim-common (2:9.1.0967-1ubuntu4) ...
+Setting up libffi8:amd64 (3.4.7-1) ...
+Setting up netbase (6.4) ...
+Setting up vim-runtime (2:9.1.0967-1ubuntu4) ...
+Setting up readline-common (8.2-6) ...
+Setting up libreadline8t64:amd64 (8.2-6) ...
+Setting up libpython3.13-stdlib:amd64 (3.13.2-3) ...
+Setting up libpython3.13:amd64 (3.13.2-3) ...
+Setting up vim (2:9.1.0967-1ubuntu4) ...
+update-alternatives: using /usr/bin/vim.basic to provide /usr/bin/editor (editor) in auto mode
+update-alternatives: warning: skip creation of /usr/share/man/man1/editor.1.gz because associated file /usr/share/man/man1/vim.1.gz (of link group editor) doesn't exist
+update-alternatives: warning: skip creation of /usr/share/man/da/man1/editor.1.gz because associated file /usr/share/man/da/man1/vim.1.gz (of link group editor) doesn't exist
+update-alternatives: warning: skip creation of /usr/share/man/de/man1/editor.1.gz because associated file /usr/share/man/de/man1/vim.1.gz (of link group editor) doesn't exist
+update-alternatives: warning: skip creation of /usr/share/man/fr/man1/editor.1.gz because associated file /usr/share/man/fr/man1/vim.1.gz (of link group editor) doesn't exist
+update-alternatives: warning: skip creation of /usr/share/man/it/man1/editor.1.gz because associated file /usr/share/man/it/man1/vim.1.gz (of link group editor) doesn't exist
+update-alternatives: warning: skip creation of /usr/share/man/ja/man1/editor.1.gz because associated file /usr/share/man/ja/man1/vim.1.gz (of link group editor) doesn't exist
+update-alternatives: warning: skip creation of /usr/share/man/pl/man1/editor.1.gz because associated file /usr/share/man/pl/man1/vim.1.gz (of link group editor) doesn't exist
+update-alternatives: warning: skip creation of /usr/share/man/ru/man1/editor.1.gz because associated file /usr/share/man/ru/man1/vim.1.gz (of link group editor) doesn't exist
+update-alternatives: warning: skip creation of /usr/share/man/tr/man1/editor.1.gz because associated file /usr/share/man/tr/man1/vim.1.gz (of link group editor) doesn't exist
+update-alternatives: using /usr/bin/vim.basic to provide /usr/bin/ex (ex) in auto mode
+update-alternatives: warning: skip creation of /usr/share/man/man1/ex.1.gz because associated file /usr/share/man/man1/vim.1.gz (of link group ex) doesn't exist
+update-alternatives: warning: skip creation of /usr/share/man/da/man1/ex.1.gz because associated file /usr/share/man/da/man1/vim.1.gz (of link group ex) doesn't exist
+update-alternatives: warning: skip creation of /usr/share/man/de/man1/ex.1.gz because associated file /usr/share/man/de/man1/vim.1.gz (of link group ex) doesn't exist
+update-alternatives: warning: skip creation of /usr/share/man/fr/man1/ex.1.gz because associated file /usr/share/man/fr/man1/vim.1.gz (of link group ex) doesn't exist
+update-alternatives: warning: skip creation of /usr/share/man/it/man1/ex.1.gz because associated file /usr/share/man/it/man1/vim.1.gz (of link group ex) doesn't exist
+update-alternatives: warning: skip creation of /usr/share/man/ja/man1/ex.1.gz because associated file /usr/share/man/ja/man1/vim.1.gz (of link group ex) doesn't exist
+update-alternatives: warning: skip creation of /usr/share/man/pl/man1/ex.1.gz because associated file /usr/share/man/pl/man1/vim.1.gz (of link group ex) doesn't exist
+update-alternatives: warning: skip creation of /usr/share/man/ru/man1/ex.1.gz because associated file /usr/share/man/ru/man1/vim.1.gz (of link group ex) doesn't exist
+update-alternatives: warning: skip creation of /usr/share/man/tr/man1/ex.1.gz because associated file /usr/share/man/tr/man1/vim.1.gz (of link group ex) doesn't exist
+update-alternatives: using /usr/bin/vim.basic to provide /usr/bin/rview (rview) in auto mode
+update-alternatives: using /usr/bin/vim.basic to provide /usr/bin/rvim (rvim) in auto mode
+update-alternatives: using /usr/bin/vim.basic to provide /usr/bin/vi (vi) in auto mode
+update-alternatives: warning: skip creation of /usr/share/man/man1/vi.1.gz because associated file /usr/share/man/man1/vim.1.gz (of link group vi) doesn't exist
+update-alternatives: warning: skip creation of /usr/share/man/da/man1/vi.1.gz because associated file /usr/share/man/da/man1/vim.1.gz (of link group vi) doesn't exist
+update-alternatives: warning: skip creation of /usr/share/man/de/man1/vi.1.gz because associated file /usr/share/man/de/man1/vim.1.gz (of link group vi) doesn't exist
+update-alternatives: warning: skip creation of /usr/share/man/fr/man1/vi.1.gz because associated file /usr/share/man/fr/man1/vim.1.gz (of link group vi) doesn't exist
+update-alternatives: warning: skip creation of /usr/share/man/it/man1/vi.1.gz because associated file /usr/share/man/it/man1/vim.1.gz (of link group vi) doesn't exist
+update-alternatives: warning: skip creation of /usr/share/man/ja/man1/vi.1.gz because associated file /usr/share/man/ja/man1/vim.1.gz (of link group vi) doesn't exist
+update-alternatives: warning: skip creation of /usr/share/man/pl/man1/vi.1.gz because associated file /usr/share/man/pl/man1/vim.1.gz (of link group vi) doesn't exist
+update-alternatives: warning: skip creation of /usr/share/man/ru/man1/vi.1.gz because associated file /usr/share/man/ru/man1/vim.1.gz (of link group vi) doesn't exist
+update-alternatives: warning: skip creation of /usr/share/man/tr/man1/vi.1.gz because associated file /usr/share/man/tr/man1/vim.1.gz (of link group vi) doesn't exist
+update-alternatives: using /usr/bin/vim.basic to provide /usr/bin/view (view) in auto mode
+update-alternatives: warning: skip creation of /usr/share/man/man1/view.1.gz because associated file /usr/share/man/man1/vim.1.gz (of link group view) doesn't exist
+update-alternatives: warning: skip creation of /usr/share/man/da/man1/view.1.gz because associated file /usr/share/man/da/man1/vim.1.gz (of link group view) doesn't exist
+update-alternatives: warning: skip creation of /usr/share/man/de/man1/view.1.gz because associated file /usr/share/man/de/man1/vim.1.gz (of link group view) doesn't exist
+update-alternatives: warning: skip creation of /usr/share/man/fr/man1/view.1.gz because associated file /usr/share/man/fr/man1/vim.1.gz (of link group view) doesn't exist
+update-alternatives: warning: skip creation of /usr/share/man/it/man1/view.1.gz because associated file /usr/share/man/it/man1/vim.1.gz (of link group view) doesn't exist
+update-alternatives: warning: skip creation of /usr/share/man/ja/man1/view.1.gz because associated file /usr/share/man/ja/man1/vim.1.gz (of link group view) doesn't exist
+update-alternatives: warning: skip creation of /usr/share/man/pl/man1/view.1.gz because associated file /usr/share/man/pl/man1/vim.1.gz (of link group view) doesn't exist
+update-alternatives: warning: skip creation of /usr/share/man/ru/man1/view.1.gz because associated file /usr/share/man/ru/man1/vim.1.gz (of link group view) doesn't exist
+update-alternatives: warning: skip creation of /usr/share/man/tr/man1/view.1.gz because associated file /usr/share/man/tr/man1/vim.1.gz (of link group view) doesn't exist
+update-alternatives: using /usr/bin/vim.basic to provide /usr/bin/vim (vim) in auto mode
+update-alternatives: using /usr/bin/vim.basic to provide /usr/bin/vimdiff (vimdiff) in auto mode
+Processing triggers for libc-bin (2.41-6ubuntu1) ...
+root@34798eae6e1c:/topa# vim ubuntu-build.sh
+root@34798eae6e1c:/topa# 
