@@ -1,0 +1,1166 @@
+Last login: Sat Apr 12 14:00:41 on ttys000
+dantopa@Xiuhcoatl ~ % bash
+Sat Apr 12 14:04:56 MDT 2025, /Users/dantopa/.xiuhcoatl.sh
+Warning: .extras.sh script not found.
+Sat Apr 12 14:04:56 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/master.sh
+
+2025-04-12 14:04:56 - Step 1: shopt -s expand_aliases
+
+2025-04-12 14:04:56 - Step 2: source "${core}/paths.sh"
+Sat Apr 12 14:04:56 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/paths.sh
+$locker = /Users/dantopa//.info/xiuhcoatl ***************************************
+Starting parallel execution of scripts at Sat Apr 12 14:04:56 MDT 2025
+Collector directory: /var/folders/z2/dyld4b113d72phgychy5cs2h0000gn/T/tmp.AiLNdtlxJO
+  Substep 2.1: source $script
+  Substep 2.1: source $script
+  Substep 2.1: source $script
+  Substep 2.1: source $script
+  Substep 2.1: source $script
+  Substep 2.1: source $script
+  Substep 2.1: source $script
+  Substep 2.1: source $script
+  Substep 2.1: source $script
+  Substep 2.1: source $script
+  Substep 2.1: source $script
+  Substep 2.1: source $script
+  Substep 2.1: source $script
+  Substep 2.1: source $script
+  Substep 2.1: source $script
+  Substep 2.1: source $script
+  Substep 2.1: source $script
+  Substep 2.1: source $script
+  Substep 2.1: source $script
+  Substep 2.1: source $script
+  Substep 2.1: source $script
+  Substep 2.1: source $script
+Waiting for all background processes to complete...
+  Substep 2.1: source $script
+Sat Apr 12 14:04:56 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/gcc.sh
+Sat Apr 12 14:04:56 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/git.sh
+Sat Apr 12 14:04:56 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/ssh.sh
+Sat Apr 12 14:04:56 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/vim.sh
+Sat Apr 12 14:04:56 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/alias.sh
+Sat Apr 12 14:04:56 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/bash.sh
+Sat Apr 12 14:04:56 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/grep.sh
+Sat Apr 12 14:04:56 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/make.sh
+Sat Apr 12 14:04:56 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/finds.sh
+Sat Apr 12 14:04:56 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/cmake.sh
+Sat Apr 12 14:04:56 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/python.sh
+Sat Apr 12 14:04:56 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/alias.sh
+Sat Apr 12 14:04:56 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/docker.sh
+Sat Apr 12 14:04:56 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/alias-navigation.sh
+Sat Apr 12 14:04:56 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/disk.sh
+Sat Apr 12 14:04:56 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/spack.sh
+Sat Apr 12 14:04:56 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/uname.sh
+/Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/uname.sh: line 5: write_standard_header: command not found
+Sat Apr 12 14:04:56 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/c.sh
+Sat Apr 12 14:04:56 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/fortran.sh
+Sat Apr 12 14:04:56 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/lstopo.sh
+Skipping generation: /Users/dantopa//.info/xiuhcoatl/lstopo.ascii already exists. Use --force to overwrite.
+Skipping additional output: /Users/dantopa//.info/xiuhcoatl/lstopo-v.txt already exists.
+Sat Apr 12 14:04:56 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/bookmarks.sh
+Generating additional output: /Users/dantopa//.info/xiuhcoatl/lstopo.pdf
+Sat Apr 12 14:04:56 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/modules.sh
+/Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/modules.sh: line 12: write_standard_header: command not found
+/Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/modules.sh: line 17: write_standard_header: command not found
+Sat Apr 12 14:04:56 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/macports.sh
+Skipping additional output: /Users/dantopa//.info/xiuhcoatl/lstopo-p.txt already exists.
+Generating additional output: /Users/dantopa//.info/xiuhcoatl/lstopo.png
+Sat Apr 12 14:04:57 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/bookmarks-bitbucket.sh
+lstopo script completed.
+Sat Apr 12 14:04:57 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/bookmarks-github.sh
+All background processes have completed at Sat Apr 12 14:04:57 MDT 2025.
+bash: /var/folders/z2/dyld4b113d72phgychy5cs2h0000gn/T/tmp.AiLNdtlxJO/spack.sh.collector: line 31: syntax error near unexpected token `('
+bash: /var/folders/z2/dyld4b113d72phgychy5cs2h0000gn/T/tmp.AiLNdtlxJO/spack.sh.collector: line 31: `gospack () '
+Sat Apr 12 14:04:57 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/projects-fortran.sh
+Sat Apr 12 14:04:57 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/logs.sh
+Logs directory created at /Users/dantopa//logs
+Sat Apr 12 14:04:57 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/copy-configuration.sh
+threads completed for copy-configuration.sh write to /Users/dantopa//repos-xiuhcoatl/bitbucket/mac-configurations/Macmini8,1-(xiuhcoatl)/darwin-24.4.0/Sequoia-15.4/Xiuhcoatl ...
+${PWD} = /Users/dantopa/repos-xiuhcoatl/bitbucket/mac-configurations
+git add -A . 
+fatal: not a git repository (or any of the parent directories): .git
+git commit -m 'xiuhcoatl native Sequoia-15.4 2025-04-12 14:04'
+fatal: not a git repository (or any of the parent directories): .git
+/Users/dantopa/repos-xiuhcoatl/bitbucket/mac-configurations
+to push configuration to repo, use alias gomac
+Sat Apr 12 14:04:57 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/prompt.sh
+Sat Apr 12 14:04:57 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/environment.sh
+bash: /Users/dantopa//.info/xiuhcoatl: Is a directory
+bash: /Users/dantopa//.info/xiuhcoatl: Is a directory
+bash: /Users/dantopa//.info/xiuhcoatl: Is a directory
+bash: /Users/dantopa//.info/xiuhcoatl: Is a directory
+bash: /Users/dantopa//.info/xiuhcoatl: Is a directory
+bash: /Users/dantopa//.info/xiuhcoatl: Is a directory
+bash: /Users/dantopa//.info/xiuhcoatl: Is a directory
+Sat Apr 12 14:04:57 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/snapshot.sh
+Environment variables saved to /Users/dantopa//.info/xiuhcoatl/environment-variables.txt
+Alias settings saved to /Users/dantopa//.info/xiuhcoatl/alias-settings.txt
+Shell functions saved to /Users/dantopa//.info/xiuhcoatl/shell-functions.txt
+Snapshot completed. Files saved in /Users/dantopa//.info/xiuhcoatl.
+No duplicate entries in PATH.
+Unique PATH entries (in order):
+/opt/local/bin:/opt/local/sbin:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin:/Library/TeX/texbin:/opt/podman/bin:
+===>  user account = dantopa
+===>  ${SHELL} = /bin/zsh
+===>  GNU bash, version 5.2.37(1)-release (x86_64-apple-darwin24.2.0)
+Copyright (C) 2022 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>
+
+This is free software; you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.
+===>  gcc --version: gcc (MacPorts gcc14 14.2.0_3+stdlib_flag) 14.2.0
+Copyright (C) 2024 Free Software Foundation, Inc.
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+
+Total elapsed time: 00:01 (MM:SS)
+Warning: /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/xiuhcoatl}.sh not found.
+Sat Apr 12 14:04:57 MDT 2025, /Users/dantopa//.platform-specific.sh
+Sat Apr 12 14:04:57 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/apple.sh
+macOS Sequoia 15.4, Darwin 24.4.0
+platform-specific.sh loaded successfully.
+Copied /Users/dantopa/.xiuhcoatl.sh to /Users/dantopa//.info/xiuhcoatl
+dantopa@Xiuhcoatl:dantopa $ cd repos-xiuhcoatl/
+dantopa@Xiuhcoatl:repos-xiuhcoatl $ pwd
+/Users/dantopa/repos-xiuhcoatl
+dantopa@Xiuhcoatl:repos-xiuhcoatl $ docker run -it  -v /Users/dantopa/repos-xiuhcoatl:/repos ubuntu:25.04diskutil list^C
+dantopa@Xiuhcoatl:repos-xiuhcoatl $ diskutil list
+diskutil: interrupted
+dantopa@Xiuhcoatl:repos-xiuhcoatl $ ^C
+dantopa@Xiuhcoatl:repos-xiuhcoatl $ docker ps
+CONTAINER ID   IMAGE     COMMAND   CREATED   STATUS    PORTS     NAMES
+dantopa@Xiuhcoatl:repos-xiuhcoatl $ docker ps
+CONTAINER ID   IMAGE     COMMAND   CREATED   STATUS    PORTS     NAMES
+dantopa@Xiuhcoatl:repos-xiuhcoatl $ cd github/
+dantopa@Xiuhcoatl:github $ lss
+total 24
+drwxr-xr-x  23 dantopa  staff   736B Apr  9 15:25 .
+drwxr-xr-x   5 dantopa  staff   160B Feb  5 17:44 ..
+-rw-r--r--@  1 dantopa  staff    10K Apr  9 15:48 .DS_Store
+drwxr-xr-x  14 dantopa  staff   448B Dec 14 16:38 achates
+drwxr-xr-x@ 10 dantopa  staff   320B Jan 30 20:05 builds
+drwxr-xr-x   9 dantopa  staff   288B Dec 27 21:40 cross-platform-setup
+drwxr-xr-x@ 25 dantopa  staff   800B Feb 22 14:48 f
+drwxr-xr-x  10 dantopa  staff   320B Dec 29 18:04 genesis
+drwxr-xr-x  17 dantopa  staff   544B Feb  3 09:55 geoint-standards
+drwxr-xr-x   7 dantopa  staff   224B Jan 24 11:14 gitlab
+drwxr-xr-x  12 dantopa  staff   384B Dec 27 19:45 gitlab-bash-scripts
+drwxr-xr-x   6 dantopa  staff   192B Apr  9 17:12 hii
+drwxr-xr-x  15 dantopa  staff   480B Nov 16 11:25 jop
+drwxr-xr-x  11 dantopa  staff   352B Jan 23 18:35 latex-2025
+drwxr-xr-x   7 dantopa  staff   224B Apr  2 16:01 MIT-OCW
+drwxr-xr-x@ 15 dantopa  staff   480B Dec 15 16:55 nursery-slide-decks
+drwxr-xr-x@ 12 dantopa  staff   384B Feb 26 15:54 nvimConfig
+drwxr-xr-x@ 14 dantopa  staff   448B Jan 23 19:44 papers
+drwxr-xr-x@  8 dantopa  staff   256B Dec 15 22:44 phoenix
+drwxr-xr-x@ 14 dantopa  staff   448B Dec 22 20:31 sharing
+drwxr-xr-x@ 14 dantopa  staff   448B Nov 23 20:28 sharing-copy
+drwxr-xr-x@ 18 dantopa  staff   576B Nov 30 18:48 vault-fortran
+drwxr-xr-x@ 10 dantopa  staff   320B Apr  8 18:38 vault-latex
+dantopa@Xiuhcoatl:github $ cd hii/
+dantopa@Xiuhcoatl:hii $ pwd
+/Users/dantopa/repos-xiuhcoatl/github/hii
+dantopa@Xiuhcoatl:hii $ git init
+Initialized empty Git repository in /Users/dantopa/repos-xiuhcoatl/github/hii/.git/
+dantopa@Xiuhcoatl:hii $ git add .
+dantopa@Xiuhcoatl:hii $ git commit -m "First commit"
+[main (root-commit) 81878da] First commit
+ 27 files changed, 7694 insertions(+)
+ create mode 100644 2025-04-03/BLUF.png
+ create mode 100644 2025-04-03/ballet.png
+ create mode 100644 2025-04-03/blirk.png
+ create mode 100644 2025-04-03/coarray=faster.png
+ create mode 100644 2025-04-03/compiler-protections.png
+ create mode 100644 2025-04-03/heterogenous.png
+ create mode 100644 2025-04-03/hpx.png
+ create mode 100644 2025-04-03/nla.png
+ create mode 100644 2025-04-03/odtbx.png
+ create mode 100644 2025-04-03/paramat.png
+ create mode 100644 2025-04-03/soviet-parallel.png
+ create mode 100644 2025-04-03/tilt.png
+ create mode 100644 2025-04-03/trent.png
+ create mode 100644 2025-04-03/upc++.png
+ create mode 100644 2025-04-03/venn.png
+ create mode 100644 2025-04-03/vvgmat.png
+ create mode 100644 scripts/Terminal Saved Output.txt
+ create mode 100644 scripts/final-no-space.txt
+ create mode 100644 scripts/generate-ssh-keys.sh
+ create mode 100644 scripts/sample-apt-get.txt
+ create mode 100644 scripts/success-friday.txt
+ create mode 100644 scripts/ubuntu-build-01.sh
+ create mode 100644 scripts/ubuntu-build-02.sh
+ create mode 100644 scripts/ubuntu-build-03.sh
+ create mode 100644 scripts/ubuntu-build-04.sh
+ create mode 100644 scripts/ubuntu-build-05.sh
+ create mode 100644 scripts/ubuntu-build.sh
+dantopa@Xiuhcoatl:hii $ git remote add origin https://github.com/floquet/HII.git
+dantopa@Xiuhcoatl:hii $ git push -u origin main
+Enumerating objects: 30, done.
+Counting objects: 100% (30/30), done.
+Delta compression using up to 12 threads
+Compressing objects: 100% (30/30), done.
+Writing objects: 100% (30/30), 7.70 MiB | 4.21 MiB/s, done.
+Total 30 (delta 5), reused 0 (delta 0), pack-reused 0 (from 0)
+remote: Resolving deltas: 100% (5/5), done.
+To https://github.com/floquet/HII.git
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
+dantopa@Xiuhcoatl:hii $ docker pull ubuntu:25.04
+Cannot connect to the Docker daemon at unix:///Users/dantopa/.docker/run/docker.sock. Is the docker daemon running?
+dantopa@Xiuhcoatl:hii $ docker pull ubuntu:25.04
+25.04: Pulling from library/ubuntu
+Digest: sha256:3fa335765c57a9ef67f62ef33b4411266c576f4dbdd9d5255f5da2ac306e021f
+Status: Image is up to date for ubuntu:25.04
+docker.io/library/ubuntu:25.04
+dantopa@Xiuhcoatl:hii $ pdw
+bash: pdw: command not found
+dantopa@Xiuhcoatl:hii $ pwd
+/Users/dantopa/repos-xiuhcoatl/github/hii
+dantopa@Xiuhcoatl:hii $ docker run -it  -v  /Users/dantopa/repos-xiuhcoatl/github/hii:/dantopa/hii ubuntu:25.04
+root@84b585ae3ce5:/# mkdir -p apt-get/log; cd apt-get/ ; apt-get update ; apt-get install -y vim
+Get:1 http://archive.ubuntu.com/ubuntu plucky InRelease [265 kB]
+Get:2 http://security.ubuntu.com/ubuntu plucky-security InRelease [126 kB]
+Get:3 http://archive.ubuntu.com/ubuntu plucky-updates InRelease [126 kB]
+Get:4 http://archive.ubuntu.com/ubuntu plucky-backports InRelease [126 kB]
+Get:5 http://archive.ubuntu.com/ubuntu plucky/main amd64 Packages [1864 kB]
+Get:6 http://archive.ubuntu.com/ubuntu plucky/restricted amd64 Packages [69.8 kB]
+Get:7 http://archive.ubuntu.com/ubuntu plucky/universe amd64 Packages [20.3 MB]
+Get:8 http://archive.ubuntu.com/ubuntu plucky/multiverse amd64 Packages [322 kB]
+Fetched 23.2 MB in 4s (5329 kB/s)                        
+Reading package lists... Done
+Reading package lists... Done
+Building dependency tree... Done
+Reading state information... Done
+The following additional packages will be installed:
+  libexpat1 libffi8 libgpm2 libpython3.13 libpython3.13-minimal libpython3.13-stdlib libreadline8t64 libsodium23 libsqlite3-0
+  media-types netbase readline-common tzdata vim-common vim-runtime xxd
+Suggested packages:
+  gpm readline-doc ctags vim-doc vim-scripts
+The following NEW packages will be installed:
+  libexpat1 libffi8 libgpm2 libpython3.13 libpython3.13-minimal libpython3.13-stdlib libreadline8t64 libsodium23 libsqlite3-0
+  media-types netbase readline-common tzdata vim vim-common vim-runtime xxd
+0 upgraded, 17 newly installed, 0 to remove and 9 not upgraded.
+Need to get 17.1 MB of archives.
+After this operation, 73.5 MB of additional disk space will be used.
+Get:1 http://archive.ubuntu.com/ubuntu plucky/main amd64 libexpat1 amd64 2.7.1-1 [96.7 kB]
+Get:2 http://archive.ubuntu.com/ubuntu plucky/main amd64 libffi8 amd64 3.4.7-1 [26.2 kB]
+Get:3 http://archive.ubuntu.com/ubuntu plucky/main amd64 readline-common all 8.2-6 [56.5 kB]
+Get:4 http://archive.ubuntu.com/ubuntu plucky/main amd64 libreadline8t64 amd64 8.2-6 [162 kB]
+Get:5 http://archive.ubuntu.com/ubuntu plucky/main amd64 libsqlite3-0 amd64 3.46.1-3 [715 kB]
+Get:6 http://archive.ubuntu.com/ubuntu plucky/main amd64 media-types all 13.0.0 [29.9 kB]
+Get:7 http://archive.ubuntu.com/ubuntu plucky/main amd64 netbase all 6.4 [13.1 kB]
+Get:8 http://archive.ubuntu.com/ubuntu plucky/main amd64 tzdata all 2025b-1ubuntu1 [198 kB]
+Get:9 http://archive.ubuntu.com/ubuntu plucky/main amd64 vim-common all 2:9.1.0967-1ubuntu4 [397 kB]
+Get:10 http://archive.ubuntu.com/ubuntu plucky/main amd64 xxd amd64 2:9.1.0967-1ubuntu4 [68.5 kB]
+Get:11 http://archive.ubuntu.com/ubuntu plucky/main amd64 libgpm2 amd64 1.20.7-11 [14.1 kB]
+Get:12 http://archive.ubuntu.com/ubuntu plucky/main amd64 libpython3.13-minimal amd64 3.13.3-1 [884 kB]
+Get:13 http://archive.ubuntu.com/ubuntu plucky/main amd64 libpython3.13-stdlib amd64 3.13.3-1 [2071 kB]
+Get:14 http://archive.ubuntu.com/ubuntu plucky/main amd64 libpython3.13 amd64 3.13.3-1 [2342 kB]
+Get:15 http://archive.ubuntu.com/ubuntu plucky/main amd64 libsodium23 amd64 1.0.18-1build3 [161 kB]
+Get:16 http://archive.ubuntu.com/ubuntu plucky/main amd64 vim-runtime all 2:9.1.0967-1ubuntu4 [7513 kB]
+Get:17 http://archive.ubuntu.com/ubuntu plucky/main amd64 vim amd64 2:9.1.0967-1ubuntu4 [2374 kB]
+Fetched 17.1 MB in 3s (5247 kB/s)
+debconf: unable to initialize frontend: Dialog
+debconf: (No usable dialog-like program is installed, so the dialog based frontend cannot be used. at /usr/share/perl5/Debconf/FrontEnd/Dialog.pm line 79, <STDIN> line 17.)
+debconf: falling back to frontend: Readline
+debconf: unable to initialize frontend: Readline
+debconf: (Can't locate Term/ReadLine.pm in @INC (you may need to install the Term::ReadLine module) (@INC entries checked: /etc/perl /usr/local/lib/x86_64-linux-gnu/perl/5.40.1 /usr/local/share/perl/5.40.1 /usr/lib/x86_64-linux-gnu/perl5/5.40 /usr/share/perl5 /usr/lib/x86_64-linux-gnu/perl-base /usr/lib/x86_64-linux-gnu/perl/5.40 /usr/share/perl/5.40 /usr/local/lib/site_perl) at /usr/share/perl5/Debconf/FrontEnd/Readline.pm line 8, <STDIN> line 17.)
+debconf: falling back to frontend: Teletype
+Preconfiguring packages ...
+Configuring tzdata
+------------------
+
+Please select the geographic area in which you live. Subsequent configuration questions will narrow this down by presenting a list
+of cities, representing the time zones in which they are located.
+
+  1. Africa   3. Antarctica  5. Asia      7. Australia  9. Indian    11. Etc
+  2. America  4. Arctic      6. Atlantic  8. Europe     10. Pacific
+Geographic area: 2
+
+Please select the city or region corresponding to your time zone.
+
+  1. Adak                     33. Cancun         65. Guyana                97. Metlakatla               129. Resolute
+  2. Anchorage                34. Caracas        66. Halifax               98. Mexico_City              130. Rio_Branco
+  3. Anguilla                 35. Cayenne        67. Havana                99. Miquelon                 131. Santa_Isabel
+  4. Antigua                  36. Cayman         68. Hermosillo            100. Moncton                 132. Santarem
+  5. Araguaina                37. Chicago        69. Indiana/Indianapolis  101. Monterrey               133. Santiago
+  6. Argentina/Buenos_Aires   38. Chihuahua      70. Indiana/Knox          102. Montevideo              134. Santo_Domingo
+  7. Argentina/Catamarca      39. Ciudad_Juarez  71. Indiana/Marengo       103. Montreal                135. Sao_Paulo
+  8. Argentina/Cordoba        40. Coral_Harbour  72. Indiana/Petersburg    104. Montserrat              136. Scoresbysund
+  9. Argentina/Jujuy          41. Costa_Rica     73. Indiana/Tell_City     105. Nassau                  137. Shiprock
+  10. Argentina/La_Rioja      42. Coyhaique      74. Indiana/Vevay         106. New_York                138. Sitka
+  11. Argentina/Mendoza       43. Creston        75. Indiana/Vincennes     107. Nipigon                 139. St_Barthelemy
+  12. Argentina/Rio_Gallegos  44. Cuiaba         76. Indiana/Winamac       108. Nome                    140. St_Johns
+  13. Argentina/Salta         45. Curacao        77. Inuvik                109. Noronha                 141. St_Kitts
+  14. Argentina/San_Juan      46. Danmarkshavn   78. Iqaluit               110. North_Dakota/Beulah     142. St_Lucia
+  15. Argentina/San_Luis      47. Dawson         79. Jamaica               111. North_Dakota/Center     143. St_Thomas
+  16. Argentina/Tucuman       48. Dawson_Creek   80. Juneau                112. North_Dakota/New_Salem  144. St_Vincent
+  17. Argentina/Ushuaia       49. Denver         81. Kentucky/Louisville   113. Nuuk                    145. Swift_Current
+  18. Aruba                   50. Detroit        82. Kentucky/Monticello   114. Ojinaga                 146. Tegucigalpa
+  19. Asuncion                51. Dominica       83. Kralendijk            115. Panama                  147. Thule
+  20. Atikokan                52. Edmonton       84. La_Paz                116. Pangnirtung             148. Thunder_Bay
+  21. Atka                    53. Eirunepe       85. Lima                  117. Paramaribo              149. Tijuana
+  22. Bahia                   54. El_Salvador    86. Los_Angeles           118. Phoenix                 150. Toronto
+  23. Bahia_Banderas          55. Ensenada       87. Lower_Princes         119. Port-au-Prince          151. Tortola
+  24. Barbados                56. Fort_Nelson    88. Maceio                120. Port_of_Spain           152. Vancouver
+  25. Belem                   57. Fortaleza      89. Managua               121. Porto_Acre              153. Virgin
+  26. Belize                  58. Glace_Bay      90. Manaus                122. Porto_Velho             154. Whitehorse
+  27. Blanc-Sablon            59. Goose_Bay      91. Marigot               123. Puerto_Rico             155. Winnipeg
+  28. Boa_Vista               60. Grand_Turk     92. Martinique            124. Punta_Arenas            156. Yakutat
+  29. Bogota                  61. Grenada        93. Matamoros             125. Rainy_River             157. Yellowknife
+  30. Boise                   62. Guadeloupe     94. Mazatlan              126. Rankin_Inlet
+  31. Cambridge_Bay           63. Guatemala      95. Menominee             127. Recife
+  32. Campo_Grande            64. Guayaquil      96. Merida                128. Regina
+Time zone: 49
+
+Selecting previously unselected package libexpat1:amd64.
+(Reading database ... 4258 files and directories currently installed.)
+Preparing to unpack .../00-libexpat1_2.7.1-1_amd64.deb ...
+Unpacking libexpat1:amd64 (2.7.1-1) ...
+Selecting previously unselected package libffi8:amd64.
+Preparing to unpack .../01-libffi8_3.4.7-1_amd64.deb ...
+Unpacking libffi8:amd64 (3.4.7-1) ...
+Selecting previously unselected package readline-common.
+Preparing to unpack .../02-readline-common_8.2-6_all.deb ...
+Unpacking readline-common (8.2-6) ...
+Selecting previously unselected package libreadline8t64:amd64.
+Preparing to unpack .../03-libreadline8t64_8.2-6_amd64.deb ...
+Adding 'diversion of /lib/x86_64-linux-gnu/libhistory.so.8 to /lib/x86_64-linux-gnu/libhistory.so.8.usr-is-merged by libreadline8t64'
+Adding 'diversion of /lib/x86_64-linux-gnu/libhistory.so.8.2 to /lib/x86_64-linux-gnu/libhistory.so.8.2.usr-is-merged by libreadline8t64'
+Adding 'diversion of /lib/x86_64-linux-gnu/libreadline.so.8 to /lib/x86_64-linux-gnu/libreadline.so.8.usr-is-merged by libreadline8t64'
+Adding 'diversion of /lib/x86_64-linux-gnu/libreadline.so.8.2 to /lib/x86_64-linux-gnu/libreadline.so.8.2.usr-is-merged by libreadline8t64'
+Unpacking libreadline8t64:amd64 (8.2-6) ...
+Selecting previously unselected package libsqlite3-0:amd64.
+Preparing to unpack .../04-libsqlite3-0_3.46.1-3_amd64.deb ...
+Unpacking libsqlite3-0:amd64 (3.46.1-3) ...
+Selecting previously unselected package media-types.
+Preparing to unpack .../05-media-types_13.0.0_all.deb ...
+Unpacking media-types (13.0.0) ...
+Selecting previously unselected package netbase.
+Preparing to unpack .../06-netbase_6.4_all.deb ...
+Unpacking netbase (6.4) ...
+Selecting previously unselected package tzdata.
+Preparing to unpack .../07-tzdata_2025b-1ubuntu1_all.deb ...
+Unpacking tzdata (2025b-1ubuntu1) ...
+Selecting previously unselected package vim-common.
+Preparing to unpack .../08-vim-common_2%3a9.1.0967-1ubuntu4_all.deb ...
+Unpacking vim-common (2:9.1.0967-1ubuntu4) ...
+Selecting previously unselected package xxd.
+Preparing to unpack .../09-xxd_2%3a9.1.0967-1ubuntu4_amd64.deb ...
+Unpacking xxd (2:9.1.0967-1ubuntu4) ...
+Selecting previously unselected package libgpm2:amd64.
+Preparing to unpack .../10-libgpm2_1.20.7-11_amd64.deb ...
+Unpacking libgpm2:amd64 (1.20.7-11) ...
+Selecting previously unselected package libpython3.13-minimal:amd64.
+Preparing to unpack .../11-libpython3.13-minimal_3.13.3-1_amd64.deb ...
+Unpacking libpython3.13-minimal:amd64 (3.13.3-1) ...
+Selecting previously unselected package libpython3.13-stdlib:amd64.
+Preparing to unpack .../12-libpython3.13-stdlib_3.13.3-1_amd64.deb ...
+Unpacking libpython3.13-stdlib:amd64 (3.13.3-1) ...
+Selecting previously unselected package libpython3.13:amd64.
+Preparing to unpack .../13-libpython3.13_3.13.3-1_amd64.deb ...
+Unpacking libpython3.13:amd64 (3.13.3-1) ...
+Selecting previously unselected package libsodium23:amd64.
+Preparing to unpack .../14-libsodium23_1.0.18-1build3_amd64.deb ...
+Unpacking libsodium23:amd64 (1.0.18-1build3) ...
+Selecting previously unselected package vim-runtime.
+Preparing to unpack .../15-vim-runtime_2%3a9.1.0967-1ubuntu4_all.deb ...
+Adding 'diversion of /usr/share/vim/vim91/doc/help.txt to /usr/share/vim/vim91/doc/help.txt.vim-tiny by vim-runtime'
+Adding 'diversion of /usr/share/vim/vim91/doc/tags to /usr/share/vim/vim91/doc/tags.vim-tiny by vim-runtime'
+Unpacking vim-runtime (2:9.1.0967-1ubuntu4) ...
+Selecting previously unselected package vim.
+Preparing to unpack .../16-vim_2%3a9.1.0967-1ubuntu4_amd64.deb ...
+Unpacking vim (2:9.1.0967-1ubuntu4) ...
+Setting up libexpat1:amd64 (2.7.1-1) ...
+Setting up media-types (13.0.0) ...
+Setting up libsodium23:amd64 (1.0.18-1build3) ...
+Setting up libgpm2:amd64 (1.20.7-11) ...
+Setting up libsqlite3-0:amd64 (3.46.1-3) ...
+Setting up xxd (2:9.1.0967-1ubuntu4) ...
+Setting up tzdata (2025b-1ubuntu1) ...
+debconf: unable to initialize frontend: Dialog
+debconf: (No usable dialog-like program is installed, so the dialog based frontend cannot be used. at /usr/share/perl5/Debconf/FrontEnd/Dialog.pm line 79.)
+debconf: falling back to frontend: Readline
+debconf: unable to initialize frontend: Readline
+debconf: (Can't locate Term/ReadLine.pm in @INC (you may need to install the Term::ReadLine module) (@INC entries checked: /etc/perl /usr/local/lib/x86_64-linux-gnu/perl/5.40.1 /usr/local/share/perl/5.40.1 /usr/lib/x86_64-linux-gnu/perl5/5.40 /usr/share/perl5 /usr/lib/x86_64-linux-gnu/perl-base /usr/lib/x86_64-linux-gnu/perl/5.40 /usr/share/perl/5.40 /usr/local/lib/site_perl) at /usr/share/perl5/Debconf/FrontEnd/Readline.pm line 8.)
+debconf: falling back to frontend: Teletype
+
+Current default time zone: 'America/Denver'
+Local time is now:      Sat Apr 12 14:38:59 MDT 2025.
+Universal Time is now:  Sat Apr 12 20:38:59 UTC 2025.
+Run 'dpkg-reconfigure tzdata' if you wish to change it.
+
+Setting up libpython3.13-minimal:amd64 (3.13.3-1) ...
+Setting up vim-common (2:9.1.0967-1ubuntu4) ...
+Setting up libffi8:amd64 (3.4.7-1) ...
+Setting up netbase (6.4) ...
+Setting up vim-runtime (2:9.1.0967-1ubuntu4) ...
+Setting up readline-common (8.2-6) ...
+Setting up libreadline8t64:amd64 (8.2-6) ...
+Setting up libpython3.13-stdlib:amd64 (3.13.3-1) ...
+Setting up libpython3.13:amd64 (3.13.3-1) ...
+Setting up vim (2:9.1.0967-1ubuntu4) ...
+update-alternatives: using /usr/bin/vim.basic to provide /usr/bin/editor (editor) in auto mode
+update-alternatives: warning: skip creation of /usr/share/man/man1/editor.1.gz because associated file /usr/share/man/man1/vim.1.gz (of link group editor) doesn't exist
+update-alternatives: warning: skip creation of /usr/share/man/da/man1/editor.1.gz because associated file /usr/share/man/da/man1/vim.1.gz (of link group editor) doesn't exist
+update-alternatives: warning: skip creation of /usr/share/man/de/man1/editor.1.gz because associated file /usr/share/man/de/man1/vim.1.gz (of link group editor) doesn't exist
+update-alternatives: warning: skip creation of /usr/share/man/fr/man1/editor.1.gz because associated file /usr/share/man/fr/man1/vim.1.gz (of link group editor) doesn't exist
+update-alternatives: warning: skip creation of /usr/share/man/it/man1/editor.1.gz because associated file /usr/share/man/it/man1/vim.1.gz (of link group editor) doesn't exist
+update-alternatives: warning: skip creation of /usr/share/man/ja/man1/editor.1.gz because associated file /usr/share/man/ja/man1/vim.1.gz (of link group editor) doesn't exist
+update-alternatives: warning: skip creation of /usr/share/man/pl/man1/editor.1.gz because associated file /usr/share/man/pl/man1/vim.1.gz (of link group editor) doesn't exist
+update-alternatives: warning: skip creation of /usr/share/man/ru/man1/editor.1.gz because associated file /usr/share/man/ru/man1/vim.1.gz (of link group editor) doesn't exist
+update-alternatives: warning: skip creation of /usr/share/man/tr/man1/editor.1.gz because associated file /usr/share/man/tr/man1/vim.1.gz (of link group editor) doesn't exist
+update-alternatives: using /usr/bin/vim.basic to provide /usr/bin/ex (ex) in auto mode
+update-alternatives: warning: skip creation of /usr/share/man/man1/ex.1.gz because associated file /usr/share/man/man1/vim.1.gz (of link group ex) doesn't exist
+update-alternatives: warning: skip creation of /usr/share/man/da/man1/ex.1.gz because associated file /usr/share/man/da/man1/vim.1.gz (of link group ex) doesn't exist
+update-alternatives: warning: skip creation of /usr/share/man/de/man1/ex.1.gz because associated file /usr/share/man/de/man1/vim.1.gz (of link group ex) doesn't exist
+update-alternatives: warning: skip creation of /usr/share/man/fr/man1/ex.1.gz because associated file /usr/share/man/fr/man1/vim.1.gz (of link group ex) doesn't exist
+update-alternatives: warning: skip creation of /usr/share/man/it/man1/ex.1.gz because associated file /usr/share/man/it/man1/vim.1.gz (of link group ex) doesn't exist
+update-alternatives: warning: skip creation of /usr/share/man/ja/man1/ex.1.gz because associated file /usr/share/man/ja/man1/vim.1.gz (of link group ex) doesn't exist
+update-alternatives: warning: skip creation of /usr/share/man/pl/man1/ex.1.gz because associated file /usr/share/man/pl/man1/vim.1.gz (of link group ex) doesn't exist
+update-alternatives: warning: skip creation of /usr/share/man/ru/man1/ex.1.gz because associated file /usr/share/man/ru/man1/vim.1.gz (of link group ex) doesn't exist
+update-alternatives: warning: skip creation of /usr/share/man/tr/man1/ex.1.gz because associated file /usr/share/man/tr/man1/vim.1.gz (of link group ex) doesn't exist
+update-alternatives: using /usr/bin/vim.basic to provide /usr/bin/rview (rview) in auto mode
+update-alternatives: using /usr/bin/vim.basic to provide /usr/bin/rvim (rvim) in auto mode
+update-alternatives: using /usr/bin/vim.basic to provide /usr/bin/vi (vi) in auto mode
+update-alternatives: warning: skip creation of /usr/share/man/man1/vi.1.gz because associated file /usr/share/man/man1/vim.1.gz (of link group vi) doesn't exist
+update-alternatives: warning: skip creation of /usr/share/man/da/man1/vi.1.gz because associated file /usr/share/man/da/man1/vim.1.gz (of link group vi) doesn't exist
+update-alternatives: warning: skip creation of /usr/share/man/de/man1/vi.1.gz because associated file /usr/share/man/de/man1/vim.1.gz (of link group vi) doesn't exist
+update-alternatives: warning: skip creation of /usr/share/man/fr/man1/vi.1.gz because associated file /usr/share/man/fr/man1/vim.1.gz (of link group vi) doesn't exist
+update-alternatives: warning: skip creation of /usr/share/man/it/man1/vi.1.gz because associated file /usr/share/man/it/man1/vim.1.gz (of link group vi) doesn't exist
+update-alternatives: warning: skip creation of /usr/share/man/ja/man1/vi.1.gz because associated file /usr/share/man/ja/man1/vim.1.gz (of link group vi) doesn't exist
+update-alternatives: warning: skip creation of /usr/share/man/pl/man1/vi.1.gz because associated file /usr/share/man/pl/man1/vim.1.gz (of link group vi) doesn't exist
+update-alternatives: warning: skip creation of /usr/share/man/ru/man1/vi.1.gz because associated file /usr/share/man/ru/man1/vim.1.gz (of link group vi) doesn't exist
+update-alternatives: warning: skip creation of /usr/share/man/tr/man1/vi.1.gz because associated file /usr/share/man/tr/man1/vim.1.gz (of link group vi) doesn't exist
+update-alternatives: using /usr/bin/vim.basic to provide /usr/bin/view (view) in auto mode
+update-alternatives: warning: skip creation of /usr/share/man/man1/view.1.gz because associated file /usr/share/man/man1/vim.1.gz (of link group view) doesn't exist
+update-alternatives: warning: skip creation of /usr/share/man/da/man1/view.1.gz because associated file /usr/share/man/da/man1/vim.1.gz (of link group view) doesn't exist
+update-alternatives: warning: skip creation of /usr/share/man/de/man1/view.1.gz because associated file /usr/share/man/de/man1/vim.1.gz (of link group view) doesn't exist
+update-alternatives: warning: skip creation of /usr/share/man/fr/man1/view.1.gz because associated file /usr/share/man/fr/man1/vim.1.gz (of link group view) doesn't exist
+update-alternatives: warning: skip creation of /usr/share/man/it/man1/view.1.gz because associated file /usr/share/man/it/man1/vim.1.gz (of link group view) doesn't exist
+update-alternatives: warning: skip creation of /usr/share/man/ja/man1/view.1.gz because associated file /usr/share/man/ja/man1/vim.1.gz (of link group view) doesn't exist
+update-alternatives: warning: skip creation of /usr/share/man/pl/man1/view.1.gz because associated file /usr/share/man/pl/man1/vim.1.gz (of link group view) doesn't exist
+update-alternatives: warning: skip creation of /usr/share/man/ru/man1/view.1.gz because associated file /usr/share/man/ru/man1/vim.1.gz (of link group view) doesn't exist
+update-alternatives: warning: skip creation of /usr/share/man/tr/man1/view.1.gz because associated file /usr/share/man/tr/man1/vim.1.gz (of link group view) doesn't exist
+update-alternatives: using /usr/bin/vim.basic to provide /usr/bin/vim (vim) in auto mode
+update-alternatives: using /usr/bin/vim.basic to provide /usr/bin/vimdiff (vimdiff) in auto mode
+Processing triggers for libc-bin (2.41-6ubuntu1) ...
+root@84b585ae3ce5:/apt-get# ls /dantopa/hii/
+2025-04-03  gmat  scripts
+root@84b585ae3ce5:/apt-get# cp /dantopa/hii/scripts/ubuntu-build-0
+ubuntu-build-01.sh  ubuntu-build-02.sh  ubuntu-build-03.sh  ubuntu-build-04.sh  ubuntu-build-05.sh  
+root@84b585ae3ce5:/apt-get# cp /dantopa/hii/scripts/ubuntu-build-05.sh .
+root@84b585ae3ce5:/apt-get# cp /dantopa/hii/scripts/generate-ssh-keys.sh .
+root@84b585ae3ce5:/apt-get# chmod +x ubuntu-build-05.sh 
+root@84b585ae3ce5:/apt-get# ./ubuntu-build-05.sh 2>&1 | tee ubuntu-build.log
+Sat Apr 12 14:40:31 MDT 2025 ./ubuntu-build-05.sh
+
+Step 1: Creating pass/fail logging
+
+  Substep 1.1: Creating log files
+
+  Substep 1.2: Setting up logging variables
+
+Step 2: System Update and Upgrade
+
+  Substep 2.1: Running apt-get update
+
+  Substep 2.2: Running apt-get upgrade
+
+Step 3: Setting Timezone to Albuquerque
+./ubuntu-build-05.sh: line 245: timedatectl: command not found
+
+Step 4: Creating user john.beighle
+
+  Substep 4.1: Adding user with sudo privileges
+
+Step 5: Installing via apt-get
+
+  Substep 5.1: Installing build-essential
+
+  Substep 5.2: Installing gcc
+
+  Substep 5.3: Installing g++
+
+  Substep 5.4: Installing gfortran
+
+  Substep 5.5: Installing clang
+
+[1]+  Stopped                 ./ubuntu-build-05.sh 2>&1 | tee ubuntu-build.log
+root@84b585ae3ce5:/apt-get# ^C
+root@84b585ae3ce5:/apt-get# ^C
+root@84b585ae3ce5:/apt-get# exit
+exit
+There are stopped jobs.
+root@84b585ae3ce5:/apt-get# exit
+exit
+dantopa@Xiuhcoatl:hii $ killall -9 "Disk Utility"
+dantopa@Xiuhcoatl:hii $ ps aux | grep -i disk
+_rmd              1442   0.0  0.0 34476732   2544   ??  Ss    2:02PM   0:00.05 /System/Library/PrivateFrameworks/RemoteManagement.framework/XPCServices/DiskManagementSubscriber.xpc/Contents/MacOS/DiskManagementSubscriber
+root               126   0.0  0.0 33962920   6344   ??  Us    2:00PM   0:37.48 /usr/libexec/diskarbitrationd
+dantopa           6974   0.0  0.0 34252172    780 s001  S+    2:51PM   0:00.00 grep -i disk
+dantopa           3934   0.0  0.0 33756992   3540   ??  S     2:17PM   0:00.03 /System/Library/PrivateFrameworks/KerberosHelper/Helpers/DiskUnmountWatcher
+dantopa           3933   0.0  0.0 33797148   3328   ??  S     2:17PM   0:00.02 /System/Library/Frameworks/DiskArbitration.framework/Versions/A/Support/DiskArbitrationAgent
+dantopa@Xiuhcoatl:hii $ sudo lsof | grep /Volumes
+Password:
+logd        94                  root  txt       REG                1,6      14959              214544 /System/Volumes/Preboot/Cryptexes/Incoming/OS/System/DriverKit/System/Library/dyld/dyld_shared_cache_x86_64h.atlas
+logd        94                  root  txt       REG                1,6      14959              197459 /System/Volumes/Preboot/Cryptexes/OS/System/DriverKit/System/Library/dyld/dyld_shared_cache_x86_64h.atlas
+logd        94                  root  txt       REG                1,6    1161276              208166 /System/Volumes/Preboot/Cryptexes/OS/System/Library/dyld/dyld_shared_cache_x86_64h.atlas
+logd        94                  root  txt       REG                1,6    1161276              225251 /System/Volumes/Preboot/Cryptexes/Incoming/OS/System/Library/dyld/dyld_shared_cache_x86_64h.atlas
+UserEvent   96                  root  txt       REG                1,6      14959              214544 /System/Volumes/Preboot/Cryptexes/Incoming/OS/System/DriverKit/System/Library/dyld/dyld_shared_cache_x86_64h.atlas
+UserEvent   96                  root  txt       REG                1,6      14959              197459 /System/Volumes/Preboot/Cryptexes/OS/System/DriverKit/System/Library/dyld/dyld_shared_cache_x86_64h.atlas
+UserEvent   96                  root  txt       REG                1,6    1161276              208166 /System/Volumes/Preboot/Cryptexes/OS/System/Library/dyld/dyld_shared_cache_x86_64h.atlas
+UserEvent   96                  root  txt       REG                1,6    1161276              225251 /System/Volumes/Preboot/Cryptexes/Incoming/OS/System/Library/dyld/dyld_shared_cache_x86_64h.atlas
+UserEvent   96                  root   33r      DIR                1,4        832 1152921500311879682 /System/Volumes/Data
+UserEvent   96                  root   35r      DIR                1,4        832 1152921500311879682 /System/Volumes/Data
+UserEvent   96                  root   36r      DIR                1,4        448 1152921500312497318 /System/Volumes
+UserEvent   96                  root   44r      DIR                1,4        832 1152921500311879682 /System/Volumes/Data
+UserEvent   96                  root   45r      DIR                1,4        448 1152921500312497318 /System/Volumes
+UserEvent   96                  root   50r      DIR                1,4        832 1152921500311879682 /System/Volumes/Data
+UserEvent   96                  root   51r      DIR                1,4        448 1152921500312497318 /System/Volumes
+UserEvent   96                  root   55r      DIR                1,4        448 1152921500312497318 /System/Volumes
+UserEvent   96                  root   62r      DIR                1,4        832 1152921500311879682 /System/Volumes/Data
+UserEvent   96                  root   63r      DIR                1,4        448 1152921500312497318 /System/Volumes
+UserEvent   96                  root   69r      DIR                1,4        832 1152921500311879682 /System/Volumes/Data
+UserEvent   96                  root   70r      DIR                1,4        448 1152921500312497318 /System/Volumes
+UserEvent   96                  root   74r      DIR                1,4        832 1152921500311879682 /System/Volumes/Data
+UserEvent   96                  root   75r      DIR                1,4        448 1152921500312497318 /System/Volumes
+UserEvent   96                  root   82r      DIR                1,4        832 1152921500311879682 /System/Volumes/Data
+UserEvent   96                  root   83r      DIR                1,4        448 1152921500312497318 /System/Volumes
+UserEvent   96                  root   89r      DIR                1,4        832 1152921500311879682 /System/Volumes/Data
+UserEvent   96                  root   90r      DIR                1,4        448 1152921500312497318 /System/Volumes
+UserEvent   96                  root  107r      DIR                1,4        832 1152921500311879682 /System/Volumes/Data
+UserEvent   96                  root  108r      DIR                1,4        448 1152921500312497318 /System/Volumes
+UserEvent   96                  root  126r      DIR                1,4        832 1152921500311879682 /System/Volumes/Data
+UserEvent   96                  root  127r      DIR                1,4        448 1152921500312497318 /System/Volumes
+UserEvent   96                  root  137r      DIR                1,4        832 1152921500311879682 /System/Volumes/Data
+UserEvent   96                  root  138r      DIR                1,4        448 1152921500312497318 /System/Volumes
+UserEvent   96                  root  143r      DIR                1,4        832 1152921500311879682 /System/Volumes/Data
+UserEvent   96                  root  144r      DIR                1,4        448 1152921500312497318 /System/Volumes
+UserEvent   96                  root  149r      DIR                1,4        832 1152921500311879682 /System/Volumes/Data
+UserEvent   96                  root  150r      DIR                1,4        448 1152921500312497318 /System/Volumes
+UserEvent   96                  root  178r      DIR                1,4        832 1152921500311879682 /System/Volumes/Data
+UserEvent   96                  root  179r      DIR                1,4        448 1152921500312497318 /System/Volumes
+UserEvent   96                  root  186r      DIR                1,4        832 1152921500311879682 /System/Volumes/Data
+UserEvent   96                  root  187r      DIR                1,4        448 1152921500312497318 /System/Volumes
+UserEvent   96                  root  192r      DIR                1,4        832 1152921500311879682 /System/Volumes/Data
+UserEvent   96                  root  193r      DIR                1,4        448 1152921500312497318 /System/Volumes
+UserEvent   96                  root  196r      DIR                1,4        288            29693719 /System/Volumes/Data/System/Library
+UserEvent   96                  root  197r      DIR                1,4         96            29693718 /System/Volumes/Data/System
+UserEvent   96                  root  198r      DIR                1,4        832 1152921500311879682 /System/Volumes/Data
+UserEvent   96                  root  199r      DIR                1,4        448 1152921500312497318 /System/Volumes
+UserEvent   96                  root  222r      DIR                1,4        832 1152921500311879682 /System/Volumes/Data
+UserEvent   96                  root  223r      DIR                1,4        448 1152921500312497318 /System/Volumes
+UserEvent   96                  root  227r      DIR                1,4        832 1152921500311879682 /System/Volumes/Data
+UserEvent   96                  root  228r      DIR                1,4        448 1152921500312497318 /System/Volumes
+UserEvent   96                  root  248r      DIR                1,4        832 1152921500311879682 /System/Volumes/Data
+UserEvent   96                  root  249r      DIR                1,4        448 1152921500312497318 /System/Volumes
+UserEvent   96                  root  254r      DIR                1,4        832 1152921500311879682 /System/Volumes/Data
+UserEvent   96                  root  255r      DIR                1,4        448 1152921500312497318 /System/Volumes
+UserEvent   96                  root  303r      DIR                1,4        832 1152921500311879682 /System/Volumes/Data
+UserEvent   96                  root  304r      DIR                1,4        448 1152921500312497318 /System/Volumes
+UserEvent   96                  root  308r      DIR                1,4        832 1152921500311879682 /System/Volumes/Data
+UserEvent   96                  root  309r      DIR                1,4        448 1152921500312497318 /System/Volumes
+UserEvent   96                  root  344r      DIR                1,4        832 1152921500311879682 /System/Volumes/Data
+UserEvent   96                  root  345r      DIR                1,4        448 1152921500312497318 /System/Volumes
+UserEvent   96                  root  351r      DIR                1,4        832 1152921500311879682 /System/Volumes/Data
+UserEvent   96                  root  352r      DIR                1,4        448 1152921500312497318 /System/Volumes
+configd    106                  root    8r      DIR                1,4        832 1152921500311879682 /System/Volumes/Data
+configd    106                  root    9r      DIR                1,4        448 1152921500312497318 /System/Volumes
+mds        123                  root    5r      DIR                1,4        832 1152921500311879682 /System/Volumes/Data
+mds        123                  root    6r      DIR                1,6        192                   2 /System/Volumes/Preboot
+mds        123                  root    7r      DIR                1,4        832 1152921500311879682 /System/Volumes/Data
+mds        123                  root   10r      DIR                1,4       5120               23095 /System/Volumes/Data/.Spotlight-V100/Store-V2/7CD35077-A038-4351-A0AF-C02EB98CA736
+mds        123                  root   11r      DIR                1,6        192                   2 /System/Volumes/Preboot
+mds        123                  root   14r      DIR                1,6        192                   2 /System/Volumes/Preboot
+mds        123                  root   15r      DIR                1,4        832 1152921500311879682 /System/Volumes/Data
+mds        123                  root   20u      REG                1,4        140               23245 /System/Volumes/Data/.Spotlight-V100/Store-V2/7CD35077-A038-4351-A0AF-C02EB98CA736/journalExclusion
+mds        123                  root   21r      DIR                1,4        832 1152921500311879682 /System/Volumes/Data
+mds        123                  root   23r      DIR               1,14        306                   2 /Volumes/Docker-VM-Xiuhcoatl
+kernelman  125                  root    6r      DIR                1,4        832 1152921500311879682 /System/Volumes/Data
+kernelman  125                  root    7r      DIR                1,4        448 1152921500312497318 /System/Volumes
+kernelman  125                  root   16r      DIR                1,4        832 1152921500311879682 /System/Volumes/Data
+kernelman  125                  root   17r      DIR                1,4        448 1152921500312497318 /System/Volumes
+PerfPower  151                  root  txt       REG                1,6    1161276              208166 /System/Volumes/Preboot/Cryptexes/OS/System/Library/dyld/dyld_shared_cache_x86_64h.atlas
+revisiond  154                  root    4r      DIR                1,4        832 1152921500311879682 /System/Volumes/Data
+revisiond  154                  root    5r      DIR                1,4        288             1095674 /System/Volumes/Data/.DocumentRevisions-V100
+revisiond  154                  root    6u      REG                1,4   13230080             1095682 /System/Volumes/Data/.DocumentRevisions-V100/db-V1/db.sqlite
+revisiond  154                  root    7u      REG                1,4    1036288             1095679 /System/Volumes/Data/.DocumentRevisions-V100/.cs/ChunkStoreDatabase
+revisiond  154                  root    8u      REG                1,4    4692712             1095681 /System/Volumes/Data/.DocumentRevisions-V100/.cs/ChunkStoreDatabase-wal
+revisiond  154                  root    9u      REG                1,4     737512             1095684 /System/Volumes/Data/.DocumentRevisions-V100/db-V1/db.sqlite-wal
+symptomsd  189             _networkd    7r      DIR                1,4        832 1152921500311879682 /System/Volumes/Data
+symptomsd  189             _networkd    8r      DIR                1,4        448 1152921500312497318 /System/Volumes
+symptomsd  189             _networkd   12r      DIR                1,4        832 1152921500311879682 /System/Volumes/Data
+symptomsd  189             _networkd   13r      DIR                1,4        448 1152921500312497318 /System/Volumes
+backgroun  190                  root    7r      DIR                1,4        832 1152921500311879682 /System/Volumes/Data
+backgroun  190                  root    8r      DIR                1,4        448 1152921500312497318 /System/Volumes
+backgroun  190                  root   13r      DIR                1,4        832 1152921500311879682 /System/Volumes/Data
+backgroun  190                  root   14r      DIR                1,4        448 1152921500312497318 /System/Volumes
+mobileass  205                  root  txt       REG                1,6   11233232              209681 /System/Volumes/Preboot/Cryptexes/OS/usr/lib/libmobileassetd.dylib
+cryptexd   226                  root    6r      DIR                1,6         96               31445 /System/Volumes/Preboot/com.apple.security.cryptexd
+cryptexd   226                  root   13r      DIR                1,6         64               31446 /System/Volumes/Preboot/com.apple.security.cryptexd/Cryptexes
+cryptexd   226                  root   16r      DIR                1,6        160                 504 /System/Volumes/Preboot/Cryptexes/App
+cryptexd   226                  root   17r      DIR                1,6        128                 506 /System/Volumes/Preboot/Cryptexes/Incoming/OS
+mds_store  293                  root  txt       REG                1,4      10432            31518278 /System/Volumes/Data/.Spotlight-V100/Store-V2/7CD35077-A038-4351-A0AF-C02EB98CA736/live.2.indexIds
+mds_store  293                  root  txt       REG                1,4       5216            31518279 /System/Volumes/Data/.Spotlight-V100/Store-V2/7CD35077-A038-4351-A0AF-C02EB98CA736/live.2.indexBigDates
+mds_store  293                  root  txt       REG                1,4       3277            31518280 /System/Volumes/Data/.Spotlight-V100/Store-V2/7CD35077-A038-4351-A0AF-C02EB98CA736/live.2.indexGroups
+mds_store  293                  root  txt       REG                1,4        640            31518286 /System/Volumes/Data/.Spotlight-V100/Store-V2/7CD35077-A038-4351-A0AF-C02EB98CA736/live.2.indexCompactDirectory
+mds_store  293                  root  txt       REG                1,4       2056            31518285 /System/Volumes/Data/.Spotlight-V100/Store-V2/7CD35077-A038-4351-A0AF-C02EB98CA736/live.2.indexDirectory
+mds_store  293                  root  txt       REG                1,4       3806            31518622 /System/Volumes/Data/.Spotlight-V100/Store-V2/7CD35077-A038-4351-A0AF-C02EB98CA736/live.0.indexGroups
+mds_store  293                  root  txt       REG                1,4       4096            31518500 /System/Volumes/Data/.Spotlight-V100/Store-V2/7CD35077-A038-4351-A0AF-C02EB98CA736/live.3.indexCompactDirectory
+mds_store  293                  root  txt       REG                1,4       3277            31518406 /System/Volumes/Data/.Spotlight-V100/Store-V2/7CD35077-A038-4351-A0AF-C02EB98CA736/live.1.indexGroups
+mds_store  293                  root  txt       REG                1,4      65536            31518289 /System/Volumes/Data/.Spotlight-V100/Store-V2/7CD35077-A038-4351-A0AF-C02EB98CA736/live.2.directoryStoreFile
+mds_store  293                  root  txt       REG                1,4       3277            31518494 /System/Volumes/Data/.Spotlight-V100/Store-V2/7CD35077-A038-4351-A0AF-C02EB98CA736/live.3.indexGroups
+mds_store  293                  root  txt       REG                1,4      12288               23150 /System/Volumes/Data/.Spotlight-V100/Store-V2/7CD35077-A038-4351-A0AF-C02EB98CA736/dbStr-1.map.data
+mds_store  293                  root  txt       REG                1,4       4096               23151 /System/Volumes/Data/.Spotlight-V100/Store-V2/7CD35077-A038-4351-A0AF-C02EB98CA736/dbStr-1.map.offsets
+mds_store  293                  root  txt       REG                1,4       4096               23152 /System/Volumes/Data/.Spotlight-V100/Store-V2/7CD35077-A038-4351-A0AF-C02EB98CA736/dbStr-1.map.buckets
+mds_store  293                  root  txt       REG                1,4  117301248               23154 /System/Volumes/Data/.Spotlight-V100/Store-V2/7CD35077-A038-4351-A0AF-C02EB98CA736/dbStr-2.map.data
+mds_store  293                  root  txt       REG                1,4   18866176               23155 /System/Volumes/Data/.Spotlight-V100/Store-V2/7CD35077-A038-4351-A0AF-C02EB98CA736/dbStr-2.map.offsets
+mds_store  293                  root  txt       REG                1,4   37724240               23156 /System/Volumes/Data/.Spotlight-V100/Store-V2/7CD35077-A038-4351-A0AF-C02EB98CA736/dbStr-2.map.buckets
+mds_store  293                  root  txt       REG                1,4       4096               23158 /System/Volumes/Data/.Spotlight-V100/Store-V2/7CD35077-A038-4351-A0AF-C02EB98CA736/dbStr-3.map.data
+mds_store  293                  root  txt       REG                1,4       4096               23159 /System/Volumes/Data/.Spotlight-V100/Store-V2/7CD35077-A038-4351-A0AF-C02EB98CA736/dbStr-3.map.offsets
+mds_store  293                  root  txt       REG                1,4       4096               23160 /System/Volumes/Data/.Spotlight-V100/Store-V2/7CD35077-A038-4351-A0AF-C02EB98CA736/dbStr-3.map.buckets
+mds_store  293                  root  txt       REG                1,4     290816               23163 /System/Volumes/Data/.Spotlight-V100/Store-V2/7CD35077-A038-4351-A0AF-C02EB98CA736/dbStr-4.map.offsets
+mds_store  293                  root  txt       REG                1,4     581336               23164 /System/Volumes/Data/.Spotlight-V100/Store-V2/7CD35077-A038-4351-A0AF-C02EB98CA736/dbStr-4.map.buckets
+mds_store  293                  root  txt       REG                1,4      49152               23166 /System/Volumes/Data/.Spotlight-V100/Store-V2/7CD35077-A038-4351-A0AF-C02EB98CA736/dbStr-5.map.data
+mds_store  293                  root  txt       REG                1,4       4096               23167 /System/Volumes/Data/.Spotlight-V100/Store-V2/7CD35077-A038-4351-A0AF-C02EB98CA736/dbStr-5.map.offsets
+mds_store  293                  root  txt       REG                1,4       4096               23168 /System/Volumes/Data/.Spotlight-V100/Store-V2/7CD35077-A038-4351-A0AF-C02EB98CA736/dbStr-5.map.buckets
+mds_store  293                  root  txt       REG                1,4       4080               23170 /System/Volumes/Data/.Spotlight-V100/Store-V2/7CD35077-A038-4351-A0AF-C02EB98CA736/dbStr-6.map.offsets
+mds_store  293                  root  txt       REG                1,4       4096               23171 /System/Volumes/Data/.Spotlight-V100/Store-V2/7CD35077-A038-4351-A0AF-C02EB98CA736/dbStr-6.map.buckets
+mds_store  293                  root  txt       REG                1,4   16777216            31512367 /System/Volumes/Data/.Spotlight-V100/Store-V2/7CD35077-A038-4351-A0AF-C02EB98CA736/reverseDirectoryStore
+mds_store  293                  root  txt       REG                1,4     957278            31512507 /System/Volumes/Data/.Spotlight-V100/Store-V2/7CD35077-A038-4351-A0AF-C02EB98CA736/0.indexGroups
+mds_store  293                  root  txt       REG                1,4       3312            31518404 /System/Volumes/Data/.Spotlight-V100/Store-V2/7CD35077-A038-4351-A0AF-C02EB98CA736/live.1.indexIds
+mds_store  293                  root  txt       REG                1,4       1656            31518405 /System/Volumes/Data/.Spotlight-V100/Store-V2/7CD35077-A038-4351-A0AF-C02EB98CA736/live.1.indexBigDates
+mds_store  293                  root  txt       REG                1,4       2056            31518411 /System/Volumes/Data/.Spotlight-V100/Store-V2/7CD35077-A038-4351-A0AF-C02EB98CA736/live.1.indexDirectory
+mds_store  293                  root  txt       REG                1,4      19028            31518621 /System/Volumes/Data/.Spotlight-V100/Store-V2/7CD35077-A038-4351-A0AF-C02EB98CA736/live.0.indexBigDates
+mds_store  293                  root  txt       REG                1,4        346            31518412 /System/Volumes/Data/.Spotlight-V100/Store-V2/7CD35077-A038-4351-A0AF-C02EB98CA736/live.1.indexCompactDirectory
+mds_store  293                  root  txt       REG                1,4      32768            31518492 /System/Volumes/Data/.Spotlight-V100/Store-V2/7CD35077-A038-4351-A0AF-C02EB98CA736/live.3.indexIds
+mds_store  293                  root  txt       REG                1,4      16384            31518493 /System/Volumes/Data/.Spotlight-V100/Store-V2/7CD35077-A038-4351-A0AF-C02EB98CA736/live.3.indexBigDates
+mds_store  293                  root  txt       REG                1,4       8224            31518499 /System/Volumes/Data/.Spotlight-V100/Store-V2/7CD35077-A038-4351-A0AF-C02EB98CA736/live.3.indexDirectory
+mds_store  293                  root  txt       REG                1,4      38056            31518620 /System/Volumes/Data/.Spotlight-V100/Store-V2/7CD35077-A038-4351-A0AF-C02EB98CA736/live.0.indexIds
+mds_store  293                  root  txt       REG                1,4     170648            31518627 /System/Volumes/Data/.Spotlight-V100/Store-V2/7CD35077-A038-4351-A0AF-C02EB98CA736/live.0.indexDirectory
+mds_store  293                  root  txt       REG                1,4     131072            31518631 /System/Volumes/Data/.Spotlight-V100/Store-V2/7CD35077-A038-4351-A0AF-C02EB98CA736/live.0.directoryStoreFile
+mds_store  293                  root  txt       REG                1,4      65536            31518415 /System/Volumes/Data/.Spotlight-V100/Store-V2/7CD35077-A038-4351-A0AF-C02EB98CA736/live.1.directoryStoreFile
+mds_store  293                  root  txt       REG                1,4   67104768               23162 /System/Volumes/Data/.Spotlight-V100/Store-V2/7CD35077-A038-4351-A0AF-C02EB98CA736/dbStr-4.map.data
+mds_store  293                  root  txt       REG                1,4    9572776            30966091 /System/Volumes/Data/.Spotlight-V100/Store-V2/7CD35077-A038-4351-A0AF-C02EB98CA736/0.indexIds
+mds_store  293                  root  txt       REG                1,4    4786388            30966092 /System/Volumes/Data/.Spotlight-V100/Store-V2/7CD35077-A038-4351-A0AF-C02EB98CA736/0.indexBigDates
+mds_store  293                  root  txt       REG                1,4   12470668            30966098 /System/Volumes/Data/.Spotlight-V100/Store-V2/7CD35077-A038-4351-A0AF-C02EB98CA736/0.indexDirectory
+mds_store  293                  root  txt       REG                1,4  263734088            30966099 /System/Volumes/Data/.Spotlight-V100/Store-V2/7CD35077-A038-4351-A0AF-C02EB98CA736/0.indexCompactDirectory
+mds_store  293                  root  txt       REG                1,4 1168695360            30966100 /System/Volumes/Data/.Spotlight-V100/Store-V2/7CD35077-A038-4351-A0AF-C02EB98CA736/0.indexArrays
+mds_store  293                  root  txt       REG                1,4   16777216            31512506 /System/Volumes/Data/.Spotlight-V100/Store-V2/7CD35077-A038-4351-A0AF-C02EB98CA736/0.directoryStoreFile
+mds_store  293                  root  txt       REG                1,4   16428736            31518629 /System/Volumes/Data/.Spotlight-V100/Store-V2/7CD35077-A038-4351-A0AF-C02EB98CA736/live.0.indexArrays
+mds_store  293                  root  txt       REG                1,4      65536            31518503 /System/Volumes/Data/.Spotlight-V100/Store-V2/7CD35077-A038-4351-A0AF-C02EB98CA736/live.3.directoryStoreFile
+mds_store  293                  root  txt       REG                1,4     436056            31518282 /System/Volumes/Data/.Spotlight-V100/Store-V2/7CD35077-A038-4351-A0AF-C02EB98CA736/live.2.indexTermIds
+mds_store  293                  root  txt       REG                1,4     878592            31518287 /System/Volumes/Data/.Spotlight-V100/Store-V2/7CD35077-A038-4351-A0AF-C02EB98CA736/live.2.indexArrays
+mds_store  293                  root  txt       REG                1,4     997888            31518413 /System/Volumes/Data/.Spotlight-V100/Store-V2/7CD35077-A038-4351-A0AF-C02EB98CA736/live.1.indexArrays
+mds_store  293                  root  txt       REG                1,4     522000            31518408 /System/Volumes/Data/.Spotlight-V100/Store-V2/7CD35077-A038-4351-A0AF-C02EB98CA736/live.1.indexTermIds
+mds_store  293                  root  txt       REG                1,4    3471302            31518628 /System/Volumes/Data/.Spotlight-V100/Store-V2/7CD35077-A038-4351-A0AF-C02EB98CA736/live.0.indexCompactDirectory
+mds_store  293                  root  txt       REG                1,4    2097152            31518496 /System/Volumes/Data/.Spotlight-V100/Store-V2/7CD35077-A038-4351-A0AF-C02EB98CA736/live.3.indexTermIds
+mds_store  293                  root  txt       REG                1,4    4194304            31518501 /System/Volumes/Data/.Spotlight-V100/Store-V2/7CD35077-A038-4351-A0AF-C02EB98CA736/live.3.indexArrays
+mds_store  293                  root    4r      DIR                1,4       5120               23095 /System/Volumes/Data/.Spotlight-V100/Store-V2/7CD35077-A038-4351-A0AF-C02EB98CA736
+mds_store  293                  root    8u      REG                1,4  317755392            31510623 /System/Volumes/Data/.Spotlight-V100/Store-V2/7CD35077-A038-4351-A0AF-C02EB98CA736/.store.db
+mds_store  293                  root   11r      DIR                1,4       5120               23095 /System/Volumes/Data/.Spotlight-V100/Store-V2/7CD35077-A038-4351-A0AF-C02EB98CA736
+mds_store  293                  root   15u      REG                1,4         28               23114 /System/Volumes/Data/.Spotlight-V100/Store-V2/7CD35077-A038-4351-A0AF-C02EB98CA736/indexState
+mds_store  293                  root   17u      REG                1,4  317755392            31510623 /System/Volumes/Data/.Spotlight-V100/Store-V2/7CD35077-A038-4351-A0AF-C02EB98CA736/.store.db
+mds_store  293                  root   18u      REG                1,4   16777216            31512367 /System/Volumes/Data/.Spotlight-V100/Store-V2/7CD35077-A038-4351-A0AF-C02EB98CA736/reverseDirectoryStore
+mds_store  293                  root   21r      REG                1,4     436056            31518284 /System/Volumes/Data/.Spotlight-V100/Store-V2/7CD35077-A038-4351-A0AF-C02EB98CA736/live.2.indexPositionTable
+mds_store  293                  root   26u      REG                1,4       4096            31518618 /System/Volumes/Data/.Spotlight-V100/Store-V2/7CD35077-A038-4351-A0AF-C02EB98CA736/live.0.indexHead
+mds_store  293                  root   27u      REG                1,4    4376735            31518623 /System/Volumes/Data/.Spotlight-V100/Store-V2/7CD35077-A038-4351-A0AF-C02EB98CA736/live.0.indexPostings
+mds_store  293                  root   28u      REG                1,4   27706936            31518625 /System/Volumes/Data/.Spotlight-V100/Store-V2/7CD35077-A038-4351-A0AF-C02EB98CA736/live.0.indexPositions
+mds_store  293                  root   30u      REG                1,4       3806            31518622 /System/Volumes/Data/.Spotlight-V100/Store-V2/7CD35077-A038-4351-A0AF-C02EB98CA736/live.0.indexGroups
+mds_store  293                  root   31u      REG                1,4      38056            31518620 /System/Volumes/Data/.Spotlight-V100/Store-V2/7CD35077-A038-4351-A0AF-C02EB98CA736/live.0.indexIds
+mds_store  293                  root   32u      REG                1,4      19028            31518621 /System/Volumes/Data/.Spotlight-V100/Store-V2/7CD35077-A038-4351-A0AF-C02EB98CA736/live.0.indexBigDates
+mds_store  293                  root   33u      REG                1,4    2097152            31518496 /System/Volumes/Data/.Spotlight-V100/Store-V2/7CD35077-A038-4351-A0AF-C02EB98CA736/live.3.indexTermIds
+mds_store  293                  root   34u      REG                1,4    4194304            31518495 /System/Volumes/Data/.Spotlight-V100/Store-V2/7CD35077-A038-4351-A0AF-C02EB98CA736/live.3.indexPostings
+mds_store  293                  root   35u      REG                1,4     524288            31518281 /System/Volumes/Data/.Spotlight-V100/Store-V2/7CD35077-A038-4351-A0AF-C02EB98CA736/live.2.indexPostings
+mds_store  293                  root   36u      REG                1,4    4194304            31518501 /System/Volumes/Data/.Spotlight-V100/Store-V2/7CD35077-A038-4351-A0AF-C02EB98CA736/live.3.indexArrays
+mds_store  293                  root   37u      REG                1,4    2097152            31518283 /System/Volumes/Data/.Spotlight-V100/Store-V2/7CD35077-A038-4351-A0AF-C02EB98CA736/live.2.indexPositions
+mds_store  293                  root   38u      REG                1,4       3277            31518280 /System/Volumes/Data/.Spotlight-V100/Store-V2/7CD35077-A038-4351-A0AF-C02EB98CA736/live.2.indexGroups
+mds_store  293                  root   39u      REG                1,4  317755392            31519651 /System/Volumes/Data/.Spotlight-V100/Store-V2/7CD35077-A038-4351-A0AF-C02EB98CA736/store.db
+mds_store  293                  root   40u      REG                1,4      62148            31519662 /System/Volumes/Data/.Spotlight-V100/Store-V2/7CD35077-A038-4351-A0AF-C02EB98CA736/journalAttr.7479
+mds_store  293                  root   43u      REG                1,4     524288            31518407 /System/Volumes/Data/.Spotlight-V100/Store-V2/7CD35077-A038-4351-A0AF-C02EB98CA736/live.1.indexPostings
+mds_store  293                  root   44u      REG                1,4       5216            31518279 /System/Volumes/Data/.Spotlight-V100/Store-V2/7CD35077-A038-4351-A0AF-C02EB98CA736/live.2.indexBigDates
+mds_store  293                  root   45u      REG                1,4      10432            31518278 /System/Volumes/Data/.Spotlight-V100/Store-V2/7CD35077-A038-4351-A0AF-C02EB98CA736/live.2.indexIds
+mds_store  293                  root   46u      REG                1,4       4096            31518276 /System/Volumes/Data/.Spotlight-V100/Store-V2/7CD35077-A038-4351-A0AF-C02EB98CA736/live.2.indexHead
+mds_store  293                  root   47u      REG                1,4     524288            31518281 /System/Volumes/Data/.Spotlight-V100/Store-V2/7CD35077-A038-4351-A0AF-C02EB98CA736/live.2.indexPostings
+mds_store  293                  root   49u      REG                1,4       4096            30966089 /System/Volumes/Data/.Spotlight-V100/Store-V2/7CD35077-A038-4351-A0AF-C02EB98CA736/0.indexHead
+mds_store  293                  root   50u      REG                1,4     524288            31518407 /System/Volumes/Data/.Spotlight-V100/Store-V2/7CD35077-A038-4351-A0AF-C02EB98CA736/live.1.indexPostings
+mds_store  293                  root   51u      REG                1,4    4376735            31518623 /System/Volumes/Data/.Spotlight-V100/Store-V2/7CD35077-A038-4351-A0AF-C02EB98CA736/live.0.indexPostings
+mds_store  293                  root   52u      REG                1,4     957278            31512507 /System/Volumes/Data/.Spotlight-V100/Store-V2/7CD35077-A038-4351-A0AF-C02EB98CA736/0.indexGroups
+mds_store  293                  root   63u      REG                1,4    4194304            31518495 /System/Volumes/Data/.Spotlight-V100/Store-V2/7CD35077-A038-4351-A0AF-C02EB98CA736/live.3.indexPostings
+mds_store  293                  root   65u      REG                1,4   33554432            31518497 /System/Volumes/Data/.Spotlight-V100/Store-V2/7CD35077-A038-4351-A0AF-C02EB98CA736/live.3.indexPositions
+mds_store  293                  root   66u      REG                1,4       3277            31518494 /System/Volumes/Data/.Spotlight-V100/Store-V2/7CD35077-A038-4351-A0AF-C02EB98CA736/live.3.indexGroups
+mds_store  293                  root   68u      REG                1,4    2097152            31518409 /System/Volumes/Data/.Spotlight-V100/Store-V2/7CD35077-A038-4351-A0AF-C02EB98CA736/live.1.indexPositions
+mds_store  293                  root   69u      REG                1,4       3277            31518406 /System/Volumes/Data/.Spotlight-V100/Store-V2/7CD35077-A038-4351-A0AF-C02EB98CA736/live.1.indexGroups
+mds_store  293                  root   70r      REG                1,4     522000            31518410 /System/Volumes/Data/.Spotlight-V100/Store-V2/7CD35077-A038-4351-A0AF-C02EB98CA736/live.1.indexPositionTable
+mds_store  293                  root   71u      REG                1,4    2097152            31518498 /System/Volumes/Data/.Spotlight-V100/Store-V2/7CD35077-A038-4351-A0AF-C02EB98CA736/live.3.indexPositionTable
+mds_store  293                  root   72u      REG                1,4       8224            31518499 /System/Volumes/Data/.Spotlight-V100/Store-V2/7CD35077-A038-4351-A0AF-C02EB98CA736/live.3.indexDirectory
+mds_store  293                  root   73u      REG                1,4       4096            31518500 /System/Volumes/Data/.Spotlight-V100/Store-V2/7CD35077-A038-4351-A0AF-C02EB98CA736/live.3.indexCompactDirectory
+mds_store  293                  root   75u      REG                1,4       1656            31518405 /System/Volumes/Data/.Spotlight-V100/Store-V2/7CD35077-A038-4351-A0AF-C02EB98CA736/live.1.indexBigDates
+mds_store  293                  root   76u      REG                1,4       3312            31518404 /System/Volumes/Data/.Spotlight-V100/Store-V2/7CD35077-A038-4351-A0AF-C02EB98CA736/live.1.indexIds
+mds_store  293                  root   77u      REG                1,4       4096            31518402 /System/Volumes/Data/.Spotlight-V100/Store-V2/7CD35077-A038-4351-A0AF-C02EB98CA736/live.1.indexHead
+mds_store  293                  root   78u      REG                1,4      16384            31518493 /System/Volumes/Data/.Spotlight-V100/Store-V2/7CD35077-A038-4351-A0AF-C02EB98CA736/live.3.indexBigDates
+mds_store  293                  root   79u      REG                1,4      32768            31518492 /System/Volumes/Data/.Spotlight-V100/Store-V2/7CD35077-A038-4351-A0AF-C02EB98CA736/live.3.indexIds
+mds_store  293                  root   80u      REG                1,4       4096            31518490 /System/Volumes/Data/.Spotlight-V100/Store-V2/7CD35077-A038-4351-A0AF-C02EB98CA736/live.3.indexHead
+mds_store  293                  root   90r      REG                1,4     170648            31518627 /System/Volumes/Data/.Spotlight-V100/Store-V2/7CD35077-A038-4351-A0AF-C02EB98CA736/live.0.indexDirectory
+mds_store  293                  root   97r      REG                1,4       2056            31518411 /System/Volumes/Data/.Spotlight-V100/Store-V2/7CD35077-A038-4351-A0AF-C02EB98CA736/live.1.indexDirectory
+mds_store  293                  root   98r      REG                1,4     436056            31518282 /System/Volumes/Data/.Spotlight-V100/Store-V2/7CD35077-A038-4351-A0AF-C02EB98CA736/live.2.indexTermIds
+mds_store  293                  root   99r      REG                1,4     878592            31518287 /System/Volumes/Data/.Spotlight-V100/Store-V2/7CD35077-A038-4351-A0AF-C02EB98CA736/live.2.indexArrays
+mds_store  293                  root  100r      REG                1,4     997888            31518413 /System/Volumes/Data/.Spotlight-V100/Store-V2/7CD35077-A038-4351-A0AF-C02EB98CA736/live.1.indexArrays
+mds_store  293                  root  101r      REG                1,4     522000            31518408 /System/Volumes/Data/.Spotlight-V100/Store-V2/7CD35077-A038-4351-A0AF-C02EB98CA736/live.1.indexTermIds
+mds_store  293                  root  120r      REG                1,4        346            31518412 /System/Volumes/Data/.Spotlight-V100/Store-V2/7CD35077-A038-4351-A0AF-C02EB98CA736/live.1.indexCompactDirectory
+mds_store  293                  root  121r      REG                1,4       2056            31518285 /System/Volumes/Data/.Spotlight-V100/Store-V2/7CD35077-A038-4351-A0AF-C02EB98CA736/live.2.indexDirectory
+mds_store  293                  root  122r      REG                1,4        640            31518286 /System/Volumes/Data/.Spotlight-V100/Store-V2/7CD35077-A038-4351-A0AF-C02EB98CA736/live.2.indexCompactDirectory
+mds_store  293                  root  126r      REG                1,4    3471302            31518628 /System/Volumes/Data/.Spotlight-V100/Store-V2/7CD35077-A038-4351-A0AF-C02EB98CA736/live.0.indexCompactDirectory
+mds_store  293                  root  127r      REG                1,4  702187962            30966094 /System/Volumes/Data/.Spotlight-V100/Store-V2/7CD35077-A038-4351-A0AF-C02EB98CA736/0.indexPostings
+mds_store  293                  root  128r      REG                1,4   16428736            31518629 /System/Volumes/Data/.Spotlight-V100/Store-V2/7CD35077-A038-4351-A0AF-C02EB98CA736/live.0.indexArrays
+mds_store  293                  root  143r      REG                1,4  263734088            30966099 /System/Volumes/Data/.Spotlight-V100/Store-V2/7CD35077-A038-4351-A0AF-C02EB98CA736/0.indexCompactDirectory
+mds_store  293                  root  147r      REG                1,4   12470668            30966098 /System/Volumes/Data/.Spotlight-V100/Store-V2/7CD35077-A038-4351-A0AF-C02EB98CA736/0.indexDirectory
+mds_store  293                  root  148r      REG                1,4 1168695360            30966100 /System/Volumes/Data/.Spotlight-V100/Store-V2/7CD35077-A038-4351-A0AF-C02EB98CA736/0.indexArrays
+mds_store  293                  root  183u      REG                1,4   16777216            31512506 /System/Volumes/Data/.Spotlight-V100/Store-V2/7CD35077-A038-4351-A0AF-C02EB98CA736/0.directoryStoreFile
+mds_store  293                  root  184r      REG                1,4  702187962            30966094 /System/Volumes/Data/.Spotlight-V100/Store-V2/7CD35077-A038-4351-A0AF-C02EB98CA736/0.indexPostings
+com.apple  303                  root    3u      REG                1,7    1871845                  18 /System/Volumes/Update/restore.log
+UserEvent  373               dantopa   12r      DIR                1,4        832 1152921500311879682 /System/Volumes/Data
+UserEvent  373               dantopa   13r      DIR                1,4        448 1152921500312497318 /System/Volumes
+UserEvent  373               dantopa   28r      DIR                1,4        832 1152921500311879682 /System/Volumes/Data
+UserEvent  373               dantopa   29r      DIR                1,4        448 1152921500312497318 /System/Volumes
+UserEvent  373               dantopa   36r      DIR                1,4        832 1152921500311879682 /System/Volumes/Data
+UserEvent  373               dantopa   37r      DIR                1,4        448 1152921500312497318 /System/Volumes
+UserEvent  373               dantopa   43r      DIR                1,4        832 1152921500311879682 /System/Volumes/Data
+UserEvent  373               dantopa   44r      DIR                1,4        448 1152921500312497318 /System/Volumes
+UserEvent  373               dantopa   51r      DIR                1,4        832 1152921500311879682 /System/Volumes/Data
+UserEvent  373               dantopa   52r      DIR                1,4        448 1152921500312497318 /System/Volumes
+UserEvent  373               dantopa   57r      DIR                1,4        832 1152921500311879682 /System/Volumes/Data
+UserEvent  373               dantopa   58r      DIR                1,4        448 1152921500312497318 /System/Volumes
+UserEvent  373               dantopa   64r      DIR                1,4        832 1152921500311879682 /System/Volumes/Data
+UserEvent  373               dantopa   65r      DIR                1,4        448 1152921500312497318 /System/Volumes
+UserEvent  373               dantopa   72r      DIR                1,4        832 1152921500311879682 /System/Volumes/Data
+UserEvent  373               dantopa   73r      DIR                1,4        448 1152921500312497318 /System/Volumes
+UserEvent  373               dantopa   81r      DIR                1,4        832 1152921500311879682 /System/Volumes/Data
+UserEvent  373               dantopa   82r      DIR                1,4        448 1152921500312497318 /System/Volumes
+UserEvent  373               dantopa   88r      DIR                1,4        832 1152921500311879682 /System/Volumes/Data
+UserEvent  373               dantopa   89r      DIR                1,4        448 1152921500312497318 /System/Volumes
+UserEvent  373               dantopa   95r      DIR                1,4        832 1152921500311879682 /System/Volumes/Data
+UserEvent  373               dantopa   96r      DIR                1,4        448 1152921500312497318 /System/Volumes
+UserEvent  373               dantopa  168r      DIR                1,4        832 1152921500311879682 /System/Volumes/Data
+UserEvent  373               dantopa  169r      DIR                1,4        448 1152921500312497318 /System/Volumes
+UserEvent  373               dantopa  174r      DIR                1,4        832 1152921500311879682 /System/Volumes/Data
+UserEvent  373               dantopa  175r      DIR                1,4        448 1152921500312497318 /System/Volumes
+UserEvent  373               dantopa  181r      DIR                1,4        832 1152921500311879682 /System/Volumes/Data
+UserEvent  373               dantopa  182r      DIR                1,4        448 1152921500312497318 /System/Volumes
+UserEvent  373               dantopa  214r      DIR                1,4        832 1152921500311879682 /System/Volumes/Data
+UserEvent  373               dantopa  215r      DIR                1,4        448 1152921500312497318 /System/Volumes
+UserEvent  373               dantopa  222r      DIR                1,4        832 1152921500311879682 /System/Volumes/Data
+UserEvent  373               dantopa  223r      DIR                1,4        448 1152921500312497318 /System/Volumes
+UserEvent  373               dantopa  227r      DIR                1,4        832 1152921500311879682 /System/Volumes/Data
+UserEvent  373               dantopa  240r      DIR                1,4        448 1152921500312497318 /System/Volumes
+UserEvent  373               dantopa  250r      DIR                1,4        832 1152921500311879682 /System/Volumes/Data
+UserEvent  373               dantopa  251r      DIR                1,4        448 1152921500312497318 /System/Volumes
+UserEvent  373               dantopa  258r      DIR                1,4        832 1152921500311879682 /System/Volumes/Data
+UserEvent  373               dantopa  272r      DIR                1,4        448 1152921500312497318 /System/Volumes
+UserEvent  373               dantopa  279r      DIR                1,4        832 1152921500311879682 /System/Volumes/Data
+UserEvent  373               dantopa  280r      DIR                1,4        448 1152921500312497318 /System/Volumes
+UserEvent  373               dantopa  307r      DIR                1,4        832 1152921500311879682 /System/Volumes/Data
+UserEvent  373               dantopa  308r      DIR                1,4        448 1152921500312497318 /System/Volumes
+UserEvent  373               dantopa  311r      DIR                1,4        832 1152921500311879682 /System/Volumes/Data
+UserEvent  373               dantopa  312r      DIR                1,4        448 1152921500312497318 /System/Volumes
+UserEvent  373               dantopa  347r      DIR                1,4        832 1152921500311879682 /System/Volumes/Data
+UserEvent  373               dantopa  348r      DIR                1,4        448 1152921500312497318 /System/Volumes
+UserEvent  373               dantopa  354r      DIR                1,4        832 1152921500311879682 /System/Volumes/Data
+UserEvent  373               dantopa  355r      DIR                1,4        448 1152921500312497318 /System/Volumes
+UserEvent  373               dantopa  359r      DIR                1,4        832 1152921500311879682 /System/Volumes/Data
+UserEvent  373               dantopa  360r      DIR                1,4        448 1152921500312497318 /System/Volumes
+UserEvent  373               dantopa  366r      DIR                1,4        832 1152921500311879682 /System/Volumes/Data
+UserEvent  373               dantopa  367r      DIR                1,4        448 1152921500312497318 /System/Volumes
+accountsd  396               dantopa  txt       REG                1,6     135680              213132 /System/Volumes/Preboot/Cryptexes/App/System/Library/Accounts/Notification/CloudBookmarksAccountsNotifier.bundle/Contents/MacOS/CloudBookmarksAccountsNotifier
+Dock       409               dantopa   10r      DIR                1,6         96              209724 /System/Volumes/Preboot/Cryptexes/App/System/Applications
+Dock       409               dantopa   21r      DIR                1,4        832 1152921500311879682 /System/Volumes/Data
+Dock       409               dantopa   22r      DIR                1,4        448 1152921500312497318 /System/Volumes
+Dock       409               dantopa   24r      DIR                1,6         96              209724 /System/Volumes/Preboot/Cryptexes/App/System/Applications
+Dock       409               dantopa   30r      DIR                1,4        832 1152921500311879682 /System/Volumes/Data
+Dock       409               dantopa   31r      DIR                1,4        448 1152921500312497318 /System/Volumes
+Dock       409               dantopa   37r      DIR                1,4        832 1152921500311879682 /System/Volumes/Data
+Dock       409               dantopa   38r      DIR                1,4        448 1152921500312497318 /System/Volumes
+fontd      412               dantopa    9r      DIR                1,4        832 1152921500311879682 /System/Volumes/Data
+fontd      412               dantopa   10r      DIR                1,4        448 1152921500312497318 /System/Volumes
+fontd      412               dantopa   17r      DIR                1,4        288            29693719 /System/Volumes/Data/System/Library
+fontd      412               dantopa   18r      DIR                1,4         96            29693718 /System/Volumes/Data/System
+fontd      412               dantopa   19r      DIR                1,4        832 1152921500311879682 /System/Volumes/Data
+fontd      412               dantopa   20r      DIR                1,4        448 1152921500312497318 /System/Volumes
+fontd      412               dantopa   44r      DIR                1,4        832 1152921500311879682 /System/Volumes/Data
+fontd      412               dantopa   45r      DIR                1,4        448 1152921500312497318 /System/Volumes
+pkd        433               dantopa  txt       REG                1,6     651504              198979 /System/Volumes/Preboot/Cryptexes/OS/System/Library/PrivateFrameworks/PlugInKitDaemon.framework/Versions/A/PlugInKitDaemon
+fileprovi  465               dantopa   31r      DIR                1,4        832 1152921500311879682 /System/Volumes/Data
+fileprovi  465               dantopa   32r      DIR                1,4        448 1152921500312497318 /System/Volumes
+fileprovi  465               dantopa   78r      DIR                1,4        832 1152921500311879682 /System/Volumes/Data
+fileprovi  465               dantopa   79r      DIR                1,4        448 1152921500312497318 /System/Volumes
+fileprovi  465               dantopa   83r      DIR                1,4        448 1152921500312497318 /System/Volumes
+fileprovi  465               dantopa   85r      DIR                1,4        832 1152921500311879682 /System/Volumes/Data
+fileprovi  465               dantopa   90r      DIR                1,4        832 1152921500311879682 /System/Volumes/Data
+fileprovi  465               dantopa   91r      DIR                1,4        448 1152921500312497318 /System/Volumes
+fileprovi  465               dantopa  101r      DIR                1,4        832 1152921500311879682 /System/Volumes/Data
+fileprovi  465               dantopa  102r      DIR                1,4        448 1152921500312497318 /System/Volumes
+AudioComp  488               dantopa   10r      DIR                1,4        832 1152921500311879682 /System/Volumes/Data
+AudioComp  488               dantopa   11r      DIR                1,4        448 1152921500312497318 /System/Volumes
+AudioComp  488               dantopa   22r      DIR                1,4        832 1152921500311879682 /System/Volumes/Data
+AudioComp  488               dantopa   23r      DIR                1,4        448 1152921500312497318 /System/Volumes
+spindump   491                  root  txt       REG                1,6    1161276              208166 /System/Volumes/Preboot/Cryptexes/OS/System/Library/dyld/dyld_shared_cache_x86_64h.atlas
+spindump   491                  root  txt       REG                1,6    1161276              225251 /System/Volumes/Preboot/Cryptexes/Incoming/OS/System/Library/dyld/dyld_shared_cache_x86_64h.atlas
+spindump   491                  root  txt       REG                1,6      14959              214544 /System/Volumes/Preboot/Cryptexes/Incoming/OS/System/DriverKit/System/Library/dyld/dyld_shared_cache_x86_64h.atlas
+spindump   491                  root  txt       REG                1,6      14959              197459 /System/Volumes/Preboot/Cryptexes/OS/System/DriverKit/System/Library/dyld/dyld_shared_cache_x86_64h.atlas
+askpermis  559               dantopa  txt       REG                1,6         42              198432 /System/Volumes/Preboot/Cryptexes/OS/System/Library/Frameworks/WebKit.framework/Versions/A/Resources/en.lproj/InfoPlist.strings
+amsaccoun  567               dantopa  txt       REG                1,6         42              198432 /System/Volumes/Preboot/Cryptexes/OS/System/Library/Frameworks/WebKit.framework/Versions/A/Resources/en.lproj/InfoPlist.strings
+Terminal   576               dantopa  txt       REG                1,6        104              211288 /System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app/Contents/Resources/en.lproj/ServicesMenu.strings
+Dropbox    579               dantopa  106r      DIR                1,4        832 1152921500311879682 /System/Volumes/Data
+Dropbox    579               dantopa  107r      DIR                1,4        448 1152921500312497318 /System/Volumes
+Dictionar  581               dantopa  txt       REG                1,6      33126              197871 /System/Volumes/Preboot/Cryptexes/OS/System/Library/Frameworks/WebKit.framework/Versions/A/Frameworks/WebCore.framework/Versions/A/Resources/en.lproj/Localizable.strings
+Dictionar  581               dantopa  txt       REG                1,6        759              197873 /System/Volumes/Preboot/Cryptexes/OS/System/Library/Frameworks/WebKit.framework/Versions/A/Frameworks/WebCore.framework/Versions/A/Resources/en.lproj/Localizable.stringsdict
+itunesclo  592               dantopa  txt       REG                1,6         42              198432 /System/Volumes/Preboot/Cryptexes/OS/System/Library/Frameworks/WebKit.framework/Versions/A/Resources/en.lproj/InfoPlist.strings
+amsengage  597               dantopa  txt       REG                1,6         42              198432 /System/Volumes/Preboot/Cryptexes/OS/System/Library/Frameworks/WebKit.framework/Versions/A/Resources/en.lproj/InfoPlist.strings
+commerce   615               dantopa  txt       REG                1,6         42              198432 /System/Volumes/Preboot/Cryptexes/OS/System/Library/Frameworks/WebKit.framework/Versions/A/Resources/en.lproj/InfoPlist.strings
+Podman     616               dantopa   62r      DIR                1,4        832 1152921500311879682 /System/Volumes/Data
+Podman     616               dantopa   63r      DIR                1,4        448 1152921500312497318 /System/Volumes
+Podman     616               dantopa   82r      DIR                1,4        832 1152921500311879682 /System/Volumes/Data
+Podman     616               dantopa   83r      DIR                1,4        448 1152921500312497318 /System/Volumes
+storekita  653               dantopa  txt       REG                1,6         42              198432 /System/Volumes/Preboot/Cryptexes/OS/System/Library/Frameworks/WebKit.framework/Versions/A/Resources/en.lproj/InfoPlist.strings
+SafariWid  949               dantopa  txt       REG                1,6     390944              210145 /System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app/Contents/Extensions/SafariWidgetExtension.appex/Contents/MacOS/SafariWidgetExtension
+SafariWid  949               dantopa  txt       REG                1,6        163              210195 /System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app/Contents/Extensions/SafariWidgetExtension.appex/Contents/Resources/en.lproj/Localizable.strings
+SafariWid  949               dantopa  txt       REG                1,6         42              210155 /System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app/Contents/Extensions/SafariWidgetExtension.appex/Contents/Resources/en.lproj/Localizable.stringsdict
+SafariWid  949               dantopa    6r      DIR                1,4        832 1152921500311879682 /System/Volumes/Data
+SafariWid  949               dantopa    7r      DIR                1,4        448 1152921500312497318 /System/Volumes
+appstorea 1080               dantopa  txt       REG                1,6         42              198432 /System/Volumes/Preboot/Cryptexes/OS/System/Library/Frameworks/WebKit.framework/Versions/A/Resources/en.lproj/InfoPlist.strings
+promotedc 1113               dantopa  txt       REG                1,6         42              198432 /System/Volumes/Preboot/Cryptexes/OS/System/Library/Frameworks/WebKit.framework/Versions/A/Resources/en.lproj/InfoPlist.strings
+adprivacy 1196               dantopa  txt       REG                1,6         42              198432 /System/Volumes/Preboot/Cryptexes/OS/System/Library/Frameworks/WebKit.framework/Versions/A/Resources/en.lproj/InfoPlist.strings
+SafariLin 1227               dantopa  txt       REG                1,6     103360              209733 /System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app/Contents/Extensions/SafariLinkExtension.appex/Contents/MacOS/SafariLinkExtension
+com.apple 1330               dantopa  cwd       DIR                1,6         96              198436 /System/Volumes/Preboot/Cryptexes/OS/System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.GPU.xpc
+com.apple 1330               dantopa  txt       REG                1,6     120208              198441 /System/Volumes/Preboot/Cryptexes/OS/System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.GPU.xpc/Contents/MacOS/com.apple.WebKit.GPU
+com.apple 1330               dantopa  txt       REG                1,6      33126              197871 /System/Volumes/Preboot/Cryptexes/OS/System/Library/Frameworks/WebKit.framework/Versions/A/Frameworks/WebCore.framework/Versions/A/Resources/en.lproj/Localizable.strings
+com.apple 1330               dantopa  txt       REG                1,6        759              197873 /System/Volumes/Preboot/Cryptexes/OS/System/Library/Frameworks/WebKit.framework/Versions/A/Frameworks/WebCore.framework/Versions/A/Resources/en.lproj/Localizable.stringsdict
+PasswordB 2849               dantopa  txt       REG                1,6     102560              214485 /System/Volumes/Preboot/Cryptexes/App/usr/libexec/PasswordBreachAgent
+SafariBoo 3236               dantopa  txt       REG                1,6    3173696              213930 /System/Volumes/Preboot/Cryptexes/App/System/Library/CoreServices/SafariSupport.bundle/Contents/MacOS/SafariBookmarksSyncAgent
+dantopa@Xiuhcoatl:hii $ diskutil list
+/dev/disk0 (internal, physical):
+   #:                       TYPE NAME                    SIZE       IDENTIFIER
+   0:      GUID_partition_scheme                        *2.0 TB     disk0
+   1:                        EFI EFI                     314.6 MB   disk0s1
+   2:                 Apple_APFS Container disk1         2.0 TB     disk0s2
+
+/dev/disk1 (synthesized):
+   #:                       TYPE NAME                    SIZE       IDENTIFIER
+   0:      APFS Container Scheme -                      +2.0 TB     disk1
+                                 Physical Store disk0s2
+   1:                APFS Volume Macintosh HD - Data     525.0 GB   disk1s1
+   2:                APFS Volume Preboot                 2.4 GB     disk1s2
+   3:                APFS Volume Recovery                1.3 GB     disk1s3
+   4:                APFS Volume Macintosh HD            11.2 GB    disk1s4
+   5:              APFS Snapshot com.apple.os.update-... 11.2 GB    disk1s4s1
+   6:                APFS Volume VM                      20.5 KB    disk1s6
+
+dantopa@Xiuhcoatl:hii $ diskutil list
+/dev/disk0 (internal, physical):
+   #:                       TYPE NAME                    SIZE       IDENTIFIER
+   0:      GUID_partition_scheme                        *2.0 TB     disk0
+   1:                        EFI EFI                     314.6 MB   disk0s1
+   2:                 Apple_APFS Container disk1         2.0 TB     disk0s2
+
+/dev/disk1 (synthesized):
+   #:                       TYPE NAME                    SIZE       IDENTIFIER
+   0:      APFS Container Scheme -                      +2.0 TB     disk1
+                                 Physical Store disk0s2
+   1:                APFS Volume Macintosh HD - Data     525.0 GB   disk1s1
+   2:                APFS Volume Preboot                 2.4 GB     disk1s2
+   3:                APFS Volume Recovery                1.3 GB     disk1s3
+   4:                APFS Volume Macintosh HD            11.2 GB    disk1s4
+   5:              APFS Snapshot com.apple.os.update-... 11.2 GB    disk1s4s1
+   6:                APFS Volume VM                      20.5 KB    disk1s6
+
+/dev/disk2 (external, physical):
+   #:                       TYPE NAME                    SIZE       IDENTIFIER
+   0:      GUID_partition_scheme                        *2.0 TB     disk2
+   1:                        EFI EFI                     209.7 MB   disk2s1
+   2:                  Apple_HFS Docker-VM-Xiuhcoatl     2.0 TB     disk2s2
+
+dantopa@Xiuhcoatl:hii $ diskutil repairDisk /dev/disk2
+Repairing the partition map might erase disk2s1, proceed? (y/N) y
+Started partition map repair on disk2
+Checking prerequisites
+Checking the partition list
+Adjusting partition map to fit whole disk as required
+Checking for an EFI system partition
+Checking the EFI system partition's size
+Checking the EFI system partition's file system
+Checking the EFI system partition's folder content
+Checking all HFS data partition loader spaces
+Checking booter partitions
+Reviewing boot support loaders
+Checking Core Storage Physical Volume partitions
+The partition map appears to be OK
+Finished partition map repair on disk2
+dantopa@Xiuhcoatl:hii $ docker ps -a
+^Z
+[1]+  Stopped                 docker ps -a
+dantopa@Xiuhcoatl:hii $ ^C
+dantopa@Xiuhcoatl:hii $ diskutil repairDisk /dev/disk2
+Unable to find disk for /dev/disk2
+dantopa@Xiuhcoatl:hii $ diskutil list
+diskutil: interrupted
+dantopa@Xiuhcoatl:hii $ killall -9 "Disk Utility"
+No matching processes belonging to you were found
+dantopa@Xiuhcoatl:hii $ ps aux | grep -i disk
+root               126  99.4  0.0 33962920   6456   ??  Rs    2:00PM   3:51.92 /usr/libexec/diskarbitrationd
+_rmd              1442   0.0  0.0 34476732   2544   ??  Ss    2:02PM   0:00.05 /System/Library/PrivateFrameworks/RemoteManagement.framework/XPCServices/DiskManagementSubscriber.xpc/Contents/MacOS/DiskManagementSubscriber
+dantopa           7901   0.0  0.0 34270604    844 s001  S+    3:00PM   0:00.00 grep -i disk
+dantopa           3934   0.0  0.0 33765184   3588   ??  S     2:17PM   0:00.03 /System/Library/PrivateFrameworks/KerberosHelper/Helpers/DiskUnmountWatcher
+dantopa           3933   0.0  0.0 33806364   3404   ??  S     2:17PM   0:00.03 /System/Library/Frameworks/DiskArbitration.framework/Versions/A/Support/DiskArbitrationAgent
+dantopa@Xiuhcoatl:hii $ diskutil list
+/dev/disk0 (internal, physical):
+   #:                       TYPE NAME                    SIZE       IDENTIFIER
+   0:      GUID_partition_scheme                        *2.0 TB     disk0
+   1:                        EFI EFI                     314.6 MB   disk0s1
+   2:                 Apple_APFS Container disk1         2.0 TB     disk0s2
+
+/dev/disk1 (synthesized):
+   #:                       TYPE NAME                    SIZE       IDENTIFIER
+   0:      APFS Container Scheme -                      +2.0 TB     disk1
+                                 Physical Store disk0s2
+   1:                APFS Volume Macintosh HD - Data     525.0 GB   disk1s1
+   2:                APFS Volume Preboot                 2.4 GB     disk1s2
+   3:                APFS Volume Recovery                1.3 GB     disk1s3
+   4:                APFS Volume Macintosh HD            11.2 GB    disk1s4
+   5:              APFS Snapshot com.apple.os.update-... 11.2 GB    disk1s4s1
+   6:                APFS Volume VM                      20.5 KB    disk1s6
+
+dantopa@Xiuhcoatl:hii $ 
+  [Restored Apr 12, 2025 at 19:35:41]
+Last login: Sat Apr 12 19:35:37 on console
+%                                                                                                                                                                         dantopa@Xiuhcoatl ~ % bash
+Sat Apr 12 19:35:43 MDT 2025, /Users/dantopa/.xiuhcoatl.sh
+Warning: .extras.sh script not found.
+Sat Apr 12 19:35:49 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/master.sh
+
+2025-04-12 19:35:49 - Step 1: shopt -s expand_aliases
+
+2025-04-12 19:35:50 - Step 2: source "${core}/paths.sh"
+Sat Apr 12 19:35:50 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/paths.sh
+$locker = /Users/dantopa//.info/xiuhcoatl ***************************************
+Starting parallel execution of scripts at Sat Apr 12 19:35:50 MDT 2025
+Collector directory: /var/folders/z2/dyld4b113d72phgychy5cs2h0000gn/T/tmp.yUwII0CehO
+  Substep 2.1: source $script
+  Substep 2.1: source $script
+  Substep 2.1: source $script
+  Substep 2.1: source $script
+  Substep 2.1: source $script
+  Substep 2.1: source $script
+  Substep 2.1: source $script
+  Substep 2.1: source $script
+  Substep 2.1: source $script
+  Substep 2.1: source $script
+  Substep 2.1: source $script
+  Substep 2.1: source $script
+  Substep 2.1: source $script
+  Substep 2.1: source $script
+  Substep 2.1: source $script
+  Substep 2.1: source $script
+  Substep 2.1: source $script
+  Substep 2.1: source $script
+  Substep 2.1: source $script
+  Substep 2.1: source $script
+  Substep 2.1: source $script
+  Substep 2.1: source $script
+Waiting for all background processes to complete...
+  Substep 2.1: source $script
+Sat Apr 12 19:35:50 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/gcc.sh
+Sat Apr 12 19:35:50 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/git.sh
+Sat Apr 12 19:35:50 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/ssh.sh
+Sat Apr 12 19:35:50 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/vim.sh
+Sat Apr 12 19:35:50 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/alias.sh
+Sat Apr 12 19:35:50 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/make.sh
+Sat Apr 12 19:35:50 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/grep.sh
+Sat Apr 12 19:35:50 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/bash.sh
+Sat Apr 12 19:35:50 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/finds.sh
+Sat Apr 12 19:35:50 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/cmake.sh
+Sat Apr 12 19:35:50 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/alias.sh
+Sat Apr 12 19:35:50 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/python.sh
+Sat Apr 12 19:35:50 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/docker.sh
+Sat Apr 12 19:35:50 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/disk.sh
+Sat Apr 12 19:35:50 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/uname.sh
+/Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/uname.sh: line 5: write_standard_header: command not found
+Sat Apr 12 19:35:50 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/spack.sh
+Sat Apr 12 19:35:50 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/alias-navigation.sh
+Sat Apr 12 19:35:50 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/lstopo.sh
+Skipping generation: /Users/dantopa//.info/xiuhcoatl/lstopo.ascii already exists. Use --force to overwrite.
+Skipping additional output: /Users/dantopa//.info/xiuhcoatl/lstopo-v.txt already exists.
+Generating additional output: /Users/dantopa//.info/xiuhcoatl/lstopo.pdf
+Sat Apr 12 19:35:50 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/c.sh
+Sat Apr 12 19:35:50 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/fortran.sh
+Sat Apr 12 19:35:50 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/bookmarks.sh
+Sat Apr 12 19:35:50 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/modules.sh
+/Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/modules.sh: line 12: write_standard_header: command not found
+/Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/modules.sh: line 17: write_standard_header: command not found
+Sat Apr 12 19:35:50 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/macports.sh
+Skipping additional output: /Users/dantopa//.info/xiuhcoatl/lstopo-p.txt already exists.
+Generating additional output: /Users/dantopa//.info/xiuhcoatl/lstopo.png
+Sat Apr 12 19:35:51 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/bookmarks-bitbucket.sh
+lstopo script completed.
+Sat Apr 12 19:35:51 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/bookmarks-github.sh
+All background processes have completed at Sat Apr 12 19:35:51 MDT 2025.
+bash: /var/folders/z2/dyld4b113d72phgychy5cs2h0000gn/T/tmp.yUwII0CehO/spack.sh.collector: line 31: syntax error near unexpected token `('
+bash: /var/folders/z2/dyld4b113d72phgychy5cs2h0000gn/T/tmp.yUwII0CehO/spack.sh.collector: line 31: `gospack () '
+Sat Apr 12 19:35:51 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/projects-fortran.sh
+Sat Apr 12 19:35:51 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/logs.sh
+Logs directory created at /Users/dantopa//logs
+Sat Apr 12 19:35:51 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/copy-configuration.sh
+threads completed for copy-configuration.sh write to /Users/dantopa//repos-xiuhcoatl/bitbucket/mac-configurations/Macmini8,1-(xiuhcoatl)/darwin-24.4.0/Sequoia-15.4/Xiuhcoatl ...
+${PWD} = /Users/dantopa/repos-xiuhcoatl/bitbucket/mac-configurations
+git add -A . 
+fatal: not a git repository (or any of the parent directories): .git
+git commit -m 'xiuhcoatl native Sequoia-15.4 2025-04-12 19:35'
+fatal: not a git repository (or any of the parent directories): .git
+/Users/dantopa/repos-xiuhcoatl/bitbucket/mac-configurations
+to push configuration to repo, use alias gomac
+Sat Apr 12 19:35:51 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/prompt.sh
+Sat Apr 12 19:35:52 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/environment.sh
+bash: /Users/dantopa//.info/xiuhcoatl: Is a directory
+bash: /Users/dantopa//.info/xiuhcoatl: Is a directory
+bash: /Users/dantopa//.info/xiuhcoatl: Is a directory
+bash: /Users/dantopa//.info/xiuhcoatl: Is a directory
+bash: /Users/dantopa//.info/xiuhcoatl: Is a directory
+bash: /Users/dantopa//.info/xiuhcoatl: Is a directory
+bash: /Users/dantopa//.info/xiuhcoatl: Is a directory
+Sat Apr 12 19:35:52 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/snapshot.sh
+Environment variables saved to /Users/dantopa//.info/xiuhcoatl/environment-variables.txt
+Alias settings saved to /Users/dantopa//.info/xiuhcoatl/alias-settings.txt
+Shell functions saved to /Users/dantopa//.info/xiuhcoatl/shell-functions.txt
+Snapshot completed. Files saved in /Users/dantopa//.info/xiuhcoatl.
+No duplicate entries in PATH.
+Unique PATH entries (in order):
+/opt/local/bin:/opt/local/sbin:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin:/Library/TeX/texbin:/opt/podman/bin:
+===>  user account = dantopa
+===>  ${SHELL} = /bin/zsh
+===>  GNU bash, version 5.2.37(1)-release (x86_64-apple-darwin24.2.0)
+Copyright (C) 2022 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>
+
+This is free software; you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.
+===>  gcc --version: gcc (MacPorts gcc14 14.2.0_3+stdlib_flag) 14.2.0
+Copyright (C) 2024 Free Software Foundation, Inc.
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+
+Total elapsed time: 00:03 (MM:SS)
+Warning: /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/xiuhcoatl}.sh not found.
+Sat Apr 12 19:35:52 MDT 2025, /Users/dantopa//.platform-specific.sh
+Sat Apr 12 19:35:52 MDT 2025, /Users/dantopa//repos-xiuhcoatl/github/cross-platform-setup/master-scripts/apple.sh
+macOS Sequoia 15.4, Darwin 24.4.0
+platform-specific.sh loaded successfully.
+Copied /Users/dantopa/.xiuhcoatl.sh to /Users/dantopa//.info/xiuhcoatl
+dantopa@Xiuhcoatl:dantopa $ e
+podman pull ubuntu:latest
+bash: e: command not found
+Cannot connect to Podman. Please verify your connection to the Linux system using `podman system connection list`, or try `podman machine init` and `podman machine start` to manage a new Linux VM
+Error: unable to connect to Podman socket: failed to connect: dial tcp 127.0.0.1:50104: connect: connection refused
+dantopa@Xiuhcoatl:dantopa $ podman pull ubuntu:latest
+Cannot connect to Podman. Please verify your connection to the Linux system using `podman system connection list`, or try `podman machine init` and `podman machine start` to manage a new Linux VM
+Error: unable to connect to Podman socket: failed to connect: dial tcp 127.0.0.1:50104: connect: connection refused
+dantopa@Xiuhcoatl:dantopa $ podman system connection list
+Name                         URI                                                         Identity                                                       Default     ReadWrite
+podman-machine-default       ssh://core@127.0.0.1:50104/run/user/501/podman/podman.sock  /Users/dantopa/.local/share/containers/podman/machine/machine  false       true
+podman-machine-default-root  ssh://root@127.0.0.1:50104/run/podman/podman.sock           /Users/dantopa/.local/share/containers/podman/machine/machine  true        true
+dantopa@Xiuhcoatl:dantopa $ podman pull ubuntu:latest
+Cannot connect to Podman. Please verify your connection to the Linux system using `podman system connection list`, or try `podman machine init` and `podman machine start` to manage a new Linux VM
+Error: unable to connect to Podman socket: failed to connect: dial tcp 127.0.0.1:50104: connect: connection refused
+dantopa@Xiuhcoatl:dantopa $ podman machine stop
+Machine "podman-machine-default" stopped successfully
+dantopa@Xiuhcoatl:dantopa $ podman machine rm
+The following files will be deleted:
+
+
+/Users/dantopa/.config/containers/podman/machine/applehv/podman-machine-default.json
+/var/folders/z2/dyld4b113d72phgychy5cs2h0000gn/T/podman/podman-machine-default.sock
+/var/folders/z2/dyld4b113d72phgychy5cs2h0000gn/T/podman/podman-machine-default-gvproxy.sock
+/var/folders/z2/dyld4b113d72phgychy5cs2h0000gn/T/podman/podman-machine-default-api.sock
+/var/folders/z2/dyld4b113d72phgychy5cs2h0000gn/T/podman/podman-machine-default.log
+Are you sure you want to continue? [y/N] y
+dantopa@Xiuhcoatl:dantopa $ podman machine init
+Looking up Podman Machine image at quay.io/podman/machine-os:5.2 to create VM
+Extracting compressed file: podman-machine-default-amd64.raw: done  
+Machine init complete
+To start your machine run:
+
+	podman machine start
+
+dantopa@Xiuhcoatl:dantopa $ podman machine start
+Starting machine "podman-machine-default"
+
+This machine is currently configured in rootless mode. If your containers
+require root permissions (e.g. ports < 1024), or if you run into compatibility
+issues with non-podman clients, you can switch using the following command:
+
+	podman machine set --rootful
+
+API forwarding listening on: /var/folders/z2/dyld4b113d72phgychy5cs2h0000gn/T/podman/podman-machine-default-api.sock
+
+Another process was listening on the default Docker API socket address.
+You can still connect Docker API clients by setting DOCKER_HOST using the
+following command in your terminal session:
+
+        export DOCKER_HOST='unix:///var/folders/z2/dyld4b113d72phgychy5cs2h0000gn/T/podman/podman-machine-default-api.sock'
+
+Machine "podman-machine-default" started successfully
+dantopa@Xiuhcoatl:dantopa $ podman machine list
+NAME                     VM TYPE     CREATED         LAST UP            CPUS        MEMORY      DISK SIZE
+podman-machine-default*  applehv     46 seconds ago  Currently running  6           2GiB        100GiB
+dantopa@Xiuhcoatl:dantopa $ podman pull ubuntu:latest
+Resolved "ubuntu" as an alias (/etc/containers/registries.conf.d/000-shortnames.conf)
+Trying to pull docker.io/library/ubuntu:latest...
+Getting image source signatures
+Copying blob sha256:2726e237d1a374379e783053d93d0345c8a3bf3c57b5d35b099de1ad777486ee
+Copying config sha256:602eb6fb314b5fafad376a32ab55194e535e533dec6552f82b70d7ac0e554b1c
+Writing manifest to image destination
+602eb6fb314b5fafad376a32ab55194e535e533dec6552f82b70d7ac0e554b1c
+dantopa@Xiuhcoatl:dantopa $ podman run -it ubuntu:latest bash
+root@37f36d1859b5:/# apt-get update
+Get:1 http://security.ubuntu.com/ubuntu noble-security InRelease [126 kB]
+Get:2 http://archive.ubuntu.com/ubuntu noble InRelease [256 kB]
+Get:3 http://security.ubuntu.com/ubuntu noble-security/restricted amd64 Packages [1088 kB]
+Get:4 http://security.ubuntu.com/ubuntu noble-security/universe amd64 Packages [1071 kB]
+Get:5 http://security.ubuntu.com/ubuntu noble-security/multiverse amd64 Packages [21.9 kB]
+Get:6 http://security.ubuntu.com/ubuntu noble-security/main amd64 Packages [934 kB]                           
+Get:7 http://archive.ubuntu.com/ubuntu noble-updates InRelease [126 kB]                                     
+Get:8 http://archive.ubuntu.com/ubuntu noble-backports InRelease [126 kB]
+Get:9 http://archive.ubuntu.com/ubuntu noble/main amd64 Packages [1808 kB]
+Get:10 http://archive.ubuntu.com/ubuntu noble/multiverse amd64 Packages [331 kB]
+Get:11 http://archive.ubuntu.com/ubuntu noble/universe amd64 Packages [19.3 MB]
+Get:12 http://archive.ubuntu.com/ubuntu noble/restricted amd64 Packages [117 kB]
+Get:13 http://archive.ubuntu.com/ubuntu noble-updates/restricted amd64 Packages [1132 kB]
+Get:14 http://archive.ubuntu.com/ubuntu noble-updates/multiverse amd64 Packages [26.4 kB]
+Get:15 http://archive.ubuntu.com/ubuntu noble-updates/universe amd64 Packages [1366 kB]
+Get:16 http://archive.ubuntu.com/ubuntu noble-updates/main amd64 Packages [1258 kB]
+Get:17 http://archive.ubuntu.com/ubuntu noble-backports/main amd64 Packages [48.0 kB]
+Get:18 http://archive.ubuntu.com/ubuntu noble-backports/universe amd64 Packages [30.9 kB]
+Fetched 29.2 MB in 6s (5049 kB/s)   
+Reading package lists... Done
+root@37f36d1859b5:/# apt-get upgrade
+Reading package lists... Done
+Building dependency tree... Done
+Reading state information... Done
+Calculating upgrade... Done
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+root@37f36d1859b5:/# vim
+bash: vim: command not found
+root@37f36d1859b5:/# apt-get install vim
+Reading package lists... Done
+Building dependency tree... Done
+Reading state information... Done
+The following additional packages will be installed:
+  libexpat1 libgpm2 libpython3.12-minimal libpython3.12-stdlib libpython3.12t64 libreadline8t64 libsodium23 libsqlite3-0 media-types netbase readline-common tzdata vim-common vim-runtime xxd
+Suggested packages:
+  gpm readline-doc ctags vim-doc vim-scripts
+The following NEW packages will be installed:
+  libexpat1 libgpm2 libpython3.12-minimal libpython3.12-stdlib libpython3.12t64 libreadline8t64 libsodium23 libsqlite3-0 media-types netbase readline-common tzdata vim vim-common vim-runtime xxd
+0 upgraded, 16 newly installed, 0 to remove and 0 not upgraded.
+Need to get 16.3 MB of archives.
+After this operation, 72.1 MB of additional disk space will be used.
+Do you want to continue? [Y/n] 

@@ -1,14 +1,14 @@
 #!/usr/bin/env bash
 printf "%s\n" "$(tput bold)$(date) ${BASH_SOURCE[0]}$(tput sgr0)"
 
-# docker pull ubuntu:25.04
-# docker run -it  -v  /Users/dantopa/repos-xiuhcoatl/github/hii:/dantopa/hii ubuntu:25.04
+# podman pull ubuntu:latest
+# podman run -it -v /Users/dantopa/repos-xiuhcoatl/github/hii/podman:/home/podman ubuntu-raw-vim bash
 # mkdir -p apt-get/log; cd apt-get/ ; apt-get update ; apt-get install -y vim
 # select 2, 49
-# cp /dantopa/hii/ubuntu-build-05.sh .
-# cp /dantopa/hii/generate-ssh-keys.sh .
-# chmod +x ubuntu-build-05.sh
-# sudo ./ubuntu-build-05.sh 2>&1 | tee ubuntu-build.log
+# cp /dantopa/hii/podman/ubuntu-podman-01.sh .
+# cp /dantopa/hii//podman/generate-ssh-keys.sh .
+# chmod +x /ubuntu-podman-01.sh
+# sudo ./ubuntu-build-03.sh 2>&1 | tee ubuntu-build.log
 
 counter=0
 subcounter=0
@@ -241,13 +241,8 @@ sub_step "Running apt-get update"
 sub_step "Running apt-get upgrade"
     apt-get upgrade -y > "upgrade.log" 2>&1
 
-new_step "Julia: a demanding mistress"
-sub_step "apt-get install -y software-properties-common"
-    apt-get install -y software-properties-common
-sub_step "add-apt-repository -y ppa:julialang/stable"
-    add-apt-repository -y ppa:julialang/stable
-sub_step "apt-get install update - again"
-    apt-get update >> "update.log" 2>&1
+#new_step "Setting Timezone to Albuquerque"
+#timedatectl set-timezone America/Denver
 
 new_step "Creating user john.beighle"
 sub_step "Adding user with sudo privileges"
@@ -255,6 +250,14 @@ sub_step "Adding user with sudo privileges"
     echo "john.beighle:john.beighle" | chpasswd
     usermod -aG sudo john.beighle
 
+new_step "Julia: a demanding mistress"
+sub_step "apt-get install -y software-properties-common"
+    apt-get install -y software-properties-common
+sub_step "add-apt-repository -y ppa:julialang/stable"
+    add-apt-repository -y ppa:julialang/stable
+sub_step "apt-get install update - again"
+    apt-get update >> "update.log" 2>&1
+    
 new_step "Installing via apt-get"
 for pkg in "${PACKAGES[@]}"; do
     sub_step "Installing ${pkg}"
@@ -267,7 +270,7 @@ for pkg in "${PACKAGES[@]}"; do
 done
 
 new_step "Creating vim configuration in /etc/vim/vimrc"
-    sudo bash -c 'cat > /etc/vim/vimrc << EOF
+    sudo bash -c 'cat > /etc/vim/.vimrc << EOF
 syntax on
 set number
 set ruler
@@ -309,12 +312,12 @@ new_step "Switching to spack"
         source spack/share/spack/setup-env.sh
     sub_step "spack compiler find"
         spack compiler find 2>&1 | tee ~/spack/log/compiler_find.log
-    sub_step "Installing base Python tools"
-        spack install py-astropy 2>&1 | tee ~/spack/log/py-astropy.log
-        spack install py-virtualenv 2>&1 | tee ~/spack/log/py-virtualenv.log
-    sub_step "Installing base Python tools"
-        spack install opencoarrays 2>&1 | tee ~/spack/log/opencoarrays.log
-        spack install gcc 2>&1 | tee ~/spack/log/gcc.log
+#    sub_step "Installing base Python tools"
+#        spack install py-astropy 2>&1 | tee ~/spack/log/py-astropy.log
+#        spack install py-virtualenv 2>&1 | tee ~/spack/log/py-virtualenv.log
+#    sub_step "Installing base Python tools"
+#        spack install opencoarrays 2>&1 | tee ~/spack/log/opencoarrays.log
+#        spack install gcc 2>&1 | tee ~/spack/log/gcc.log
 #    sub_step "Installing Core Parallel Processing"
 #        spack install py-mpi4py 2>&1 | tee ~/spack/log/py-mpi4py.log
 #        spack install py-dask 2>&1 | tee ~/spack/log/py-dask.log
