@@ -8,7 +8,8 @@ printf "%s\n" "$(tput bold)$(date) ${BASH_SOURCE[0]}$(tput sgr0)"
 # cp /dantopa/hii/ubuntu-build-05.sh .
 # cp /dantopa/hii/generate-ssh-keys.sh .
 # chmod +x ubuntu-build-05.sh
-# sudo ./ubuntu-build-05.sh 2>&1 | tee ubuntu-build.log
+# chmod +x generate-ssh-keys.sh
+sudo ./ubuntu-build-05.sh 2>&1 | tee ubuntu-build.log
 
 counter=0
 subcounter=0
