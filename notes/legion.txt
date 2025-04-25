@@ -1,0 +1,24 @@
+dantopa@Xiuhcoatl:xiuhcoatl-Sequoia-spack $ spack install --keep-stage legion 
+==> Warning: The packages:all:compiler preference has been deprecated in Spack v1.0, and is currently ignored. It will be removed from config in Spack v1.2.
+==> Warning: The packages:all:compiler preference has been deprecated in Spack v1.0, and is currently ignored. It will be removed from config in Spack v1.2.
+==> Warning: The packages:all:compiler preference has been deprecated in Spack v1.0, and is currently ignored. It will be removed from config in Spack v1.2.
+[+] /Users/dantopa/xiuhcoatl-Sequoia-spack/opt/spack/darwin-skylake/gcc-runtime-14.2.0-yfvyupfdvwr6qusv4bojpj44dy3rul6e
+[+] /Users/dantopa/xiuhcoatl-Sequoia-spack/opt/spack/darwin-sequoia-skylake/apple-clang-16.0.0/zlib-ng-2.2.3-ceovzromce7boc2atjhokf45oflddvva
+[+] /Users/dantopa/xiuhcoatl-Sequoia-spack/opt/spack/darwin-skylake/legion-25.03.0-oanlzk7ggf4ce5xbvynntyn2nz3qyish
+dantopa@Xiuhcoatl:xiuhcoatl-Sequoia-spack $ spack stage legion
+==> Warning: The packages:all:compiler preference has been deprecated in Spack v1.0, and is currently ignored. It will be removed from config in Spack v1.2.
+==> Warning: The packages:all:compiler preference has been deprecated in Spack v1.0, and is currently ignored. It will be removed from config in Spack v1.2.
+==> Warning: The packages:all:compiler preference has been deprecated in Spack v1.0, and is currently ignored. It will be removed from config in Spack v1.2.
+==> Using cached archive: /Users/dantopa/xiuhcoatl-Sequoia-spack/var/spack/cache/_source-cache/git//StanfordLegion/legion.git/04716e3b3686d4af71e6a4398dfbe8cd869c057b.tar.gz
+==> Warning: Using download cache instead of version control
+  The required sources are normally checked out from a version control system, but have been archived in download cache: file:///Users/dantopa/xiuhcoatl-Sequoia-spack/var/spack/cache/_source-cache/git//StanfordLegion/legion.git/04716e3b3686d4af71e6a4398dfbe8cd869c057b.tar.gz. Spack lacks a tree hash to verify the integrity of this archive. Make sure your download cache is in a secure location.
+==> Staged legion in /var/folders/z2/dyld4b113d72phgychy5cs2h0000gn/T/dantopa/spack-stage/spack-stage-legion-25.03.0-oanlzk7ggf4ce5xbvynntyn2nz3qyish
+dantopa@Xiuhcoatl:xiuhcoatl-Sequoia-spack $ spack cd legion
+==> Warning: The packages:all:compiler preference has been deprecated in Spack v1.0, and is currently ignored. It will be removed from config in Spack v1.2.
+==> Warning: The packages:all:compiler preference has been deprecated in Spack v1.0, and is currently ignored. It will be removed from config in Spack v1.2.
+==> Warning: The packages:all:compiler preference has been deprecated in Spack v1.0, and is currently ignored. It will be removed from config in Spack v1.2.
+dantopa@Xiuhcoatl:spack-src $ ls
+apps			CMakeLists.txt		Dockerfile		language		README.perf.md		test			VERSION
+bindings		deprecated		doxygen			LICENSE.txt		README.test.md		test.py
+CHANGES.txt		doc			examples		perf.py			realm			tools
+cmake			docker			jupyter_notebook	README.md		runtime			tutorial
