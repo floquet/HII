@@ -1,0 +1,26 @@
+Alright, I preface this noting that I did all this on scratch paper, which means that the pages are full of scratch-outs, notes about mistakes, and probably some inconsistencies. To remediate this shortcoming, I'll go page-by-page and note any obscurities as I go.
+
+As for the setup of the problem. We are attempting to calculate two things: (1) the radiance (W/m^2/sr, where sr is steradians for a solid angle) incident upon a satellite due to solar radiation reflected by the Earth and (2) radiant intensity (W/sr) exitant from the spherical satellite. We assume that both the satellite and the Earth have constant Bidirectional reflectance distribution functions (BRDF). These are essentially kernels for transforming incident irradiance (W/m^2) to exiting radiance. We further assume only reflection and no scattering. The following two references are good overviews of the theory (https://www.cs.cornell.edu/courses/cs6630/2012sp/notes/02radiom.pdf and https://www.cs.cornell.edu/courses/cs6630/2022fa/notes/scattering-notes.pdf)
+
+To calculate (1), we do two integrations. First, we integrate over the radiance distribution incident on the Earth from the sun. Since the sun is so far away, this distribution is just a delta function, indicating a point source. Total solar irradiance (SSI) is constant (epsilon_s).
+
+The first integral yields the exiting radiance at a point on the Earth's surface. This term is then used as the radiance distribution in the second integral, which computes the exiting radiance from the satellite. For both integrals, the domain includes all solid angles on the unit sphere that have lines of radiation going through them.
+
+This second integration is the tedious one whose evaluation continues until page 7. The integrand consists of three inner products that measure alignment for solar incident radiation, Earth exiting radiance, and satellite incident radiance. 
+
+After we calculate (1), we use this result as a radiance distribution in the calculation of (2). The calculation of (2) is an integration over the illuminated area of the satellite as seen by the observer. To use the result of (1), we rotate the satellite normal from the Earth reference frame to the satellite reference frame, and then integrate in the satellite reference frame.
+
+Given that limited summary, here are the main points page-by-page. 
+
+Page 1 - The vector pictures define the inter-body vectors as the phase angles between the bodies. The BRDF and SSI constants are defined. 
+Page 2 - I define the relation between an area on the Earth and a solid angle in the domain of integration. This defines the second integral. I then define the Earth-Sun vector. The crossed-out portion had a mistake, so ignore it.
+Page 3 - I define the Earth-satellite vector (I use platform and satellite interchangeably). R_E is the Earth radius. Theta-plane means a plane formed if we vary theta but not phi or r. I initially made a mistake when defining omega_sun. It is correctly defined at the bottom of the page. Ignore the definition of the satellite normal. For now, the satellite normal is defined in the Earth reference frame.
+Page 3 continued - omega_plat in spherical coordinates is (D_p, pi/2, pi/2) when correctly defined.
+Page 4 - The integral is not tractable with the 4th-power of the earth-satellite distance in the denominator. I make an approximation here and make this distance a constant. Here, I define the integration boundaries. To make sense of it, consider the example - if the phase angle is pi/2, then only half of the illuminated part of the Earth is visible to the satellite.
+Page 5 - I used wolfram alpha to help me with the integration. Most of this page is just chicken scratch as I applied integration limits. The final RHS contains the applied limits. Ignore the crossed-out terms.
+Page 6 - I group all the terms multiplied by the satellite normal vector components. On the second line of kp1 evaluation, please ignore the cross-outs.
+Page 7 - The first half summarizes the work until now. Note that the constants kp1 and kp2 can be simplified more, and I do so on the last two pages of the document. The second half of the page is where I start defining the radiant intensity integral in the satellite-centered spherical coordinates.
+Page 8 - I define the rotation differences between the satellite coordinates and Earth coordinates. I also define necessary manipulations to transform from Earth to satellite coordinates. theta_obs is the same as theta_pp found on page 1.
+Page 9 - I ignore translational differences between satellite and Earth coordinates since the inner product only concerns unit vector directions.
+Page 10 - I continue evaluation of the radiant intensity integral until I get the summarized answer at the bottom of the page
+Page 11 + 12 - these two pages just include simplifications of the constants kp1 and kp2.
